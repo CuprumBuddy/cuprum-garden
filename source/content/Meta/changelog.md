@@ -1,5 +1,5 @@
 ## 2025-03-26
-- forked the  repo from Defender
+- forked the [[DRAFT Obsidian Quartz GitHub Pages Template|Obsidian / Quartz / GitHub Pages Template]] repo from Defender
 - installed plugins:
 	- [[Obsidian Keep the Rhythm|Keep the Rhythm]]
 	- [[DRAFT Obsidian Smart Typography|Smart Typography]]
