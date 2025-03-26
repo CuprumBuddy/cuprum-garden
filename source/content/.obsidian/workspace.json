@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/DRAFT \"Betwixt\".md",
+                "file": "Meta/colophon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DRAFT \"Betwixt\""
+              "title": "colophon"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/DRAFT \"Betwixt\".md",
+                "file": "Meta/colophon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DRAFT \"Betwixt\""
+              "title": "Backlinks for colophon"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/DRAFT \"Betwixt\".md",
+                "file": "Meta/colophon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DRAFT \"Betwixt\""
+              "title": "Outgoing links from colophon"
             }
           },
           {
@@ -187,15 +187,17 @@
   },
   "active": "d361998e9aea9735",
   "lastOpenFiles": [
-    "Sources/DRAFT \"Academagia\".md",
+    "Tools/DRAFT Quartz.md",
+    "Meta/colophon.md",
+    "Questions/DRAFT Why 'colophon' is called like that?.md",
     "Sources/DRAFT \"Betwixt\".md",
+    "Sources/DRAFT \"Academagia\".md",
     "Sources/DRAFT \"Answered Prayers\".md",
     "Sources/DRAFT \"A Study in Emerald\" (Neil Gaiman).md",
     "Meta/DRAFT faq.md",
     "Sources/DRAFT \"Sacrificial Trash\" (Sarah Z).md",
     "Sources/DRAFT \"The Rise and Fall of Replika\" (Sarah Z).md",
     "Sources/DRAFT \"The Narcissist Scare\" (Sarah Z).md",
-    "Meta/colophon.md",
     "Curiosities/DRAFT \"a camel is a horse designed by a committee\".md",
     "_templates",
     "Projects/DRAFT A Corporate Practical Guide to Evil.md",
@@ -217,9 +219,7 @@
     "Questions",
     "People/DRAFT Lauren Bousfield.md",
     "Projects/A Corporate Practical Guide to Evil",
-    "Tools/DRAFT TiddlyWiki.md",
     "People",
-    "Tools/DRAFT Zotero.md",
     "_img",
     "Tools",
     "Projects"
