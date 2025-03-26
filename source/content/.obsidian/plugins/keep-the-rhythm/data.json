@@ -41,7 +41,7 @@
     "undefined": {},
     "2a7e609d-7532-497c-8c89-7a4ac50d99b5": {
       "2025-03-26": {
-        "totalDelta": 499,
+        "totalDelta": 508,
         "files": {
           "Meta/colophon.md": {
             "initial": 138,
@@ -78,10 +78,6 @@
           "Tools/drafts/DRAFT Zotero.md": {
             "initial": 0,
             "current": 0
-          },
-          "Sources/DRAFT \"Birthright\" (Joshua Williamson).md": {
-            "initial": 462,
-            "current": 468
           },
           "Sources/drafts/DRAFT \"Eversion\".md": {
             "initial": 0,
@@ -182,6 +178,10 @@
           "Sources/drafts/DRAFT \"Say It Loud\".md": {
             "initial": 0,
             "current": 7
+          },
+          "Sources/\"Birthright\" (Joshua Williamson).md": {
+            "initial": 462,
+            "current": 477
           }
         }
       }

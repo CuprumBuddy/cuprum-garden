@@ -27,14 +27,12 @@
             "id": "f30e5b6c4b331d87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Meta/colophon.md",
-                "mode": "source",
-                "source": false
+                "file": "_img/ッBirthright landscape.png"
               },
-              "icon": "lucide-file",
-              "title": "colophon"
+              "icon": "lucide-image",
+              "title": "ッBirthright landscape"
             }
           }
         ],
@@ -95,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.5
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/colophon.md",
+                "file": "_img/ッBirthright landscape.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for colophon"
+              "title": "Backlinks for ッBirthright landscape"
             }
           },
           {
@@ -130,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/colophon.md",
+                "file": "_img/ッBirthright landscape.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from colophon"
+              "title": "Outgoing links from ッBirthright landscape"
             }
           },
           {
@@ -193,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +207,9 @@
   },
   "active": "f30e5b6c4b331d87",
   "lastOpenFiles": [
+    "_img/ッMikey.png",
+    "Sources/\"Birthright\" (Joshua Williamson).md",
+    "Meta/colophon.md",
     "Sources/drafts/DRAFT \"Say It Loud\".md",
     "Sources/drafts/DRAFT \"Half-assing it with everything you've got\".md",
     "Sources/drafts/DRAFT \"The correct response to uncertainty is not half-speed\".md",
@@ -227,25 +228,21 @@
     "Sources/drafts/DRAFT \"Memory of the World Programme\" (Wikipedia).md",
     "_img/ッВедьмин час.png",
     "_img/CGP Grey - Your Theme [0m13s].png",
-    "_img/Untitled.png",
+    "_img/ッBirthright landscape.png",
     "_img/photo_2025-03-18_16-17-10.jpg",
-    "_img/Mikey.png",
     "_img/ッacademagia - logo.png",
     "_img/ッalice madness returns - cover.png",
     "_img/ッalter ego game - logo.png",
     "_img/ッamerican mcgees alice - cover.png",
     "_img/ッcats dont dance poster.png",
-    "Sources/DRAFT \"Birthright\" (Joshua Williamson).md",
     "Sources/drafts/DRAFT \"Ведьмин час\".md",
     "Sources/DRAFT \"slash pages\".md",
     "Collages/drafts/DRAFT The Many Ways to Experience Time.md",
     "Collages/drafts",
     "Meta/roadmap.md",
-    "Meta/colophon.md",
     "Meta/changelog.md",
     "Projects/drafts/DRAFT Wear a nametag daily while visiting uni and events.md",
     "Sources/drafts/DRAFT \"В огороде Деррида\".md",
-    "Sources/drafts/DRAFT \"Анализ социополитического дискурса\".md",
     "Curiosities/drafts",
     "Meta/drafts",
     "People/drafts",
