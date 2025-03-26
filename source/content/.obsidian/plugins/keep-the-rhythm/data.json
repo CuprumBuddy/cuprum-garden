@@ -1,0 +1,86 @@
+{
+  "settings": {
+    "intensityLevels": {
+      "low": 100,
+      "medium": 500,
+      "high": 1000
+    },
+    "colors": {
+      "light": {
+        "level_0": "#e0e0e0",
+        "level_1": "#9be9a8",
+        "level_2": "#6ad286",
+        "level_3": "#2ebd54",
+        "level_4": "#12a53e"
+      },
+      "dark": {
+        "level_0": "#ebedf015",
+        "level_1": "#0e4429",
+        "level_2": "#006d32",
+        "level_3": "#26a641",
+        "level_4": "#39d353"
+      }
+    },
+    "showOverview": true,
+    "showEntries": true,
+    "showHeatmap": true,
+    "enabledScripts": [
+      "LATIN",
+      "CJK",
+      "JAPANESE",
+      "KOREAN",
+      "CYRILLIC",
+      "GREEK",
+      "ARABIC",
+      "HEBREW",
+      "INDIC",
+      "SOUTHEAST_ASIAN"
+    ]
+  },
+  "devices": {
+    "undefined": {},
+    "2a7e609d-7532-497c-8c89-7a4ac50d99b5": {
+      "2025-03-26": {
+        "totalDelta": 204,
+        "files": {
+          "Meta/colophon.md": {
+            "initial": 138,
+            "current": 218
+          },
+          "Meta/changelog.md": {
+            "initial": 19,
+            "current": 33
+          },
+          "Meta/roadmap.md": {
+            "initial": 31,
+            "current": 34
+          },
+          "Tools/Obsidian Keep the Rhythm.md": {
+            "initial": 0,
+            "current": 102
+          },
+          "Tools/DRAFT Obsidian Smart Typography.md": {
+            "initial": 5,
+            "current": 5
+          },
+          "Tools/DRAFT Obsidian Quartz GitHub Pages Template.md": {
+            "initial": 0,
+            "current": 5
+          },
+          "People/DRAFT Lauren Bousfield.md": {
+            "initial": 53,
+            "current": 53
+          },
+          "Tools/DRAFT Obsidian Git.md": {
+            "initial": 5,
+            "current": 5
+          },
+          "Tools/DRAFT Zotero.md": {
+            "initial": 0,
+            "current": 0
+          }
+        }
+      }
+    }
+  }
+}

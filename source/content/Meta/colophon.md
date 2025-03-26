@@ -5,5 +5,10 @@ I've used [Host your Obsidian notebook on GitHub Pages for free](https://dev.to/
 [[DRAFT Quartz|Quartz]] transforms Markdown files into HTML. Think of it as of a front-end.
 ## Obsidian Plugins
 These plugins mostly affect Markdown files.
+### Visible on the site
+Tools that directly affect how users see this site. Potentially useful both for public and private vaults.
 - [[DRAFT Obsidian Git|Git]]
 - [[DRAFT Obsidian Smart Typography|Smart Typography]]: converts symbols into prettier ones, e.g. `<=` into ≤, `<-` into ← and so on.  
+### Visible in Obsidian
+Kind of a backstage/back-end: while I can’t directly share the results of these plugin’s work on a site built with [[DRAFT Quartz|Quartz]], they help me keep writing.
+- [[Obsidian Keep the Rhythm|Obsidian Keep the Rhythm]]: counts how many words I wrote daily/weekly/yearly and generates a pretty heatmap based on these statistics.
