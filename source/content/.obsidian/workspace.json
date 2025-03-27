@@ -26,17 +26,51 @@
           {
             "id": "f30e5b6c4b331d87",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_img/ッBirthright landscape.png"
+                "file": "Sources/\"Level Clear!\" (Tom Cardy).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ッBirthright landscape"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "\"Level Clear!\" (Tom Cardy)"
+            }
+          },
+          {
+            "id": "f441ce2adbad88b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorials/How to get a picture of a YouTube thumbnail.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "How to get a picture of a YouTube thumbnail"
+            }
+          },
+          {
+            "id": "62f2208f52677fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/\"Level Clear!\" (Tom Cardy).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "\"Level Clear!\" (Tom Cardy)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_img/ッBirthright landscape.png",
+                "file": "Sources/\"Level Clear!\" (Tom Cardy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ッBirthright landscape"
+              "title": "Backlinks for \"Level Clear!\" (Tom Cardy)"
             }
           },
           {
@@ -128,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_img/ッBirthright landscape.png",
+                "file": "Sources/\"Level Clear!\" (Tom Cardy).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ッBirthright landscape"
+              "title": "Outgoing links from \"Level Clear!\" (Tom Cardy)"
             }
           },
           {
@@ -205,52 +239,53 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "f30e5b6c4b331d87",
+  "active": "62f2208f52677fd9",
   "lastOpenFiles": [
+    "Sources/DRAFT \"slash pages\".md",
+    "Tutorials/How to get a picture of a YouTube thumbnail.md",
+    "Sources/\"Level Clear!\" (Tom Cardy).md",
+    "_img/Pasted image 20250327114113.png",
+    "Tutorials/drafts",
+    "Tutorials",
+    "_img/Pasted image 20250327113540.png",
+    "Meta/changelog.md",
+    "_img/Pasted image 20250327113407.png",
+    "Tools/drafts/DRAFT \"The Anatomy of Loneliness\" (Chikako Ozawa-de Silva ).md",
+    "_img/Pasted image 20250327113258.png",
+    "Sources/drafts/DRAFT \"Камо грядеши\".md",
+    "Sources/drafts/DRAFT \"Music » SiIvaGunner\".md",
+    "Sources/drafts/DRAFT \"Arcane\".md",
+    "Sources/drafts/DRAFT \"The Intellectual Obesity Crisis\".md",
+    "Sources/drafts/DRAFT \"Cryptovirology\" (Wikipedia).md",
+    "Sources/drafts/DRAFT \"What's Up Danger\".md",
+    "Sources/drafts/DRAFT \"Panty & Stocking with Garterbelt\".md",
+    "Sources/drafts/DRAFT \"DuckTales (2017)\".md",
+    "Tools/drafts/DRAFT WikiData.md",
+    "Sources/drafts/DRAFT \"Сондерс вскрывает Чехова – мы вскрываем Сондерса\".md",
+    "Sources/drafts/DRAFT \"You Get About Five Words\" (Raemon).md",
+    "Sources/drafts/DRAFT \"🧘 Сухо (и мокро) про ретрит по Гоенке \".md",
+    "Sources/drafts/DRAFT \"Sting Entertainment\" (Wikipedia).md",
+    "Sources/drafts/DRAFT \"Пацифизм губит ухоженные сады\".md",
+    "Sources/drafts/DRAFT \"explain xkcd\".md",
+    "Sources/drafts/DRAFT \"Завтра я всегда бывала львом\".md",
+    "Tools/drafts/DRAFT Bottles.md",
+    "Sources/drafts/DRAFT \"Здравый смысл и история (заметки к полемической эпитафии Н.Н. Страхова «Вздох на гробе Карамзина»)\".md",
+    "Sources/drafts/DRAFT \"Ф. Ницше о современном человеке в пространстве политического\".md",
+    "Sources/drafts/DRAFT \"Локус контроля\" (Википедия).md",
+    "Sources/drafts/DRAFT \"К рассмотрению семантической эволюции понятия «утопия»\".md",
+    "Idea Diving",
+    "_img/ッBirthright landscape.png",
     "_img/ッMikey.png",
-    "Sources/\"Birthright\" (Joshua Williamson).md",
-    "Meta/colophon.md",
-    "Sources/drafts/DRAFT \"Say It Loud\".md",
-    "Sources/drafts/DRAFT \"Half-assing it with everything you've got\".md",
-    "Sources/drafts/DRAFT \"The correct response to uncertainty is not half-speed\".md",
-    "Tools/drafts/DRAFT floccus.md",
-    "Questions/drafts/DRAFT What could goal factoring software look like?.md",
-    "Meta/drafts/DRAFT resume.md",
-    "Meta/drafts/DRAFT anti-resume.md",
-    "Sources/drafts/DRAFT \"Learn You a Haskell for Great Good!\".md",
-    "Sources/drafts/DRAFT \"Factorio\".md",
-    "Tools/drafts/DRAFT Google Books Ngram Viewer.md",
-    "Sources/drafts/DRAFT \"Иллюзия глубокого понимания\".md",
-    "Tools/drafts/DRAFT Try Haskell.md",
-    "Tools/drafts/DRAFT Substack2Markdown.md",
-    "Sources/drafts/DRAFT \"A Narrative of the Travels and Adventures of Paul Aermont Among the Planets\".md",
-    "Sources/drafts/DRAFT \"Google Arts & Culture\".md",
-    "Sources/drafts/DRAFT \"Memory of the World Programme\" (Wikipedia).md",
     "_img/ッВедьмин час.png",
     "_img/CGP Grey - Your Theme [0m13s].png",
-    "_img/ッBirthright landscape.png",
     "_img/photo_2025-03-18_16-17-10.jpg",
     "_img/ッacademagia - logo.png",
-    "_img/ッalice madness returns - cover.png",
-    "_img/ッalter ego game - logo.png",
-    "_img/ッamerican mcgees alice - cover.png",
-    "_img/ッcats dont dance poster.png",
-    "Sources/drafts/DRAFT \"Ведьмин час\".md",
-    "Sources/DRAFT \"slash pages\".md",
-    "Collages/drafts/DRAFT The Many Ways to Experience Time.md",
     "Collages/drafts",
-    "Meta/roadmap.md",
-    "Meta/changelog.md",
-    "Projects/drafts/DRAFT Wear a nametag daily while visiting uni and events.md",
-    "Sources/drafts/DRAFT \"В огороде Деррида\".md",
     "Curiosities/drafts",
     "Meta/drafts",
     "People/drafts",
     "Projects/drafts",
     "Questions/drafts",
-    "Sources/drafts",
-    "Thoughts/drafts",
-    "Tools/drafts",
-    "_templates"
+    "Sources/drafts"
   ]
 }

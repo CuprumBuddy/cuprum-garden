@@ -41,7 +41,7 @@
     "undefined": {},
     "2a7e609d-7532-497c-8c89-7a4ac50d99b5": {
       "2025-03-26": {
-        "totalDelta": 508,
+        "totalDelta": 586,
         "files": {
           "Meta/colophon.md": {
             "initial": 138,
@@ -182,6 +182,307 @@
           "Sources/\"Birthright\" (Joshua Williamson).md": {
             "initial": 462,
             "current": 477
+          },
+          "Sources/drafts/DRAFT \"Гайд по встречам для начинающих ситхов\".md": {
+            "initial": 0,
+            "current": 6
+          },
+          "Sources/drafts/DRAFT \"Secrets of the eliminati\" (Scott Alexander).md": {
+            "initial": 0,
+            "current": 7
+          },
+          "Sources/drafts/DRAFT \"🚄 Переезд в Японию 🎌\".md": {
+            "initial": 0,
+            "current": 5
+          },
+          "Sources/drafts/DRAFT \"Управление задачами и проектами в Notion\".md": {
+            "initial": 0,
+            "current": 5
+          },
+          "Sources/drafts/DRAFT \"Notion - организация дел\".md": {
+            "initial": 0,
+            "current": 6
+          },
+          "Sources/drafts/DRAFT \"Smash Your Word Count Goals in 3 Easy Steps\".md": {
+            "initial": 0,
+            "current": 7
+          },
+          "Sources/drafts/DRAFT \"Role-Playing Game\" (TVTropes).md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Sources/drafts/DRAFT \"OFF\" (the game).md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT Локус контроля (Википедия).md": {
+            "initial": 0,
+            "current": 34
+          }
+        }
+      },
+      "2025-03-27": {
+        "totalDelta": 739,
+        "files": {
+          "Sources/drafts/DRAFT \"In What Sense Is AI Poetry Indistinguishable from Human Poetry\" (Soren Bjornstad).md": {
+            "initial": 0,
+            "current": 4
+          },
+          "Sources/drafts/DRAFT \"Don’t Measure the Quality of Your Life Using the Temperature of Your Nachos\" (Soren Bjornstad).md": {
+            "initial": 0,
+            "current": 4
+          },
+          "Sources/drafts/DRAFT \"Empirical testing of the SM-2 algorithm’s performance on scheduling overdue cards\" (Soren Bjornstad).md": {
+            "initial": 0,
+            "current": 11
+          },
+          "Sources/drafts/DRAFT \"Parody Video Games\" (TVTropes).md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Yume Nikki\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \".flow\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Yume 2kki\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Braid\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Wedding Dash\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Fez\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Owlboy\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Danganronpa\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Death Note\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Nightmare Ned\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Nox\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"There Is No Game\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"SuperTux\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"LSD - Dream Emulator\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "People/drafts/DRAFT Allie X.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"One Foot Out the Door\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Сочувствуя агрессии - как современные кинокомиксы рассказывают об идеологии насилия\".md": {
+            "initial": 0,
+            "current": 5
+          },
+          "Sources/drafts/DRAFT \"A Turnabout To El Dorado\".md": {
+            "initial": 0,
+            "current": 11
+          },
+          "Sources/drafts/DRAFT \"Loot Box Quest\" (TVTropes).md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Sources/drafts/DRAFT \"Играм нужно вернуться к чёрно-белой морали\".md": {
+            "initial": 0,
+            "current": 6
+          },
+          "Sources/drafts/DRAFT \"Краткое руководство по умным персонажам\".md": {
+            "initial": 0,
+            "current": 83
+          },
+          "Sources/drafts/DRAFT \"Adobe Flash » Media Notes\" (TVTropes).md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Sources/drafts/DRAFT \"Indie Game\" (TVTropes).md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Tools/drafts/DRAFT Flashpoint.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Tools/drafts/DRAFT Wayback Machine.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Tools/drafts/DRAFT Anki.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/\"Birthright\" (Joshua Williamson).md": {
+            "initial": 477,
+            "current": 477
+          },
+          "Sources/drafts/DRAFT \"Категория - Культура компьютерных игр\" (Википедия).md": {
+            "initial": 0,
+            "current": 77
+          },
+          "Sources/drafts/DRAFT \"Beginner’s guide to reducing s-risks\".md": {
+            "initial": 0,
+            "current": 4
+          },
+          "Sources/drafts/DRAFT \"An AI note taking tool paradox\".md": {
+            "initial": 0,
+            "current": 5
+          },
+          "Sources/drafts/DRAFT \"Autistic individuals have increased risk of chronic physical health conditions across the whole body\".md": {
+            "initial": 0,
+            "current": 14
+          },
+          "Sources/drafts/DRAFT \"Game Mechanics\" (TVTropes).md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Sources/drafts/DRAFT \"Haikyo - Abandoned Japan\".md": {
+            "initial": 0,
+            "current": 3
+          },
+          "Sources/drafts/DRAFT \"Bizarre Puzzle Game\".md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Sources/drafts/DRAFT \"Исповедь минималиста\".md": {
+            "initial": 0,
+            "current": 5
+          },
+          "Sources/drafts/DRAFT \"К рассмотрению семантической эволюции понятия «утопия»\".md": {
+            "initial": 0,
+            "current": 13
+          },
+          "Sources/drafts/DRAFT \"Локус контроля\" (Википедия).md": {
+            "initial": 34,
+            "current": 34
+          },
+          "Sources/drafts/DRAFT \"Ф. Ницше о современном человеке в пространстве политического\".md": {
+            "initial": 0,
+            "current": 13
+          },
+          "Sources/drafts/DRAFT \"Здравый смысл и история (заметки к полемической эпитафии Н.Н. Страхова «Вздох на гробе Карамзина»)\".md": {
+            "initial": 0,
+            "current": 13
+          },
+          "Tools/drafts/DRAFT Bottles.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Завтра я всегда бывала львом\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"explain xkcd\".md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Sources/drafts/DRAFT \"Пацифизм губит ухоженные сады\".md": {
+            "initial": 0,
+            "current": 60
+          },
+          "Sources/drafts/DRAFT \"Sting Entertainment\" (Wikipedia).md": {
+            "initial": 0,
+            "current": 6
+          },
+          "Sources/drafts/DRAFT \"🧘 Сухо (и мокро) про ретрит по Гоенке \".md": {
+            "initial": 0,
+            "current": 5
+          },
+          "Sources/drafts/DRAFT \"You Get About Five Words\" (Raemon).md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Sources/drafts/DRAFT \"Сондерс вскрывает Чехова – мы вскрываем Сондерса\".md": {
+            "initial": 0,
+            "current": 5
+          },
+          "Sources/drafts/DRAFT \"DuckTales (2017)\".md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Tools/drafts/DRAFT WikiData.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Panty & Stocking with Garterbelt\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Cryptovirology\" (Wikipedia).md": {
+            "initial": 0,
+            "current": 7
+          },
+          "Sources/drafts/DRAFT \"What's Up Danger\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"The Intellectual Obesity Crisis\".md": {
+            "initial": 0,
+            "current": 6
+          },
+          "Sources/drafts/DRAFT \"Arcane\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Music » SiIvaGunner\".md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Sources/drafts/DRAFT \"Камо грядеши\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Tools/drafts/DRAFT \"The Anatomy of Loneliness\" (Chikako Ozawa-de Silva ).md": {
+            "initial": 0,
+            "current": 29
+          },
+          "Meta/changelog.md": {
+            "initial": 44,
+            "current": 44
+          },
+          "Sources/\"Level Clear!\" (Tom Cardy).md": {
+            "initial": 0,
+            "current": 214
+          },
+          "Tutorials/How to get a picture of a YouTube thumbnail.md": {
+            "initial": 0,
+            "current": 64
+          },
+          "Sources/DRAFT \"slash pages\".md": {
+            "initial": 0,
+            "current": 0
           }
         }
       }
