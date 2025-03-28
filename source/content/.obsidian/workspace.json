@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💜 Meta/changelog.md",
+                "file": "Sources/“Birthright” (Joshua Williamson).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "changelog"
+              "title": "“Birthright” (Joshua Williamson)"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💜 Meta/changelog.md",
+                "file": "Sources/“Birthright” (Joshua Williamson).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of changelog"
+              "title": "Outline of “Birthright” (Joshua Williamson)"
             }
           },
           {
@@ -248,14 +248,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "967de0bd04797223",
+  "active": "0f13aa967d090a2a",
   "lastOpenFiles": [
+    "💜 Meta/changelog.md",
     "💜 Meta/colophon.md",
     "Tools/drafts/DRAFT Citations (Quartz plugin).md",
     "Sources/drafts/DRAFT \"Архитектура японских школ\".md",
     "Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md",
     "💜 Meta/roadmap.md",
-    "💜 Meta/changelog.md",
     "Projects/drafts/DRAFT Wear a nametag daily while visiting uni and events.md",
     "Projects/Done",
     "Projects/Ideas",

@@ -22,4 +22,4 @@
 	- [[colophon]] 
 	- [[roadmap]]
 	- [[Obsidian Keep the Rhythm]]
-	- [["Birthright" (Joshua Williamson)]]
+	- [[“Birthright” (Joshua Williamson)]]

@@ -2,7 +2,7 @@
 
 > For the Rhodes family, losing their son was the most devastating thing that could've ever occurred… but it couldn't prepare them for what happened when he returned.
 
-Found via [["Trapped in Another World" (TVTropes)]], which is a spoiler by itself... I guess.
+Found via [["Trapped in Another World" (TVTropes)]], which is a spoiler by itself... I “guess.”
 
 You know, sometimes I see something on TVTropes and think: "Hoo boy, we are in for a ride".
 
