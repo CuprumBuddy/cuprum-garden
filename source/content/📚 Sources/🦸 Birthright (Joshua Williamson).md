@@ -1,14 +1,14 @@
 ---
-title:
-description:
+title: 
+description: 
 lang: en-US
-tags:
-alias:
-cover:
-draft: true
-created:
-modified:
-published:
+tags: 
+aliases: 
+cover: 
+draft: false
+created: 
+modified: 
+published: 
 enableToc: true
 ---
 
