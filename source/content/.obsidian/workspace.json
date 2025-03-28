@@ -45,31 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/🎵 Level Clear (Tom Cardy).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "🎵 Level Clear (Tom Cardy)"
-            }
-          },
-          {
-            "id": "70fa04d18b994b5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/🎵 Level Clear (Tom Cardy).md",
+                "file": "📚 Sources/🎵 Level Clear (Tom Cardy).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/🎵 Level Clear (Tom Cardy).md",
+                "file": "📚 Sources/🎵 Level Clear (Tom Cardy).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -272,17 +248,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "70fa04d18b994b5a",
+  "active": "967de0bd04797223",
   "lastOpenFiles": [
-    "Sources/🦸 Birthright (Joshua Williamson).md",
+    "💜 Meta/colophon.md",
+    "💜 Meta/changelog.md",
+    "📚 Sources/🎵 Level Clear (Tom Cardy).md",
+    "📚 Sources/🦸 Birthright (Joshua Williamson).md",
     "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
     "Questions/drafts/DRAFT Why 'colophon' is called like that?.md",
     "Tools/drafts/DRAFT Citations (Quartz plugin).md",
-    "Sources/🎵 Level Clear (Tom Cardy).md",
-    "💜 Meta/changelog.md",
-    "💜 Meta/colophon.md",
-    "Sources/drafts/DRAFT \"Архитектура японских школ\".md",
-    "Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md",
+    "📚 Sources/drafts/DRAFT \"Архитектура японских школ\".md",
+    "📚 Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md",
     "💜 Meta/roadmap.md",
     "Projects/drafts/DRAFT Wear a nametag daily while visiting uni and events.md",
     "Projects/Done",
@@ -290,20 +266,20 @@
     "Projects/drafts/DRAFT A Corporate Practical Guide to Evil.md",
     "Tools/drafts/DRAFT followish.io.md",
     "💜 Meta/drafts/DRAFT contacts.md",
-    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
+    "📚 Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
     "Collages/drafts/DRAFT The Many Ways to Experience Time.md",
-    "Sources/drafts/DRAFT \"Tear Along the Dotted Line\".md",
+    "📚 Sources/drafts/DRAFT \"Tear Along the Dotted Line\".md",
     "Tools/drafts/DRAFT Obsidian BRAT.md",
     "_img/Pasted image 20250328091739.png",
-    "Sources/drafts/DRAFT \"Relentlessly Mundane\".md",
-    "Sources/drafts/DRAFT \"Focus\" (Allie X).md",
-    "Sources/drafts/DRAFT \"Girl of the Year\" (Allie X).md",
-    "Sources/drafts/DRAFT \"Bitch\" (Allie X).md",
+    "📚 Sources/drafts/DRAFT \"Relentlessly Mundane\".md",
+    "📚 Sources/drafts/DRAFT \"Focus\" (Allie X).md",
+    "📚 Sources/drafts/DRAFT \"Girl of the Year\" (Allie X).md",
+    "📚 Sources/drafts/DRAFT \"Bitch\" (Allie X).md",
     "Tools/Obsidian Keep the Rhythm.md",
     "Tools/drafts/DRAFT Obsidian Latex Suite.md",
-    "Sources/drafts/DRAFT \"Трудности взросления - быть как все или быть собой\".md",
-    "Sources/drafts/DRAFT \"Burrito Bison\" 1, 2 & 3.md",
-    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
+    "📚 Sources/drafts/DRAFT \"Трудности взросления - быть как все или быть собой\".md",
+    "📚 Sources/drafts/DRAFT \"Burrito Bison\" 1, 2 & 3.md",
+    "📚 Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
     "_img/Pasted image 20250327114113.png",
     "Tutorials/drafts",
     "Tutorials",

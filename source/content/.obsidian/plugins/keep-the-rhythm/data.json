@@ -507,7 +507,7 @@
         }
       },
       "2025-03-28": {
-        "totalDelta": 295,
+        "totalDelta": 322,
         "files": {
           "Tools/drafts/DRAFT Obsidian Latex Suite.md": {
             "initial": 0,
@@ -517,41 +517,13 @@
             "initial": 0,
             "current": 0
           },
-          "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md": {
-            "initial": 1084,
-            "current": 1057
-          },
           "Tools/Obsidian Keep the Rhythm.md": {
             "initial": 114,
             "current": 133
           },
-          "Sources/drafts/DRAFT \"Bitch\" (Allie X).md": {
-            "initial": 0,
-            "current": 0
-          },
-          "Sources/drafts/DRAFT \"Girl of the Year\" (Allie X).md": {
-            "initial": 0,
-            "current": 0
-          },
-          "Sources/drafts/DRAFT \"Focus\" (Allie X).md": {
-            "initial": 0,
-            "current": 0
-          },
-          "Sources/drafts/DRAFT \"Tear Along the Dotted Line\".md": {
-            "initial": 0,
-            "current": 4
-          },
-          "Sources/drafts/DRAFT \"Relentlessly Mundane\".md": {
-            "initial": 0,
-            "current": 5
-          },
           "Tools/drafts/DRAFT Obsidian BRAT.md": {
             "initial": 0,
             "current": 93
-          },
-          "Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md": {
-            "initial": 0,
-            "current": 0
           },
           "Tools/drafts/DRAFT followish.io.md": {
             "initial": 0,
@@ -565,10 +537,6 @@
             "initial": 99,
             "current": 99
           },
-          "Sources/drafts/DRAFT \"Архитектура японских школ\".md": {
-            "initial": 0,
-            "current": 8
-          },
           "Tools/drafts/DRAFT Citations (Quartz plugin).md": {
             "initial": 0,
             "current": 39
@@ -579,7 +547,7 @@
           },
           "💜 Meta/colophon.md": {
             "initial": 230,
-            "current": 280
+            "current": 309
           },
           "💜 Meta/roadmap.md": {
             "initial": 34,
@@ -597,13 +565,45 @@
             "initial": 14,
             "current": 14
           },
-          "Sources/🦸 Birthright (Joshua Williamson).md": {
+          "📚 Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md": {
+            "initial": 1084,
+            "current": 1057
+          },
+          "📚 Sources/drafts/DRAFT \"Bitch\" (Allie X).md": {
+            "initial": 0,
+            "current": 0
+          },
+          "📚 Sources/drafts/DRAFT \"Girl of the Year\" (Allie X).md": {
+            "initial": 0,
+            "current": 0
+          },
+          "📚 Sources/drafts/DRAFT \"Focus\" (Allie X).md": {
+            "initial": 0,
+            "current": 0
+          },
+          "📚 Sources/drafts/DRAFT \"Tear Along the Dotted Line\".md": {
+            "initial": 0,
+            "current": 4
+          },
+          "📚 Sources/drafts/DRAFT \"Relentlessly Mundane\".md": {
+            "initial": 0,
+            "current": 5
+          },
+          "📚 Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md": {
+            "initial": 0,
+            "current": 0
+          },
+          "📚 Sources/drafts/DRAFT \"Архитектура японских школ\".md": {
+            "initial": 0,
+            "current": 8
+          },
+          "📚 Sources/🦸 Birthright (Joshua Williamson).md": {
             "initial": 477,
             "current": 477
           },
-          "Sources/🎵 Level Clear (Tom Cardy).md": {
+          "📚 Sources/🎵 Level Clear (Tom Cardy).md": {
             "initial": 214,
-            "current": 221
+            "current": 219
           }
         }
       }
