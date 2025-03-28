@@ -62,9 +62,33 @@
               "icon": "lucide-file",
               "title": "“Level Clear!” (Tom Cardy)"
             }
+          },
+          {
+            "id": "70fa04d18b994b5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/drafts/DRAFT Citations (Quartz plugin).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT Citations (Quartz plugin)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/“Level Clear!” (Tom Cardy).md",
+                "file": "Tools/drafts/DRAFT Citations (Quartz plugin).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of “Level Clear!” (Tom Cardy)"
+              "title": "Outline of DRAFT Citations (Quartz plugin)"
             }
           },
           {
@@ -248,10 +272,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0f13aa967d090a2a",
+  "active": "70fa04d18b994b5a",
   "lastOpenFiles": [
-    "Sources/“Birthright” (Joshua Williamson).md",
     "Sources/“Level Clear!” (Tom Cardy).md",
+    "Sources/“Birthright” (Joshua Williamson).md",
     "💜 Meta/changelog.md",
     "💜 Meta/colophon.md",
     "Tools/drafts/DRAFT Citations (Quartz plugin).md",
