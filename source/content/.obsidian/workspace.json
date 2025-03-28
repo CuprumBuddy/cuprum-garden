@@ -45,9 +45,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/(TMPL) General.md",
+                "file": "📚 Sources/🦸 Birthright (Joshua Williamson).md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "(TMPL) General"
+              "title": "🦸 Birthright (Joshua Williamson)"
             }
           },
           {
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/drafts/DRAFT Citations (Quartz plugin).md",
+                "file": "📚 Sources/🦸 Birthright (Joshua Williamson).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DRAFT Citations (Quartz plugin)"
+              "title": "Outline of 🦸 Birthright (Joshua Williamson)"
             }
           },
           {
@@ -272,14 +272,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fbd904f2ce6c0f8d",
+  "active": "0f13aa967d090a2a",
   "lastOpenFiles": [
     "_templates/(TMPL) General.md",
+    "💜 Meta/changelog.md",
     "Tools/drafts/DRAFT Citations (Quartz plugin).md",
     "📚 Sources/🦸 Birthright (Joshua Williamson).md",
     "📚 Sources/🎵 Level Clear (Tom Cardy).md",
     "💜 Meta/colophon.md",
-    "💜 Meta/changelog.md",
     "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
     "Questions/drafts/DRAFT Why 'colophon' is called like that?.md",
     "📚 Sources/drafts/DRAFT \"Архитектура японских школ\".md",

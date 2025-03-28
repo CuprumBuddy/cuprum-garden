@@ -1,3 +1,17 @@
+---
+title:
+description:
+lang: en-US
+tags:
+alias:
+cover:
+draft: true
+created:
+modified:
+published:
+enableToc: true
+---
+
 ![[ッbirthright comic - cover.png]]
 
 > For the Rhodes family, losing their son was the most devastating thing that could've ever occurred… but it couldn't prepare them for what happened when he returned.
