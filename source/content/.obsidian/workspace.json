@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/“Level Clear!” (Tom Cardy).md",
+                "file": "Sources/🎵 Level Clear! (Tom Cardy).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "“Level Clear!” (Tom Cardy)"
+              "title": "🎵 Level Clear! (Tom Cardy)"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/drafts/DRAFT Citations (Quartz plugin).md",
+                "file": "Sources/🎵 Level Clear! (Tom Cardy).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -84,7 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT Citations (Quartz plugin)"
+              "title": "🎵 Level Clear! (Tom Cardy)"
             }
           }
         ],
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/drafts/DRAFT Citations (Quartz plugin).md",
+                "file": "Sources/🎵 Level Clear! (Tom Cardy).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DRAFT Citations (Quartz plugin)"
+              "title": "Outline of 🎵 Level Clear! (Tom Cardy)"
             }
           },
           {
@@ -274,11 +274,13 @@
   },
   "active": "70fa04d18b994b5a",
   "lastOpenFiles": [
-    "Sources/“Level Clear!” (Tom Cardy).md",
-    "Sources/“Birthright” (Joshua Williamson).md",
+    "Sources/🦸 Birthright (Joshua Williamson).md",
+    "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
+    "Questions/drafts/DRAFT Why 'colophon' is called like that?.md",
+    "Tools/drafts/DRAFT Citations (Quartz plugin).md",
+    "Sources/🎵 Level Clear! (Tom Cardy).md",
     "💜 Meta/changelog.md",
     "💜 Meta/colophon.md",
-    "Tools/drafts/DRAFT Citations (Quartz plugin).md",
     "Sources/drafts/DRAFT \"Архитектура японских школ\".md",
     "Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md",
     "💜 Meta/roadmap.md",
@@ -299,10 +301,8 @@
     "Sources/drafts/DRAFT \"Bitch\" (Allie X).md",
     "Tools/Obsidian Keep the Rhythm.md",
     "Tools/drafts/DRAFT Obsidian Latex Suite.md",
-    "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
     "Sources/drafts/DRAFT \"Трудности взросления - быть как все или быть собой\".md",
     "Sources/drafts/DRAFT \"Burrito Bison\" 1, 2 & 3.md",
-    "Sources/drafts/DRAFT \"Turning Red\".md",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
     "_img/Pasted image 20250327114113.png",
     "Tutorials/drafts",

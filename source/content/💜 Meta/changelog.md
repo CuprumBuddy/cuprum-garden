@@ -10,7 +10,7 @@
 	- added the base URL to Quartz config file, creating the home page
 ## 2025-03-27
 - published pages:
-	- [[“Level Clear!” (Tom Cardy)]]
+	- [[🎵 Level Clear! (Tom Cardy)]]
 	- [[How to get a picture of a YouTube thumbnail]]
 ## 2025-03-26
 - forked the [[DRAFT Obsidian Quartz GitHub Pages Template|Obsidian / Quartz / GitHub Pages Template]] repo from Defender, thus creating this site
@@ -22,4 +22,4 @@
 	- [[colophon]] 
 	- [[roadmap]]
 	- [[Obsidian Keep the Rhythm]]
-	- [[“Birthright” (Joshua Williamson)]]
+	- [[🦸 Birthright (Joshua Williamson)]]
