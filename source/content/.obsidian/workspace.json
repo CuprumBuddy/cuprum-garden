@@ -45,9 +45,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Sources/🎵 Level Clear (Tom Cardy).md",
+                "file": "_templates/(TMPL) General.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -60,11 +60,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🎵 Level Clear (Tom Cardy)"
+              "title": "(TMPL) General"
+            }
+          },
+          {
+            "id": "fbd904f2ce6c0f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/drafts/DRAFT Citations (Quartz plugin).md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT Citations (Quartz plugin)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Sources/🎵 Level Clear (Tom Cardy).md",
+                "file": "Tools/drafts/DRAFT Citations (Quartz plugin).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🎵 Level Clear (Tom Cardy)"
+              "title": "Outline of DRAFT Citations (Quartz plugin)"
             }
           },
           {
@@ -248,15 +272,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "967de0bd04797223",
+  "active": "fbd904f2ce6c0f8d",
   "lastOpenFiles": [
+    "_templates/(TMPL) General.md",
+    "Tools/drafts/DRAFT Citations (Quartz plugin).md",
+    "📚 Sources/🦸 Birthright (Joshua Williamson).md",
+    "📚 Sources/🎵 Level Clear (Tom Cardy).md",
     "💜 Meta/colophon.md",
     "💜 Meta/changelog.md",
-    "📚 Sources/🎵 Level Clear (Tom Cardy).md",
-    "📚 Sources/🦸 Birthright (Joshua Williamson).md",
     "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
     "Questions/drafts/DRAFT Why 'colophon' is called like that?.md",
-    "Tools/drafts/DRAFT Citations (Quartz plugin).md",
     "📚 Sources/drafts/DRAFT \"Архитектура японских школ\".md",
     "📚 Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md",
     "💜 Meta/roadmap.md",
@@ -278,7 +303,6 @@
     "Tools/Obsidian Keep the Rhythm.md",
     "Tools/drafts/DRAFT Obsidian Latex Suite.md",
     "📚 Sources/drafts/DRAFT \"Трудности взросления - быть как все или быть собой\".md",
-    "📚 Sources/drafts/DRAFT \"Burrito Bison\" 1, 2 & 3.md",
     "📚 Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
     "_img/Pasted image 20250327114113.png",
     "Tutorials/drafts",

@@ -3,6 +3,7 @@
 	- [[DRAFT Obsidian BRAT|BRAT]]
 	- [[DRAFT Obsidian Latex Suite|Latex Suite]]
 	- [[DRAFT Citations (Quartz plugin)|Citations (Quartz plugin)]]
+	  - And freaking fixed it in 8 attempts after it broke!!!!!!!
 - updated pages:
 	- [[roadmap]]
 - configured the site:

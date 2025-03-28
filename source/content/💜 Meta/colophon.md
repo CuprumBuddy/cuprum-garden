@@ -16,4 +16,4 @@ Kind of a backstage/back-end: while I can’t directly share the results of thes
 - [[DRAFT Obsidian Latex Suite|Latex Suite]]: makes LaTeX math input considerably faster.
 - [[Obsidian Keep the Rhythm|Keep the Rhythm]]: counts how many words I wrote daily/weekly/yearly and generates a pretty heatmap based on these statistics.
 
-[^1]: This is an example of a footnote. Because this plugin cause issues if it doesn’t like specific symbol in filenames, cuprum garden can’t have pages with `!` of `"` in the title.
+[^1]: This is an example of a footnote.

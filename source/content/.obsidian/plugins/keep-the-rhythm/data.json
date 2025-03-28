@@ -507,7 +507,7 @@
         }
       },
       "2025-03-28": {
-        "totalDelta": 322,
+        "totalDelta": 391,
         "files": {
           "Tools/drafts/DRAFT Obsidian Latex Suite.md": {
             "initial": 0,
@@ -539,15 +539,15 @@
           },
           "Tools/drafts/DRAFT Citations (Quartz plugin).md": {
             "initial": 0,
-            "current": 39
+            "current": 117
           },
           "💜 Meta/changelog.md": {
             "initial": 73,
-            "current": 124
+            "current": 134
           },
           "💜 Meta/colophon.md": {
             "initial": 230,
-            "current": 309
+            "current": 280
           },
           "💜 Meta/roadmap.md": {
             "initial": 34,
@@ -604,6 +604,10 @@
           "📚 Sources/🎵 Level Clear (Tom Cardy).md": {
             "initial": 214,
             "current": 219
+          },
+          "_templates/(TMPL) General.md": {
+            "initial": 0,
+            "current": 10
           }
         }
       }
