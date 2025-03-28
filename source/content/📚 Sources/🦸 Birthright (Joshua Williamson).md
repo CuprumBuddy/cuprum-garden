@@ -6,13 +6,12 @@ tags:
 aliases: 
 cover: 
 draft: false
-created: 
-modified: 
+created: 2025-03-26T15:05:00Z
+modified: 2025-03-28T20:10:13+03:00
 published: 
 enableToc: true
 ---
-
-![[ッbirthright comic - cover.png]]
+ ![[ッbirthright comic - cover.png]]
 
 > For the Rhodes family, losing their son was the most devastating thing that could've ever occurred… but it couldn't prepare them for what happened when he returned.
 

@@ -507,7 +507,7 @@
         }
       },
       "2025-03-28": {
-        "totalDelta": 430,
+        "totalDelta": 528,
         "files": {
           "Tools/drafts/DRAFT Obsidian Latex Suite.md": {
             "initial": 0,
@@ -543,11 +543,11 @@
           },
           "💜 Meta/changelog.md": {
             "initial": 73,
-            "current": 155
+            "current": 192
           },
           "💜 Meta/colophon.md": {
             "initial": 230,
-            "current": 280
+            "current": 296
           },
           "💜 Meta/roadmap.md": {
             "initial": 34,
@@ -599,7 +599,7 @@
           },
           "📚 Sources/🦸 Birthright (Joshua Williamson).md": {
             "initial": 477,
-            "current": 491
+            "current": 506
           },
           "📚 Sources/🎵 Level Clear (Tom Cardy).md": {
             "initial": 214,
@@ -608,6 +608,14 @@
           "_templates/(TMPL) General.md": {
             "initial": 0,
             "current": 14
+          },
+          "📚 Sources/DRAFT \"slash pages\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Tools/drafts/Obsidian Front Matter Timestamps.md": {
+            "initial": 0,
+            "current": 30
           }
         }
       }

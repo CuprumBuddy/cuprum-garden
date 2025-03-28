@@ -1,9 +1,23 @@
+---
+title: 
+description: 
+lang: en-US
+tags: 
+aliases: 
+cover: 
+draft: true
+created: 2025-03-26T12:13:56+03:00
+modified: 2025-03-28T20:09:56+03:00
+published: 
+enableToc: true
+---
 ## 2025-03-28
 - installed and enabled plugins:
 	- [[DRAFT Obsidian BRAT|BRAT]]
 	- [[DRAFT Obsidian Latex Suite|Latex Suite]]
 	- [[DRAFT Citations (Quartz plugin)|Citations (Quartz plugin)]]
 	  - And freaking fixed it by myself on the 8th attempt after it broke!!!!!!!
+	- [[Obsidian Front Matter Timestamps|Front Matter Timestamps]]
 - updated pages:
 	- [[roadmap]]
 - configured the site:
