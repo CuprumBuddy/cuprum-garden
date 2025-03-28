@@ -507,11 +507,91 @@
         }
       },
       "2025-03-28": {
-        "totalDelta": 7,
+        "totalDelta": 270,
         "files": {
           "Sources/\"Level Clear!\" (Tom Cardy).md": {
             "initial": 214,
             "current": 221
+          },
+          "Tools/drafts/DRAFT Obsidian Latex Suite.md": {
+            "initial": 0,
+            "current": 21
+          },
+          "Collages/drafts/DRAFT The Many Ways to Experience Time.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md": {
+            "initial": 1084,
+            "current": 1057
+          },
+          "Tools/Obsidian Keep the Rhythm.md": {
+            "initial": 114,
+            "current": 133
+          },
+          "Sources/drafts/DRAFT \"Bitch\" (Allie X).md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Girl of the Year\" (Allie X).md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Focus\" (Allie X).md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Tear Along the Dotted Line\".md": {
+            "initial": 0,
+            "current": 4
+          },
+          "Sources/drafts/DRAFT \"Relentlessly Mundane\".md": {
+            "initial": 0,
+            "current": 5
+          },
+          "Tools/drafts/DRAFT Obsidian BRAT.md": {
+            "initial": 0,
+            "current": 93
+          },
+          "! Meta/changelog.md": {
+            "initial": 73,
+            "current": 124
+          },
+          "! Meta/colophon.md": {
+            "initial": 230,
+            "current": 280
+          },
+          "! Meta/roadmap.md": {
+            "initial": 34,
+            "current": 56
+          },
+          "! Meta/drafts/DRAFT contacts.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Tools/drafts/DRAFT followish.io.md": {
+            "initial": 0,
+            "current": 3
+          },
+          "Projects/drafts/DRAFT A Corporate Practical Guide to Evil.md": {
+            "initial": 209,
+            "current": 209
+          },
+          "Projects/drafts/DRAFT Wear a nametag daily while visiting uni and events.md": {
+            "initial": 99,
+            "current": 99
+          },
+          "Sources/drafts/DRAFT \"Архитектура японских школ\".md": {
+            "initial": 0,
+            "current": 8
+          },
+          "Tools/drafts/DRAFT Citations (Quartz plugin).md": {
+            "initial": 0,
+            "current": 14
           }
         }
       }
