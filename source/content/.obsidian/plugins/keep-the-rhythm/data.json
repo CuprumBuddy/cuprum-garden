@@ -509,10 +509,6 @@
       "2025-03-28": {
         "totalDelta": 270,
         "files": {
-          "Sources/\"Level Clear!\" (Tom Cardy).md": {
-            "initial": 214,
-            "current": 221
-          },
           "Tools/drafts/DRAFT Obsidian Latex Suite.md": {
             "initial": 0,
             "current": 21
@@ -596,6 +592,10 @@
           "Sources/“Birthright” (Joshua Williamson).md": {
             "initial": 477,
             "current": 477
+          },
+          "Sources/“Level Clear!” (Tom Cardy).md": {
+            "initial": 214,
+            "current": 221
           }
         }
       }

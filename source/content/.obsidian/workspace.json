@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/“Birthright” (Joshua Williamson).md",
+                "file": "Sources/“Level Clear!” (Tom Cardy).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "“Birthright” (Joshua Williamson)"
+              "title": "“Level Clear!” (Tom Cardy)"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/“Birthright” (Joshua Williamson).md",
+                "file": "Sources/“Level Clear!” (Tom Cardy).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of “Birthright” (Joshua Williamson)"
+              "title": "Outline of “Level Clear!” (Tom Cardy)"
             }
           },
           {
@@ -250,6 +250,8 @@
   },
   "active": "0f13aa967d090a2a",
   "lastOpenFiles": [
+    "Sources/“Birthright” (Joshua Williamson).md",
+    "Sources/“Level Clear!” (Tom Cardy).md",
     "💜 Meta/changelog.md",
     "💜 Meta/colophon.md",
     "Tools/drafts/DRAFT Citations (Quartz plugin).md",
@@ -273,13 +275,11 @@
     "Sources/drafts/DRAFT \"Bitch\" (Allie X).md",
     "Tools/Obsidian Keep the Rhythm.md",
     "Tools/drafts/DRAFT Obsidian Latex Suite.md",
-    "Sources/\"Level Clear!\" (Tom Cardy).md",
     "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
     "Sources/drafts/DRAFT \"Трудности взросления - быть как все или быть собой\".md",
     "Sources/drafts/DRAFT \"Burrito Bison\" 1, 2 & 3.md",
     "Sources/drafts/DRAFT \"Turning Red\".md",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
-    "Tutorials/How to get a picture of a YouTube thumbnail.md",
     "_img/Pasted image 20250327114113.png",
     "Tutorials/drafts",
     "Tutorials",
