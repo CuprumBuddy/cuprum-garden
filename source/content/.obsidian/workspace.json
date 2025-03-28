@@ -115,7 +115,7 @@
               "state": {
                 "file": "Tools/drafts/Obsidian Front Matter Timestamps.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Obsidian Front Matter Timestamps"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -315,12 +316,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d361998e9aea9735",
+  "active": "fbd904f2ce6c0f8d",
   "lastOpenFiles": [
     "Tools/drafts/Obsidian Front Matter Timestamps.md",
+    "📚 Sources/🦸 Birthright (Joshua Williamson).md",
     "💜 Meta/changelog.md",
     "💜 Meta/colophon.md",
-    "📚 Sources/🦸 Birthright (Joshua Williamson).md",
     "_templates/(TMPL) General.md",
     "📚 Sources/🎵 Level Clear (Tom Cardy).md",
     "📚 Sources/DRAFT \"slash pages\".md",

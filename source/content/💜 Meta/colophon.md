@@ -1,5 +1,15 @@
 ---
-modified: 2025-03-28T20:12:53+03:00
+title: 
+description: 
+lang: en-US
+tags: 
+alias: 
+cover: 
+draft: false
+created: 2025-03-26T11:18:34+03:00
+modified: 2025-03-28T20:20:14+03:00
+published: 
+enableToc: true
 ---
 i.e. how this site was built. Inspired by `/colophon` from [[DRAFT "slash pages"|slash pages]].
 
