@@ -222,7 +222,7 @@
         }
       },
       "2025-03-27": {
-        "totalDelta": 739,
+        "totalDelta": 1903,
         "files": {
           "Sources/drafts/DRAFT \"In What Sense Is AI Poetry Indistinguishable from Human Poetry\" (Soren Bjornstad).md": {
             "initial": 0,
@@ -470,7 +470,7 @@
           },
           "Meta/changelog.md": {
             "initial": 44,
-            "current": 44
+            "current": 73
           },
           "Sources/\"Level Clear!\" (Tom Cardy).md": {
             "initial": 0,
@@ -483,6 +483,35 @@
           "Sources/DRAFT \"slash pages\".md": {
             "initial": 0,
             "current": 0
+          },
+          "Sources/drafts/DRAFT \"Turning Red\".md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md": {
+            "initial": 0,
+            "current": 1084
+          },
+          "Sources/drafts/DRAFT \"Burrito Bison\" 1, 2 & 3.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Sources/drafts/DRAFT \"Трудности взросления - быть как все или быть собой\".md": {
+            "initial": 0,
+            "current": 7
+          },
+          "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md": {
+            "initial": 0,
+            "current": 44
+          }
+        }
+      },
+      "2025-03-28": {
+        "totalDelta": 7,
+        "files": {
+          "Sources/\"Level Clear!\" (Tom Cardy).md": {
+            "initial": 214,
+            "current": 221
           }
         }
       }

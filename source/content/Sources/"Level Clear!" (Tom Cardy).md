@@ -1,3 +1,8 @@
+---
+URL: https://youtube.com/watch?v=G87p148EOjo
+---
+
+
 ![[Pasted image 20250327113540.png]]
 
 URL: https://youtube.com/watch?v=G87p148EOjo

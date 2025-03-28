@@ -24,39 +24,23 @@
             }
           },
           {
-            "id": "f30e5b6c4b331d87",
+            "id": "62217e7240db2bb1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/\"Level Clear!\" (Tom Cardy).md",
+                "file": "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "\"Level Clear!\" (Tom Cardy)"
+              "title": "DRAFT ! Introduction to Algorithms - TOC"
             }
           },
           {
-            "id": "f441ce2adbad88b1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorials/How to get a picture of a YouTube thumbnail.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "How to get a picture of a YouTube thumbnail"
-            }
-          },
-          {
-            "id": "62f2208f52677fd9",
+            "id": "aa81c8009cf95fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,16 +223,22 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "62f2208f52677fd9",
+  "active": "aa81c8009cf95fcb",
   "lastOpenFiles": [
-    "Sources/DRAFT \"slash pages\".md",
-    "Tutorials/How to get a picture of a YouTube thumbnail.md",
+    "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
+    "Sources/drafts/DRAFT \"Трудности взросления - быть как все или быть собой\".md",
+    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
+    "Meta/changelog.md",
     "Sources/\"Level Clear!\" (Tom Cardy).md",
+    "Sources/drafts/DRAFT \"Burrito Bison\" 1, 2 & 3.md",
+    "Sources/drafts/DRAFT \"Turning Red\".md",
+    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
+    "Tutorials/How to get a picture of a YouTube thumbnail.md",
+    "Sources/DRAFT \"slash pages\".md",
     "_img/Pasted image 20250327114113.png",
     "Tutorials/drafts",
     "Tutorials",
     "_img/Pasted image 20250327113540.png",
-    "Meta/changelog.md",
     "_img/Pasted image 20250327113407.png",
     "Tools/drafts/DRAFT \"The Anatomy of Loneliness\" (Chikako Ozawa-de Silva ).md",
     "_img/Pasted image 20250327113258.png",
@@ -268,11 +258,6 @@
     "Sources/drafts/DRAFT \"Пацифизм губит ухоженные сады\".md",
     "Sources/drafts/DRAFT \"explain xkcd\".md",
     "Sources/drafts/DRAFT \"Завтра я всегда бывала львом\".md",
-    "Tools/drafts/DRAFT Bottles.md",
-    "Sources/drafts/DRAFT \"Здравый смысл и история (заметки к полемической эпитафии Н.Н. Страхова «Вздох на гробе Карамзина»)\".md",
-    "Sources/drafts/DRAFT \"Ф. Ницше о современном человеке в пространстве политического\".md",
-    "Sources/drafts/DRAFT \"Локус контроля\" (Википедия).md",
-    "Sources/drafts/DRAFT \"К рассмотрению семантической эволюции понятия «утопия»\".md",
     "Idea Diving",
     "_img/ッBirthright landscape.png",
     "_img/ッMikey.png",
@@ -285,7 +270,6 @@
     "Meta/drafts",
     "People/drafts",
     "Projects/drafts",
-    "Questions/drafts",
-    "Sources/drafts"
+    "Questions/drafts"
   ]
 }
