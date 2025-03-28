@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Meta/changelog.md",
+                "file": "💜 Meta/changelog.md",
                 "mode": "source",
                 "source": false
               },
@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Meta/colophon.md",
+                "file": "💜 Meta/colophon.md",
                 "mode": "source",
                 "source": false
               },
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Meta/colophon.md",
+                "file": "💜 Meta/changelog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "colophon"
+              "title": "changelog"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! Meta/colophon.md",
+                "file": "💜 Meta/changelog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of colophon"
+              "title": "Outline of changelog"
             }
           },
           {
@@ -248,20 +248,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0f13aa967d090a2a",
+  "active": "967de0bd04797223",
   "lastOpenFiles": [
+    "💜 Meta/colophon.md",
     "Tools/drafts/DRAFT Citations (Quartz plugin).md",
-    "! Meta/colophon.md",
     "Sources/drafts/DRAFT \"Архитектура японских школ\".md",
     "Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md",
-    "! Meta/roadmap.md",
-    "! Meta/changelog.md",
+    "💜 Meta/roadmap.md",
+    "💜 Meta/changelog.md",
     "Projects/drafts/DRAFT Wear a nametag daily while visiting uni and events.md",
     "Projects/Done",
     "Projects/Ideas",
     "Projects/drafts/DRAFT A Corporate Practical Guide to Evil.md",
     "Tools/drafts/DRAFT followish.io.md",
-    "! Meta/drafts/DRAFT contacts.md",
+    "💜 Meta/drafts/DRAFT contacts.md",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
     "Collages/drafts/DRAFT The Many Ways to Experience Time.md",
     "Sources/drafts/DRAFT \"Tear Along the Dotted Line\".md",
@@ -294,7 +294,7 @@
     "_img/photo_2025-03-18_16-17-10.jpg",
     "Collages/drafts",
     "Curiosities/drafts",
-    "! Meta/drafts",
+    "💜 Meta/drafts",
     "People/drafts"
   ]
 }
