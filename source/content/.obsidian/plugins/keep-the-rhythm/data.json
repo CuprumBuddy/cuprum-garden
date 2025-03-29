@@ -507,7 +507,7 @@
         }
       },
       "2025-03-28": {
-        "totalDelta": 549,
+        "totalDelta": 558,
         "files": {
           "Tools/drafts/DRAFT Obsidian Latex Suite.md": {
             "initial": 0,
@@ -603,7 +603,7 @@
           },
           "📚 Sources/🎵 Level Clear (Tom Cardy).md": {
             "initial": 214,
-            "current": 219
+            "current": 228
           },
           "_templates/(TMPL) General.md": {
             "initial": 0,
@@ -616,6 +616,79 @@
           "Tools/drafts/Obsidian Front Matter Timestamps.md": {
             "initial": 0,
             "current": 30
+          }
+        }
+      },
+      "2025-03-29": {
+        "totalDelta": 1053,
+        "files": {
+          "Home.md": {
+            "initial": 0,
+            "current": 18
+          },
+          "Tools/Obsidian Keep the Rhythm.md": {
+            "initial": 133,
+            "current": 161
+          },
+          "_templates/(TMPL) General.md": {
+            "initial": 14,
+            "current": 14
+          },
+          "Tools/drafts/DRAFT Obsidian Strange New Worlds.md": {
+            "initial": 0,
+            "current": 50
+          },
+          "Tools/drafts/DRAFT Obsidian Wikipedia Search.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "Tools/drafts/DRAFT Obsidian Color Folders and Files.md": {
+            "initial": 0,
+            "current": 57
+          },
+          "Collages/drafts/DRAFT What is an ADHD Technology Explained.md": {
+            "initial": 0,
+            "current": 261
+          },
+          "Sources/🎵 Level Clear! (Tom Cardy).md": {
+            "initial": 228,
+            "current": 246
+          },
+          "Sources/🦸 Birthright (Joshua Williamson).md": {
+            "initial": 506,
+            "current": 591
+          },
+          "Sources/drafts/DRAFT Indecisive Parody (TVTropes).md": {
+            "initial": 0,
+            "current": 38
+          },
+          "Sources/drafts/DRAFT Rest Days vs Recovery Days.md": {
+            "initial": 0,
+            "current": 101
+          },
+          "Sources/drafts/DRAFT Theia – The Crimson Eclipse.md": {
+            "initial": 0,
+            "current": 34
+          },
+          "Sources/drafts/DRAFT Секс и ярость сукебан (Катя Александрова).md": {
+            "initial": 0,
+            "current": 55
+          },
+          "Sources/drafts/DRAFT 🎵 Sky is Over ().md": {
+            "initial": 0,
+            "current": 30
+          },
+          "! Meta/changelog.md": {
+            "initial": 192,
+            "current": 250
+          },
+          "! Meta/colophon.md": {
+            "initial": 317,
+            "current": 463
+          },
+          "! Meta/roadmap.md": {
+            "initial": 56,
+            "current": 100
           }
         }
       }

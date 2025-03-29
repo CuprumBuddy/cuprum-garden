@@ -7,8 +7,8 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T15:05:00Z
-modified: 2025-03-28T20:10:13+03:00
-published: 
+modified: 2025-03-29T08:02:18+03:00
+published: 2025-03-26
 enableToc: true
 ---
  ![[ッbirthright comic - cover.png]]
@@ -41,6 +41,7 @@ After this, the storyline quickly splits into three parts:
 2. Mikey occasionally tells stories about his past, so the readers get hints on why and how Mikey decided to change sides
 3. Mikey's mom, who collaborates with FBI to find Mikey, tries to figure things out on her own & support Rya, Mikey's... girlfriend? a winged girl who bears his child.
 
+What caught my attention is, despite spending at least 10-15 years in the magical world (in magical world’s time, since for the Earth only a year has passed), Mikey didn’t grew up mentally. He wanted to go home so much that he didn’t allow himself to grow as a person, and while physically he is an adult, he still behaves like the ten year old boy who got lost in the woods and then taken to another world.
 ## Links:
 
 - [["Comic Books » Birthright" (TVTropes)]]

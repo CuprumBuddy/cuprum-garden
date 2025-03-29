@@ -7,10 +7,21 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T12:13:56+03:00
-modified: 2025-03-28T20:18:45+03:00
-published: 
+modified: 2025-03-29T09:36:59+03:00
+published: 2025-03-26
 enableToc: true
 ---
+## 2025-03-29
+- updated pages:
+	- [[🦸 Birthright (Joshua Williamson)]]
+	- [[🎵 Level Clear! (Tom Cardy)]]
+	- [[Obsidian Keep the Rhythm]]
+	- [[colophon]]
+	- [[roadmap]]
+- enabled plugins:
+	- [[DRAFT Obsidian Strange New Worlds|Strange New Worlds]]
+	- [[DRAFT Obsidian Wikipedia Search|Wikipedia Search]]
+	- [[DRAFT Obsidian Color Folders and Files|Color Folders and Files]]
 ## 2025-03-28
 - installed and enabled plugins:
 	- [[DRAFT Obsidian BRAT|BRAT]]
@@ -23,10 +34,10 @@ enableToc: true
 - configured the site:
 	- renamed from standard “Quartz 4.0” to “cuprum garden”
 	- added the base URL to Quartz config file, creating the home page
-- created the basic Markdown frontmatter template using instructions from [Authoring Content](https://quartz.jzhao.xyz/authoring-content) and 
+- created the basic Markdown frontmatter template using instructions from [Authoring Content](https://quartz.jzhao.xyz/authoring-content) and [Frontmatter](https://quartz.jzhao.xyz/plugins/Frontmatter).
 ## 2025-03-27
 - published pages:
-	- [[🎵 Level Clear (Tom Cardy)]]
+	- [[🎵 Level Clear! (Tom Cardy)]]
 	- [[How to get a picture of a YouTube thumbnail]]
 ## 2025-03-26
 - forked the [[DRAFT Obsidian Quartz GitHub Pages Template|Obsidian / Quartz / GitHub Pages Template]] repo from Defender, thus creating this site

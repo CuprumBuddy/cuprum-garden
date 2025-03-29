@@ -8,13 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d361998e9aea9735",
+            "id": "27026c9289f24f6b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "553002e158cc4edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/drafts/DRAFT Obsidian Color Folders and Files.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT Obsidian Color Folders and Files"
+            }
+          },
+          {
+            "id": "8b3f74b8a650e827",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💜 Meta/changelog.md",
+                "file": "! Meta/changelog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -34,13 +70,13 @@
             }
           },
           {
-            "id": "67200bc1112a3c66",
+            "id": "ceca4a2de9f6c014",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💜 Meta/colophon.md",
+                "file": "! Meta/colophon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,75 +96,13 @@
             }
           },
           {
-            "id": "fbd904f2ce6c0f8d",
+            "id": "bc67506adbe7758f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💜 Meta/changelog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "changelog"
-            }
-          },
-          {
-            "id": "72586f06b6085334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Sources/🦸 Birthright (Joshua Williamson).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "🦸 Birthright (Joshua Williamson)"
-            }
-          },
-          {
-            "id": "8d4ca4875592f3e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/drafts/Obsidian Front Matter Timestamps.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian Front Matter Timestamps"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -184,6 +158,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "1c2cd8a13850bab9",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
           }
         ]
       }
@@ -205,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/\"Level Clear!\" (Tom Cardy).md",
+                "file": "Collages/drafts/DRAFT What is an ADHD Technology Explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for \"Level Clear!\" (Tom Cardy)"
+              "title": "Backlinks for DRAFT What is an ADHD Technology Explained"
             }
           },
           {
@@ -224,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/\"Level Clear!\" (Tom Cardy).md",
+                "file": "Collages/drafts/DRAFT What is an ADHD Technology Explained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from \"Level Clear!\" (Tom Cardy)"
+              "title": "Outgoing links from DRAFT What is an ADHD Technology Explained"
             }
           },
           {
@@ -313,48 +297,49 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "keep-the-rhythm:Word Count Stats": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "wikipedia-search:Open Article": false
     }
   },
-  "active": "fbd904f2ce6c0f8d",
+  "active": "8b3f74b8a650e827",
   "lastOpenFiles": [
-    "Tools/drafts/Obsidian Front Matter Timestamps.md",
-    "📚 Sources/🦸 Birthright (Joshua Williamson).md",
-    "💜 Meta/changelog.md",
-    "💜 Meta/colophon.md",
+    "! Meta/colophon.md",
+    "! Meta/changelog.md",
+    "Tools/drafts/DRAFT Obsidian Color Folders and Files.md",
+    "Collages/drafts/DRAFT What is an ADHD Technology Explained.md",
+    "Sources/drafts/DRAFT Секс и ярость сукебан (Катя Александрова).md",
+    "Sources/drafts/DRAFT Theia – The Crimson Eclipse.md",
+    "! Meta/roadmap.md",
+    "Sources/drafts/DRAFT Indecisive Parody (TVTropes).md",
+    "Sources/drafts/DRAFT Rest Days vs Recovery Days.md",
+    "Tools/drafts/DRAFT Obsidian Strange New Worlds.md",
+    "Tools/drafts/DRAFT Obsidian Wikipedia Search.md",
+    "Sources/🎵 Level Clear! (Tom Cardy).md",
+    "Sources/drafts/DRAFT 🎵 Sky is Over ().md",
+    "Sources/🦸 Birthright (Joshua Williamson).md",
     "_templates/(TMPL) General.md",
-    "📚 Sources/🎵 Level Clear (Tom Cardy).md",
-    "📚 Sources/DRAFT \"slash pages\".md",
+    "Tools/Obsidian Keep the Rhythm.md",
+    "Home.md",
+    "Tools/drafts/Obsidian Front Matter Timestamps.md",
+    "Sources/DRAFT \"slash pages\".md",
     "Tools/drafts/DRAFT Citations (Quartz plugin).md",
     "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
     "Questions/drafts/DRAFT Why 'colophon' is called like that?.md",
-    "📚 Sources/drafts/DRAFT \"Архитектура японских школ\".md",
-    "📚 Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md",
-    "💜 Meta/roadmap.md",
+    "Sources/drafts/DRAFT \"Архитектура японских школ\".md",
+    "Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md",
     "Projects/drafts/DRAFT Wear a nametag daily while visiting uni and events.md",
     "Projects/Done",
     "Projects/Ideas",
     "Projects/drafts/DRAFT A Corporate Practical Guide to Evil.md",
-    "Tools/drafts/DRAFT followish.io.md",
-    "💜 Meta/drafts/DRAFT contacts.md",
-    "📚 Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
-    "Collages/drafts/DRAFT The Many Ways to Experience Time.md",
-    "📚 Sources/drafts/DRAFT \"Tear Along the Dotted Line\".md",
-    "Tools/drafts/DRAFT Obsidian BRAT.md",
     "_img/Pasted image 20250328091739.png",
-    "📚 Sources/drafts/DRAFT \"Relentlessly Mundane\".md",
-    "📚 Sources/drafts/DRAFT \"Focus\" (Allie X).md",
-    "📚 Sources/drafts/DRAFT \"Girl of the Year\" (Allie X).md",
-    "📚 Sources/drafts/DRAFT \"Bitch\" (Allie X).md",
-    "Tools/Obsidian Keep the Rhythm.md",
-    "📚 Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
+    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
     "_img/Pasted image 20250327114113.png",
     "Tutorials/drafts",
     "Tutorials",
     "_img/Pasted image 20250327113540.png",
     "_img/Pasted image 20250327113407.png",
     "_img/Pasted image 20250327113258.png",
-    "Idea Diving",
+    "Notions",
     "_img/ッBirthright landscape.png",
     "_img/ッMikey.png",
     "_img/ッВедьмин час.png",
@@ -362,7 +347,7 @@
     "_img/photo_2025-03-18_16-17-10.jpg",
     "Collages/drafts",
     "Curiosities/drafts",
-    "💜 Meta/drafts",
+    "! Meta/drafts",
     "People/drafts"
   ]
 }

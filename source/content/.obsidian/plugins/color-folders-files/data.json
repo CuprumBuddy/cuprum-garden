@@ -1,0 +1,34 @@
+{
+  "styles": {
+    "💜 Meta": {
+      "backgroundColor": "#d492dd",
+      "textColor": "#52425c"
+    },
+    "📚 Sources": {
+      "backgroundColor": "#6fa2c8",
+      "textColor": "#284e77"
+    },
+    "Collages": {
+      "backgroundColor": "#f29345",
+      "textColor": "#883e0c"
+    },
+    "🧩 Collages": {
+      "backgroundColor": "#d88231",
+      "textColor": "#87320d"
+    },
+    "! Meta": {
+      "backgroundColor": "#d67de8",
+      "textColor": "#781d91"
+    },
+    "Tools": {
+      "backgroundColor": "#bbb9b9",
+      "textColor": "#4c4848"
+    },
+    "Sources": {
+      "backgroundColor": "#89b1d7",
+      "textColor": "#0e2f71"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}

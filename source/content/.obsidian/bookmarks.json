@@ -1,9 +1,32 @@
 {
   "items": [
     {
-      "type": "file",
-      "ctime": 1743144881951,
-      "path": "📚 Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md"
+      "type": "group",
+      "ctime": 1743223938483,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1743144881951,
+          "path": "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1743231576376,
+          "path": "Sources/drafts/DRAFT Rest Days vs Recovery Days.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1743223931412,
+          "path": "Sources/🦸 Birthright (Joshua Williamson).md"
+        }
+      ],
+      "title": "Active drafts"
+    },
+    {
+      "type": "group",
+      "ctime": 1743223946966,
+      "items": [],
+      "title": "Semi-finished"
     }
   ]
 }

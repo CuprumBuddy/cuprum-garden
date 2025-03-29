@@ -1,3 +1,16 @@
+---
+title: 
+description: 
+lang: en-US
+tags: 
+aliases: 
+cover: 
+draft: false
+created: 2025-03-26
+modified: 2025-03-29T08:03:33+03:00
+published: 2025-03-26
+enableToc: true
+---
 > Keep the Rhythm is an Obsidian plugin that helps you maintain a consistent writing practice by tracking your daily word count and visualizing it through an elegant heatmap.
 
 https://github.com/benjaminezequiel/keep-the-rhythm/

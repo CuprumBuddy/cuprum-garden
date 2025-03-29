@@ -2,6 +2,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_img",
   "userIgnoreFilters": [
-    "_img/"
+    "_img/",
+    "! Meta/"
   ]
 }
