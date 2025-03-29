@@ -620,7 +620,7 @@
         }
       },
       "2025-03-29": {
-        "totalDelta": 1053,
+        "totalDelta": 2001,
         "files": {
           "Home.md": {
             "initial": 0,
@@ -680,7 +680,7 @@
           },
           "! Meta/changelog.md": {
             "initial": 192,
-            "current": 250
+            "current": 258
           },
           "! Meta/colophon.md": {
             "initial": 317,
@@ -688,7 +688,19 @@
           },
           "! Meta/roadmap.md": {
             "initial": 56,
-            "current": 100
+            "current": 103
+          },
+          "Projects/drafts/DRAFT A Corporate Practical Guide to Evil.md": {
+            "initial": 209,
+            "current": 208
+          },
+          "Tools/Webtoons MIM Blocker (botato).md": {
+            "initial": 0,
+            "current": 88
+          },
+          "Sources/drafts/A Practical Guide to Evil (Erratic Errata).md": {
+            "initial": 0,
+            "current": 850
           }
         }
       }

@@ -7,7 +7,7 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T12:13:56+03:00
-modified: 2025-03-29T09:36:59+03:00
+modified: 2025-03-29T20:51:42+03:00
 published: 2025-03-26
 enableToc: true
 ---
@@ -18,6 +18,7 @@ enableToc: true
 	- [[Obsidian Keep the Rhythm]]
 	- [[colophon]]
 	- [[roadmap]]
+	- [[A Practical Guide to Evil (Erratic Errata)]]
 - enabled plugins:
 	- [[DRAFT Obsidian Strange New Worlds|Strange New Worlds]]
 	- [[DRAFT Obsidian Wikipedia Search|Wikipedia Search]]

@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27026c9289f24f6b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "553002e158cc4edf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/drafts/DRAFT Obsidian Color Folders and Files.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DRAFT Obsidian Color Folders and Files"
-            }
-          },
-          {
             "id": "8b3f74b8a650e827",
             "type": "leaf",
             "pinned": true,
@@ -96,17 +60,43 @@
             }
           },
           {
-            "id": "bc67506adbe7758f",
+            "id": "27026c9289f24f6b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "84eccf0a39d66ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/drafts/A Practical Guide to Evil (Erratic Errata).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A Practical Guide to Evil (Erratic Errata)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -301,20 +291,30 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "8b3f74b8a650e827",
+  "active": "84eccf0a39d66ebe",
   "lastOpenFiles": [
+    "Tools/Webtoons MIM Blocker (botato).md",
+    "Sources/drafts/A Practical Guide to Evil (Erratic Errata).md",
+    "_img/Pasted image 20250329213045.png",
+    "_img/Do it for her.jpg",
     "! Meta/colophon.md",
     "! Meta/changelog.md",
+    "Sources/🎵 Level Clear! (Tom Cardy).md",
+    "_img/Pasted image 20250327113258.png",
+    "_img/Pasted image 20250327113540.png",
+    "_img/Pasted image 20250328091739.png",
+    "_img/ッpgte webtoon cover.jpg",
+    "_img/Pasted image 20250327114113.png",
+    "_img/Pasted image 20250327113407.png",
+    "! Meta/roadmap.md",
     "Tools/drafts/DRAFT Obsidian Color Folders and Files.md",
     "Collages/drafts/DRAFT What is an ADHD Technology Explained.md",
     "Sources/drafts/DRAFT Секс и ярость сукебан (Катя Александрова).md",
     "Sources/drafts/DRAFT Theia – The Crimson Eclipse.md",
-    "! Meta/roadmap.md",
     "Sources/drafts/DRAFT Indecisive Parody (TVTropes).md",
     "Sources/drafts/DRAFT Rest Days vs Recovery Days.md",
     "Tools/drafts/DRAFT Obsidian Strange New Worlds.md",
     "Tools/drafts/DRAFT Obsidian Wikipedia Search.md",
-    "Sources/🎵 Level Clear! (Tom Cardy).md",
     "Sources/drafts/DRAFT 🎵 Sky is Over ().md",
     "Sources/🦸 Birthright (Joshua Williamson).md",
     "_templates/(TMPL) General.md",
@@ -326,25 +326,14 @@
     "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
     "Questions/drafts/DRAFT Why 'colophon' is called like that?.md",
     "Sources/drafts/DRAFT \"Архитектура японских школ\".md",
-    "Sources/drafts/DRAFT \"Did You Miss Me\" (The Veronicas).md",
-    "Projects/drafts/DRAFT Wear a nametag daily while visiting uni and events.md",
     "Projects/Done",
     "Projects/Ideas",
-    "Projects/drafts/DRAFT A Corporate Practical Guide to Evil.md",
-    "_img/Pasted image 20250328091739.png",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
-    "_img/Pasted image 20250327114113.png",
     "Tutorials/drafts",
     "Tutorials",
-    "_img/Pasted image 20250327113540.png",
-    "_img/Pasted image 20250327113407.png",
-    "_img/Pasted image 20250327113258.png",
     "Notions",
     "_img/ッBirthright landscape.png",
     "_img/ッMikey.png",
-    "_img/ッВедьмин час.png",
-    "_img/CGP Grey - Your Theme [0m13s].png",
-    "_img/photo_2025-03-18_16-17-10.jpg",
     "Collages/drafts",
     "Curiosities/drafts",
     "! Meta/drafts",

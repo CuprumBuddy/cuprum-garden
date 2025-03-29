@@ -1,13 +1,13 @@
 ---
 URL: https://youtube.com/watch?v=G87p148EOjo
 description: A song by Tom Cardy about Mario's existential crisis.
-modified: 2025-03-29T09:14:35+03:00
+modified: 2025-03-29T19:55:45+03:00
 title: 
 lang: en-US
 tags: 
 aliases: 
 cover: 
-draft: true
+draft: false
 created: 2025-03-27
 published: 2025-03-27
 enableToc: true
