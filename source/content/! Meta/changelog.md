@@ -18,7 +18,7 @@ enableToc: true
 	- [[Obsidian Keep the Rhythm]]
 	- [[colophon]]
 	- [[roadmap]]
-	- [[A Practical Guide to Evil (Erratic Errata)]]
+	- [[📚 A Practical Guide to Evil (Erratic Errata)]]
 - enabled plugins:
 	- [[DRAFT Obsidian Strange New Worlds|Strange New Worlds]]
 	- [[DRAFT Obsidian Wikipedia Search|Wikipedia Search]]

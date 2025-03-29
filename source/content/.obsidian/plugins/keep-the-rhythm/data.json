@@ -620,7 +620,7 @@
         }
       },
       "2025-03-29": {
-        "totalDelta": 2001,
+        "totalDelta": 2002,
         "files": {
           "Home.md": {
             "initial": 0,
@@ -680,7 +680,7 @@
           },
           "! Meta/changelog.md": {
             "initial": 192,
-            "current": 258
+            "current": 259
           },
           "! Meta/colophon.md": {
             "initial": 317,
@@ -698,7 +698,7 @@
             "initial": 0,
             "current": 88
           },
-          "Sources/drafts/A Practical Guide to Evil (Erratic Errata).md": {
+          "Sources/📚 A Practical Guide to Evil (Erratic Errata).md": {
             "initial": 0,
             "current": 850
           }
