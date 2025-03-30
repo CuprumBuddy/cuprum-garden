@@ -705,7 +705,7 @@
         }
       },
       "2025-03-30": {
-        "totalDelta": 743,
+        "totalDelta": 741,
         "files": {
           "Sources/📘 A Practical Guide to Evil (Erratic Errata).md": {
             "initial": 850,
@@ -729,7 +729,7 @@
           },
           "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/The Role of Algorithms in Computing.md": {
             "initial": 0,
-            "current": 327
+            "current": 325
           },
           "Tools/drafts/DRAFT Citations (Quartz plugin).md": {
             "initial": 117,
