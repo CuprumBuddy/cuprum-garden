@@ -74,7 +74,7 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Citations({
         linkCitations: true,
-        csl: "chicago",
+        csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography.csl",
       }),
     ],
     filters: [Plugin.RemoveDrafts()],

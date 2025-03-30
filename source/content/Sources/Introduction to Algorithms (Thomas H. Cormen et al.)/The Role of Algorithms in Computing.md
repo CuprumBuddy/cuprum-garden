@@ -20,7 +20,7 @@ This chapter covers following questions:
 > What is the role of algorithms relative to other technologies used in computers?
 
 ## Dictionary
-1. Algorithm – a sequence of computational steps that transform the input into the output in a finite amount of time for all problem instances. [^1]
+1. Algorithm – a sequence of computational steps that transform the input into the output in a finite amount of time for all problem instances. [@cormen_introduction_2022 pp. 5]
 2. Computational problem
 3. Data structure
 4. Input – some value or set of values, which algorithm takes.
@@ -34,4 +34,3 @@ This chapter covers following questions:
 - How to define computational problem?
  
 
-[^1]: [@cormen_introduction_2022 {pp 5}]
