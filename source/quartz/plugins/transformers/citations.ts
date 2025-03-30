@@ -28,7 +28,7 @@ export const Citations: QuartzTransformerPlugin<Partial<Options>> = (userOpts) =
       plugins.push([
         rehypeCitation,
         {
-          bibliography: opts.bibliographyFile,
+          bibliography: "https://raw.githubusercontent.com/timlrx/rehype-citation/main/test/references-data.bib",
           suppressBibliography: opts.suppressBibliography,
           linkCitations: opts.linkCitations,
         },
