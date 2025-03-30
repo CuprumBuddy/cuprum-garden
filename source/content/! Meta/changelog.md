@@ -13,7 +13,7 @@ enableToc: true
 ---
 ## 2025-03-30
 - updated pages:
-	- [[📘 A Practical Guide to Evil (Erratic Errata)]]
+	- [[📔 A Practical Guide to Evil (Erratic Errata)]]
 - enabled plugins:
 	- [[DRAFT Obsidian Line Arrange|Line Arrange]]
 ## 2025-03-29
@@ -23,7 +23,7 @@ enableToc: true
 	- [[Obsidian Keep the Rhythm]]
 	- [[colophon]]
 	- [[roadmap]]
-	- [[📘 A Practical Guide to Evil (Erratic Errata)]]
+	- [[📔 A Practical Guide to Evil (Erratic Errata)]]
 - enabled plugins:
 	- [[DRAFT Obsidian Strange New Worlds|Strange New Worlds]]
 	- [[DRAFT Obsidian Wikipedia Search|Wikipedia Search]]

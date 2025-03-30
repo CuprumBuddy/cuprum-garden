@@ -705,12 +705,8 @@
         }
       },
       "2025-03-30": {
-        "totalDelta": 741,
+        "totalDelta": 749,
         "files": {
-          "Sources/📘 A Practical Guide to Evil (Erratic Errata).md": {
-            "initial": 850,
-            "current": 1199
-          },
           "! Meta/colophon.md": {
             "initial": 463,
             "current": 470
@@ -725,11 +721,7 @@
           },
           "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md": {
             "initial": 1057,
-            "current": 1066
-          },
-          "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/The Role of Algorithms in Computing.md": {
-            "initial": 0,
-            "current": 325
+            "current": 1067
           },
           "Tools/drafts/DRAFT Citations (Quartz plugin).md": {
             "initial": 117,
@@ -742,6 +734,26 @@
           "Tools/drafts/DRAFT Obsidian Front Matter Timestamps.md": {
             "initial": 30,
             "current": 30
+          },
+          "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT The Role of Algorithms in Computing.md": {
+            "initial": 0,
+            "current": 325
+          },
+          "Sources/📔 A Practical Guide to Evil (Erratic Errata).md": {
+            "initial": 850,
+            "current": 1199
+          },
+          "Projects/drafts/DRAFT A Corporate Practical Guide to Evil.md": {
+            "initial": 209,
+            "current": 209
+          },
+          "Sources/🎵 Level Clear! (Tom Cardy).md": {
+            "initial": 246,
+            "current": 250
+          },
+          "Sources/🦸 Birthright (Joshua Williamson).md": {
+            "initial": 591,
+            "current": 594
           }
         }
       }

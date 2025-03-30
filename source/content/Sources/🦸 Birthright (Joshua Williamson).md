@@ -1,5 +1,5 @@
 ---
-title: 
+title: 🦸 Birthright (Joshua Williamson)
 description: 
 lang: en-US
 tags: 
@@ -7,7 +7,7 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T15:05:00Z
-modified: 2025-03-29T08:02:18+03:00
+modified: 2025-03-30T20:38:45+03:00
 published: 2025-03-26
 enableToc: true
 ---

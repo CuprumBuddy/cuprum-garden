@@ -1,6 +1,6 @@
 ---
-modified: 2025-03-30T14:38:57+03:00
-title: A Practical Guide to Evil (Erratic Errata)
+modified: 2025-03-30T20:38:30+03:00
+title: 📔 A Practical Guide to Evil (Erratic Errata)
 description: 
 lang: en-US
 tags:
