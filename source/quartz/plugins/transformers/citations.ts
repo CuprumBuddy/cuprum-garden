@@ -14,7 +14,7 @@ const defaultOptions: Options = {
   bibliographyFile: "./bibliography.bib",
   suppressBibliography: false,
   linkCitations: false,
-  csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography.csl",
+  csl: "apa",
 }
 
 export const Citations: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
@@ -28,7 +28,7 @@ export const Citations: QuartzTransformerPlugin<Partial<Options>> = (userOpts) =
       plugins.push([
         rehypeCitation,
         {
-          bibliography: "https://raw.githubusercontent.com/timlrx/rehype-citation/main/test/references-data.bib",
+          bibliography: opts.bibliographyFile,
           suppressBibliography: opts.suppressBibliography,
           linkCitations: opts.linkCitations,
         },
