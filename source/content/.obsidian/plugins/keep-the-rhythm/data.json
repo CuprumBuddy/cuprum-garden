@@ -705,7 +705,7 @@
         }
       },
       "2025-03-30": {
-        "totalDelta": 363,
+        "totalDelta": 390,
         "files": {
           "Sources/📘 A Practical Guide to Evil (Erratic Errata).md": {
             "initial": 850,
@@ -722,6 +722,14 @@
           "! Meta/changelog.md": {
             "initial": 259,
             "current": 273
+          },
+          "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md": {
+            "initial": 1057,
+            "current": 1066
+          },
+          "The Role of Algorithms in Computing.md": {
+            "initial": 0,
+            "current": 18
           }
         }
       }

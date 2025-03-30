@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/📘 A Practical Guide to Evil (Erratic Errata).md",
+                "file": "The Role of Algorithms in Computing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📘 A Practical Guide to Evil (Erratic Errata)"
+              "title": "The Role of Algorithms in Computing"
             }
           }
         ],
@@ -147,8 +147,7 @@
               "title": "Strange New Worlds"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -282,8 +281,10 @@
   },
   "active": "84eccf0a39d66ebe",
   "lastOpenFiles": [
-    "_img/ッ tear along the dotted line poster.png",
+    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
+    "The Role of Algorithms in Computing.md",
     "Sources/📘 A Practical Guide to Evil (Erratic Errata).md",
+    "_img/ッ tear along the dotted line poster.png",
     "! Meta/changelog.md",
     "_img/Pasted image 20250327113540.png",
     "_img/Pasted image 20250327113258.png",
@@ -316,7 +317,6 @@
     "Tools/drafts/DRAFT Citations (Quartz plugin).md",
     "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
     "Questions/drafts/DRAFT Why 'colophon' is called like that?.md",
-    "Sources/drafts/DRAFT \"Архитектура японских школ\".md",
     "Projects/Done",
     "Projects/Ideas",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
