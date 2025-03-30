@@ -20,8 +20,8 @@ This chapter covers following questions:
 > What is the role of algorithms relative to other technologies used in computers?
 
 ## Dictionary
-1. Algorithm – a sequence of computational steps that transform the input into the output in a finite amount of time for all problem instances. [@cormen_introduction_2022{pp. 5}]
-2. Computational problem
+1. Algorithm – a sequence of computational steps that transform the input into the output in a finite amount of time for all problem instances. [@cormen_introduction_2022{pp. 5}].
+2. Computational problem is a problem that asks for a solution in terms of an algorithm [@noauthor_computational_2024].
 3. Data structure
 4. Input – some value or set of values, which algorithm takes.
 5. Instance of a problem generally consists of the input (satisfying whatever constraints are imposed in the problem statement) needed to compute a solution to the problem. Sometimes, when the problem context is known, problem instances are themselves simply called “problems.”

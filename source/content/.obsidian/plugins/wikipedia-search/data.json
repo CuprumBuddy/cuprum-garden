@@ -20,5 +20,5 @@
   "openArticleInFullscreen": false,
   "openCreatedNotes": false,
   "overrideFiles": false,
-  "showedWebviewerMessage": false
+  "showedWebviewerMessage": true
 }
