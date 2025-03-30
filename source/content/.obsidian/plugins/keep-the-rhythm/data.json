@@ -705,15 +705,23 @@
         }
       },
       "2025-03-30": {
-        "totalDelta": 0,
+        "totalDelta": 363,
         "files": {
           "Sources/📘 A Practical Guide to Evil (Erratic Errata).md": {
             "initial": 850,
-            "current": 850
+            "current": 1199
           },
           "! Meta/colophon.md": {
             "initial": 463,
             "current": 463
+          },
+          "Sources/drafts/DRAFT \"Tear Along the Dotted Line\".md": {
+            "initial": 9,
+            "current": 9
+          },
+          "! Meta/changelog.md": {
+            "initial": 259,
+            "current": 273
           }
         }
       }

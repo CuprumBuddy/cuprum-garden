@@ -82,21 +82,9 @@
               "icon": "lucide-file",
               "title": "📘 A Practical Guide to Evil (Erratic Errata)"
             }
-          },
-          {
-            "id": "a0f2a07abcc2719e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_img/CGP Grey - Your Theme [0m13s].png"
-              },
-              "icon": "lucide-image",
-              "title": "CGP Grey - Your Theme [0m13s]"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +147,8 @@
               "title": "Strange New Worlds"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -291,20 +280,21 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "967de0bd04797223",
+  "active": "84eccf0a39d66ebe",
   "lastOpenFiles": [
-    "! Meta/colophon.md",
+    "_img/ッ tear along the dotted line poster.png",
     "Sources/📘 A Practical Guide to Evil (Erratic Errata).md",
+    "! Meta/changelog.md",
+    "_img/Pasted image 20250327113540.png",
+    "_img/Pasted image 20250327113258.png",
+    "_img/ッCGP Grey - Your Theme 0m13s.png",
+    "! Meta/colophon.md",
     "Places",
     "Sources/🎵 Level Clear! (Tom Cardy).md",
     "Sources/🦸 Birthright (Joshua Williamson).md",
     "Tools/Webtoons MIM Blocker (botato).md",
     "_img/Pasted image 20250329213045.png",
     "_img/Do it for her.jpg",
-    "! Meta/changelog.md",
-    "_img/Pasted image 20250327113258.png",
-    "_img/Pasted image 20250327113540.png",
-    "_img/Pasted image 20250328091739.png",
     "_img/ッpgte webtoon cover.jpg",
     "_img/Pasted image 20250327114113.png",
     "_img/Pasted image 20250327113407.png",
@@ -334,7 +324,6 @@
     "Tutorials",
     "Notions",
     "_img/ッBirthright landscape.png",
-    "_img/ッMikey.png",
     "Collages/drafts",
     "Curiosities/drafts",
     "! Meta/drafts"

@@ -7,10 +7,13 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T12:13:56+03:00
-modified: 2025-03-29T20:51:42+03:00
+modified: 2025-03-30T14:39:19+03:00
 published: 2025-03-26
 enableToc: true
 ---
+## 2025-03-30
+- updated pages:
+	- [[📘 A Practical Guide to Evil (Erratic Errata)]]
 ## 2025-03-29
 - updated pages:
 	- [[🦸 Birthright (Joshua Williamson)]]

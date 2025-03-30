@@ -25,7 +25,13 @@
     {
       "type": "group",
       "ctime": 1743223946966,
-      "items": [],
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1743333449032,
+          "path": "Sources/📘 A Practical Guide to Evil (Erratic Errata).md"
+        }
+      ],
       "title": "Semi-finished"
     }
   ]
