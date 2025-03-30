@@ -34,4 +34,4 @@ This chapter covers following questions:
 - How to define computational problem?
  
 
-[^1]: [@cormen_introduction_2022 pp. 5]
+[^1]: [@cormen_introduction_2022 pp 5]
