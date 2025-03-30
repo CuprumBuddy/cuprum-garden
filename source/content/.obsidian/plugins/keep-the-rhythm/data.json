@@ -698,9 +698,22 @@
             "initial": 0,
             "current": 88
           },
-          "Sources/📚 A Practical Guide to Evil (Erratic Errata).md": {
+          "Sources/📘 A Practical Guide to Evil (Erratic Errata).md": {
             "initial": 0,
             "current": 850
+          }
+        }
+      },
+      "2025-03-30": {
+        "totalDelta": 0,
+        "files": {
+          "Sources/📘 A Practical Guide to Evil (Erratic Errata).md": {
+            "initial": 850,
+            "current": 850
+          },
+          "! Meta/colophon.md": {
+            "initial": 463,
+            "current": 463
           }
         }
       }

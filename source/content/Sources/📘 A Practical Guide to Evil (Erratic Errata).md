@@ -1,13 +1,13 @@
 ---
-modified: 2025-03-29T21:42:31+03:00
+modified: 2025-03-30T10:03:36+03:00
 title: A Practical Guide to Evil (Erratic Errata)
 description: 
 lang: en-US
 tags:
   - Agency
+  - Ethics_and_Moral_Philosophy
   - Rational_Fiction
   - Storytelling
-  - Ethics_and_Moral_Philosophy
 aliases: 
 cover: 
 draft: false

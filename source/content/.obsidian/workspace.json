@@ -60,24 +60,12 @@
             }
           },
           {
-            "id": "27026c9289f24f6b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "84eccf0a39d66ebe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/📚 A Practical Guide to Evil (Erratic Errata).md",
+                "file": "Sources/📘 A Practical Guide to Evil (Erratic Errata).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -92,7 +80,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📚 A Practical Guide to Evil (Erratic Errata)"
+              "title": "📘 A Practical Guide to Evil (Erratic Errata)"
+            }
+          },
+          {
+            "id": "a0f2a07abcc2719e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_img/CGP Grey - Your Theme [0m13s].png"
+              },
+              "icon": "lucide-image",
+              "title": "CGP Grey - Your Theme [0m13s]"
             }
           }
         ],
@@ -291,15 +291,17 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "84eccf0a39d66ebe",
+  "active": "967de0bd04797223",
   "lastOpenFiles": [
+    "! Meta/colophon.md",
+    "Sources/📘 A Practical Guide to Evil (Erratic Errata).md",
+    "Places",
+    "Sources/🎵 Level Clear! (Tom Cardy).md",
+    "Sources/🦸 Birthright (Joshua Williamson).md",
     "Tools/Webtoons MIM Blocker (botato).md",
-    "Sources/📚 A Practical Guide to Evil (Erratic Errata).md",
     "_img/Pasted image 20250329213045.png",
     "_img/Do it for her.jpg",
-    "! Meta/colophon.md",
     "! Meta/changelog.md",
-    "Sources/🎵 Level Clear! (Tom Cardy).md",
     "_img/Pasted image 20250327113258.png",
     "_img/Pasted image 20250327113540.png",
     "_img/Pasted image 20250328091739.png",
@@ -316,7 +318,6 @@
     "Tools/drafts/DRAFT Obsidian Strange New Worlds.md",
     "Tools/drafts/DRAFT Obsidian Wikipedia Search.md",
     "Sources/drafts/DRAFT 🎵 Sky is Over ().md",
-    "Sources/🦸 Birthright (Joshua Williamson).md",
     "_templates/(TMPL) General.md",
     "Tools/Obsidian Keep the Rhythm.md",
     "Home.md",
@@ -336,7 +337,6 @@
     "_img/ッMikey.png",
     "Collages/drafts",
     "Curiosities/drafts",
-    "! Meta/drafts",
-    "People/drafts"
+    "! Meta/drafts"
   ]
 }
