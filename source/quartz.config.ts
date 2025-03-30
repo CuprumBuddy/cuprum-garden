@@ -74,7 +74,7 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Citations({
         linkCitations: true,
-        csl: "chicago",
+        csl: "apa",
       }),
     ],
     filters: [Plugin.RemoveDrafts()],
