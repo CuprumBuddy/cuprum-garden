@@ -705,7 +705,7 @@
         }
       },
       "2025-03-30": {
-        "totalDelta": 390,
+        "totalDelta": 623,
         "files": {
           "Sources/📘 A Practical Guide to Evil (Erratic Errata).md": {
             "initial": 850,
@@ -713,7 +713,7 @@
           },
           "! Meta/colophon.md": {
             "initial": 463,
-            "current": 463
+            "current": 470
           },
           "Sources/drafts/DRAFT \"Tear Along the Dotted Line\".md": {
             "initial": 9,
@@ -721,15 +721,27 @@
           },
           "! Meta/changelog.md": {
             "initial": 259,
-            "current": 273
+            "current": 280
           },
           "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md": {
             "initial": 1057,
             "current": 1066
           },
-          "The Role of Algorithms in Computing.md": {
+          "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/The Role of Algorithms in Computing.md": {
             "initial": 0,
-            "current": 18
+            "current": 207
+          },
+          "Tools/drafts/DRAFT Citations (Quartz plugin).md": {
+            "initial": 117,
+            "current": 117
+          },
+          "Tools/drafts/DRAFT Obsidian Line Arrange.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "Tools/drafts/DRAFT Obsidian Front Matter Timestamps.md": {
+            "initial": 30,
+            "current": 30
           }
         }
       }

@@ -7,13 +7,15 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T12:13:56+03:00
-modified: 2025-03-30T14:39:19+03:00
+modified: 2025-03-30T17:30:47+03:00
 published: 2025-03-26
 enableToc: true
 ---
 ## 2025-03-30
 - updated pages:
 	- [[📘 A Practical Guide to Evil (Erratic Errata)]]
+- enabled plugins:
+	- [[DRAFT Obsidian Line Arrange|Line Arrange]]
 ## 2025-03-29
 - updated pages:
 	- [[🦸 Birthright (Joshua Williamson)]]
@@ -32,7 +34,7 @@ enableToc: true
 	- [[DRAFT Obsidian Latex Suite|Latex Suite]]
 	- [[DRAFT Citations (Quartz plugin)|Citations (Quartz plugin)]]
 	  - And freaking fixed it by myself on the 8th attempt after it broke!!!!!!!
-	- [[Obsidian Front Matter Timestamps|Front Matter Timestamps]]
+	- [[DRAFT Obsidian Front Matter Timestamps|Front Matter Timestamps]]
 - updated pages:
 	- [[roadmap]]
 - configured the site:

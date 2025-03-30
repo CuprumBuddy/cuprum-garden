@@ -7,7 +7,7 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T11:18:34+03:00
-modified: 2025-03-29T19:34:09+03:00
+modified: 2025-03-30T17:31:04+03:00
 published: 2025-03-26
 enableToc: true
 ---
@@ -26,7 +26,7 @@ Quartz documentation states that Quartz aims to be accessible and highly customi
 These plugins mostly affect Markdown files.
 ### On the site
 Tools that directly affect how users see this site. Potentially useful both for public and private vaults.
-- [[Obsidian Front Matter Timestamps|Front Matter Timestamps]]: automatically inserts “created” and “modified” timestamps into the note frontmatter.
+- [[DRAFT Obsidian Front Matter Timestamps|Front Matter Timestamps]]: automatically inserts “created” and “modified” timestamps into the note frontmatter.
 - [[DRAFT Obsidian Git|Git]]
 - [[DRAFT Obsidian Smart Typography|Smart Typography]]: converts symbols into prettier ones, e.g. `<=` into ≤, `<-` into ← and so on.  
 ### In Obsidian
@@ -34,6 +34,7 @@ Kind of a backstage/back-end: while I can’t directly share the results of thes
 - [[DRAFT Obsidian BRAT|BRAT]]: allows installing plugins which are available on GitHub, but yet haven’t made it into Obsidian “Community plugins” tab.
 - [[DRAFT Obsidian Color Folders and Files|Color Folders and Files]]: allows to colour folders and files to make them stand out in the navigation tab.
 - [[DRAFT Obsidian Latex Suite|Latex Suite]]: makes LaTeX math input considerably faster.
+- [[DRAFT Obsidian Line Arrange|Line Arrange]]
 - [[Obsidian Keep the Rhythm|Keep the Rhythm]]: counts how many words I wrote daily/weekly/yearly and generates a pretty heatmap based on these statistics.
 - [[DRAFT Obsidian Strange New Worlds|Strange New Worlds]]: presents connections between notes in a more visually pleasant way than standard backlinks and outgoing links tabs.
 - [[DRAFT Obsidian Wikipedia Search|Wikipedia Search]]

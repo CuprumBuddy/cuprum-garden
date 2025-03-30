@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Role of Algorithms in Computing.md",
+                "file": "Tools/drafts/DRAFT Obsidian Front Matter Timestamps.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Role of Algorithms in Computing"
+              "title": "DRAFT Obsidian Front Matter Timestamps"
+            }
+          },
+          {
+            "id": "5105ab5a245c6d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/drafts/DRAFT Citations (Quartz plugin).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT Citations (Quartz plugin)"
             }
           }
         ],
@@ -151,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 200
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -259,11 +283,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,15 +306,17 @@
   },
   "active": "84eccf0a39d66ebe",
   "lastOpenFiles": [
+    "Tools/drafts/DRAFT Obsidian Line Arrange.md",
+    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/The Role of Algorithms in Computing.md",
+    "Tools/drafts/DRAFT Citations (Quartz plugin).md",
+    "! Meta/colophon.md",
+    "! Meta/changelog.md",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
-    "The Role of Algorithms in Computing.md",
     "Sources/📘 A Practical Guide to Evil (Erratic Errata).md",
     "_img/ッ tear along the dotted line poster.png",
-    "! Meta/changelog.md",
     "_img/Pasted image 20250327113540.png",
     "_img/Pasted image 20250327113258.png",
     "_img/ッCGP Grey - Your Theme 0m13s.png",
-    "! Meta/colophon.md",
     "Places",
     "Sources/🎵 Level Clear! (Tom Cardy).md",
     "Sources/🦸 Birthright (Joshua Williamson).md",
@@ -312,11 +339,9 @@
     "_templates/(TMPL) General.md",
     "Tools/Obsidian Keep the Rhythm.md",
     "Home.md",
-    "Tools/drafts/Obsidian Front Matter Timestamps.md",
+    "Tools/drafts/DRAFT Obsidian Front Matter Timestamps.md",
     "Sources/DRAFT \"slash pages\".md",
-    "Tools/drafts/DRAFT Citations (Quartz plugin).md",
     "Questions/drafts/DRAFT Why It's \"Scrolling\" and not \"Surfing the Web\" Anymore.md",
-    "Questions/drafts/DRAFT Why 'colophon' is called like that?.md",
     "Projects/Done",
     "Projects/Ideas",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
