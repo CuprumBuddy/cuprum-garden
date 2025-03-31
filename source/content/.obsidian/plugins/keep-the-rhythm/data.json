@@ -758,7 +758,7 @@
         }
       },
       "2025-03-31": {
-        "totalDelta": 475,
+        "totalDelta": 547,
         "files": {
           "Sources/🦸 Birthright (Joshua Williamson).md": {
             "initial": 594,
@@ -851,6 +851,14 @@
           "! Meta/drafts/DRAFT site map.md": {
             "initial": 0,
             "current": 50
+          },
+          "Sources/drafts/DRAFT Как подвести итоги года и поставить цели на будущий.md": {
+            "initial": 0,
+            "current": 35
+          },
+          "Sources/drafts/DRAFT Dyslucksia.md": {
+            "initial": 0,
+            "current": 37
           }
         }
       }

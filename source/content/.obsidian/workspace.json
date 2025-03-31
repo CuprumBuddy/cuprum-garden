@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Meta/drafts/DRAFT site map.md",
+                "file": "Sources/drafts/DRAFT Dyslucksia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT site map"
+              "title": "DRAFT Dyslucksia"
             }
           }
         ],
@@ -282,8 +282,10 @@
   },
   "active": "b1d329866d73b555",
   "lastOpenFiles": [
-    "Sources/drafts/DRAFT Конспект книги Мэг Джей «Важные годы».md",
+    "Sources/drafts/DRAFT Как подвести итоги года и поставить цели на будущий.md",
+    "Sources/drafts/DRAFT Dyslucksia.md",
     "! Meta/drafts/DRAFT site map.md",
+    "Sources/drafts/DRAFT Конспект книги Мэг Джей «Важные годы».md",
     "Creatures",
     "Sources/drafts/DRAFT Формирование понятий в действии.md",
     "Sources/drafts/DRAFT Pinky and Pepper Forever.md",
@@ -319,8 +321,6 @@
     "Places",
     "_img/Do it for her.jpg",
     "_img/ッpgte webtoon cover.jpg",
-    "! Meta/roadmap.md",
-    "Tools/drafts/DRAFT Obsidian Color Folders and Files.md",
     "Projects/Done",
     "Projects/Ideas",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
