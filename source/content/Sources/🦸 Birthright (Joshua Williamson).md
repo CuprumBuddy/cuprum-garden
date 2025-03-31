@@ -31,7 +31,7 @@ It should be noted that, contrary to many other "Trapped in Another World" stori
 
 And then an FBI agent knocks on the door and invites the family to look at the person who claims to be their beloved Mikey.
 
-![[ッMikey.png]]
+![[ッBirthright Mikey.png]]
 
 You might have thought that aforementioned TVTropes quote fully describes the plot of, dunno, a one-shot. But it's actually just the beginning of 50-issue story: it's quickly revealed that Mikey is now possesed by Nevermind and serves God King Lore – the very evil that Mikey was chosen to defeat in the first place.
 

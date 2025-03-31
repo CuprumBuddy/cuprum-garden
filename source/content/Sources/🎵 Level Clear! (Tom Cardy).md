@@ -1,7 +1,7 @@
 ---
 URL: https://youtube.com/watch?v=G87p148EOjo
 description: A song by Tom Cardy about Mario's existential crisis.
-modified: 2025-03-30T20:38:38+03:00
+modified: 2025-03-31T06:49:13+03:00
 title: 🎵 Level Clear! (Tom Cardy)
 lang: en-US
 tags: 
@@ -12,7 +12,7 @@ created: 2025-03-27
 published: 2025-03-27
 enableToc: true
 ---
-![[Pasted image 20250327113540.png]]
+![[ッLevel Clear! - cover.png]]
 
 URL: https://youtube.com/watch?v=G87p148EOjo
 
@@ -30,7 +30,7 @@ URL: https://youtube.com/watch?v=G87p148EOjo
 > 
 > “Even if you did defeat me, what would you do then?”
 
-Somehow reminds me of [[Wreck-It Ralph]]: in both works character’s fate is tied to the way they were programmed, to their “ultimate goal”. While [[Wreck-It Ralph]] explores “What if a character doesn’t want to obey the fate?”, “Level Clear!” focuses on “What if the goal is achieved?”.
+Somehow reminds me of [[Wreck-It Ralph]]: in both works character’s fate is tied to the way they were programmed, to their “ultimate goal”. While Wreck-It Ralph explores “What if a character doesn’t want to obey the fate?”, “Level Clear!” focuses on “What if the goal is achieved?”.
 
 Being a videogame character, Mario can master literally anything he wants, but nothing can satisfy him (as I can guess given his insomnia that doesn’t go away no matter how many achievements he has).
 

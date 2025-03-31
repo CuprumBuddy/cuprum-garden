@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-30T20:38:30+03:00
+modified: 2025-03-31T06:33:32+03:00
 title: 📔 A Practical Guide to Evil (Erratic Errata)
 description: 
 lang: en-US
@@ -49,7 +49,7 @@ After a few months I caught myself thinking: how's Catherine doing, given that w
 It also should be noted that after the pause I was so interested that I simply couldn't wait to read with my partner (who, by the way, has already read the whole story). I've read about 13 chapters in a week despite me being a really slow reader.
 
 Additionally, I grew fond of Catherine and started rooting for her. Smart, agentic, strong, sharp tongued orphan girl who fights for a greater essentially Good cause using the resources and knowledge of Evil. Neat! While I don't think "Oh, this is so me", I see a few similarities between us, and some of her qualities I'd like to foster in myself as well.
-![[Pasted image 20250329213045.png]]
+![[ッcat do it for her meme.png]]
 # 2025-03-29 Webtoon
 You can also read PGtE in a webtoon adaptation, thought it’s based on an a freshly edited, getting-prepared-to-be-printed version of the book, not the one which is available online for free.
 
@@ -69,12 +69,12 @@ The problem is: there are too many small details to keep track of all of them. I
 
 Moreover, I feel like investigative reading a pretty cool reading club concept, because different people would have different points of view, allowing to engage with the story in a much more multi-faceted way.
 # 2025-03-30 Making mistakes
-When we read, I usually read as Catherine, and in the beginning my performance was quite bad: I stumbled on longer sentences, stressed words incorrectly and my intonations were anything but fitting the situation.
+When we read, I usually read as Catherine, and in the beginning my performance was quite bad: I stumbled on longer sentences, stressed words incorrectly, and my intonations were anything but fitting the situation.
 
-It became better over time, and at some point I read the whole sentence without stumbling – though intonation was weird. My partner said:
+It became better over time, and at some point I read the whole sentence without stumbling – though intonation was still out of place. My partner said:
 
-– Do you understand this scene? I don’t think Catherine would say it like that, but okay, I’m not criticizing you…
+– Do you understand what’s going on in this scene? I don’t think Catherine would say it like that, but okay, I’m not criticizing you…
 
-– I know it was weird, – I answered. – I didn’t mean to pronounce it like that, I just can’t do better for now.
+– I know it was weird, – I answered. – I didn’t mean to read it like that, I just can’t do better for now.
 
 Basically, I *still* was making mistakes, *but* I read good enough for my partner to think that I was doing it on purpose (and I wasn’t). Quite a lesson about judging people’s intentions only by the results of their actions.

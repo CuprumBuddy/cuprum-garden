@@ -27,6 +27,10 @@
     "Sources": {
       "backgroundColor": "#89b1d7",
       "textColor": "#0e2f71"
+    },
+    "Places": {
+      "backgroundColor": "#73d558",
+      "textColor": "#075a11"
     }
   },
   "presets": {},
