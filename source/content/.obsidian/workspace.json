@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/How to get a picture of a YouTube thumbnail.md",
+                "file": "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT The Role of Algorithms in Computing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to get a picture of a YouTube thumbnail"
+              "title": "DRAFT The Role of Algorithms in Computing"
             }
           }
         ],
@@ -147,7 +147,8 @@
               "title": "Strange New Worlds"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -282,6 +283,13 @@
   },
   "active": "b1d329866d73b555",
   "lastOpenFiles": [
+    "Sources/🎵 Level Clear! (Tom Cardy).md",
+    "! Meta/changelog.md",
+    "Sources/🦸 Birthright (Joshua Williamson).md",
+    "Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
+    "Tools/Obsidian Keep the Rhythm.md",
+    "Tools/Webtoons MIM Blocker (botato).md",
+    "Tutorials/How to get a picture of a YouTube thumbnail.md",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT The Role of Algorithms in Computing.md",
     "Sources/drafts/DRAFT Rest Days vs Recovery Days.md",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
@@ -291,23 +299,18 @@
     "Projects/drafts/DRAFT Public Bathrooms Collection.md",
     "Projects/Ideas/A Corporate Practical Guide to Evil.md",
     "Projects/In progress",
-    "Sources/🎵 Level Clear! (Tom Cardy).md",
     "_img/ッBirthright Mikey.png",
     "_img/ッBirthright landscape.png",
     "_img/ッbirthright comic - cover.png",
     "_img/ッcat do it for her meme.png",
     "_img/ッthe anatomy of loneliness - cover.png",
     "Concepts/drafts/DRAFT Investigative Reading.md",
-    "Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
-    "Sources/🦸 Birthright (Joshua Williamson).md",
     "Tools/drafts/DRAFT Obsidian Front Matter Timestamps.md",
-    "! Meta/changelog.md",
     "Tools/drafts/DRAFT Citations (Quartz plugin).md",
     "Tools/drafts/DRAFT Obsidian Line Arrange.md",
     "_img/ッtear along the dotted line poster.png",
     "_img/ッCGP Grey - Your Theme 0m13s.png",
     "Places",
-    "Tools/Webtoons MIM Blocker (botato).md",
     "_img/Do it for her.jpg",
     "_img/ッpgte webtoon cover.jpg",
     "! Meta/roadmap.md",
@@ -318,7 +321,6 @@
     "Sources/drafts/DRAFT Indecisive Parody (TVTropes).md",
     "Tools/drafts/DRAFT Obsidian Strange New Worlds.md",
     "Tools/drafts/DRAFT Obsidian Wikipedia Search.md",
-    "Sources/drafts/DRAFT 🎵 Sky is Over ().md",
     "Projects/Done",
     "Projects/Ideas",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",

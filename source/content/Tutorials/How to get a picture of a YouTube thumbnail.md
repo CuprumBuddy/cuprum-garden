@@ -1,3 +1,16 @@
+---
+modified: 2025-03-31T08:21:26+03:00
+title: 
+description: 
+lang: en-US
+tags: 
+aliases: 
+cover: 
+draft: false
+created: 
+published: 
+enableToc: true
+---
 You will need:
 - a link like that: `http://img.youtube.com/vi/[video_id]/maxresdefault.jpg`
 - the video id from the video URL (the characters after `?v=`)
