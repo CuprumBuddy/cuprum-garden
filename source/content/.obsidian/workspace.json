@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT The Role of Algorithms in Computing.md",
+                "file": "! Meta/drafts/DRAFT site map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT The Role of Algorithms in Computing"
+              "title": "DRAFT site map"
             }
           }
         ],
@@ -147,8 +147,7 @@
               "title": "Strange New Worlds"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -283,6 +282,14 @@
   },
   "active": "b1d329866d73b555",
   "lastOpenFiles": [
+    "Sources/drafts/DRAFT Конспект книги Мэг Джей «Важные годы».md",
+    "! Meta/drafts/DRAFT site map.md",
+    "Creatures",
+    "Sources/drafts/DRAFT Формирование понятий в действии.md",
+    "Sources/drafts/DRAFT Pinky and Pepper Forever.md",
+    "Sources/drafts/DRAFT О попытках понять по-русски «вещь в себе».md",
+    "Sources/drafts/DRAFT Слушать мусорного монстра.md",
+    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT The Role of Algorithms in Computing.md",
     "Sources/🎵 Level Clear! (Tom Cardy).md",
     "! Meta/changelog.md",
     "Sources/🦸 Birthright (Joshua Williamson).md",
@@ -290,7 +297,6 @@
     "Tools/Obsidian Keep the Rhythm.md",
     "Tools/Webtoons MIM Blocker (botato).md",
     "Tutorials/How to get a picture of a YouTube thumbnail.md",
-    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT The Role of Algorithms in Computing.md",
     "Sources/drafts/DRAFT Rest Days vs Recovery Days.md",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
     "! Meta/colophon.md",
@@ -315,19 +321,12 @@
     "_img/ッpgte webtoon cover.jpg",
     "! Meta/roadmap.md",
     "Tools/drafts/DRAFT Obsidian Color Folders and Files.md",
-    "Collages/drafts/DRAFT What is an ADHD Technology Explained.md",
-    "Sources/drafts/DRAFT Секс и ярость сукебан (Катя Александрова).md",
-    "Sources/drafts/DRAFT Theia – The Crimson Eclipse.md",
-    "Sources/drafts/DRAFT Indecisive Parody (TVTropes).md",
-    "Tools/drafts/DRAFT Obsidian Strange New Worlds.md",
-    "Tools/drafts/DRAFT Obsidian Wikipedia Search.md",
     "Projects/Done",
     "Projects/Ideas",
     "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
     "Tutorials/drafts",
     "Tutorials",
     "Notions",
-    "Collages/drafts",
-    "Curiosities/drafts"
+    "Collages/drafts"
   ]
 }

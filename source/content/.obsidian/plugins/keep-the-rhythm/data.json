@@ -758,7 +758,7 @@
         }
       },
       "2025-03-31": {
-        "totalDelta": 245,
+        "totalDelta": 475,
         "files": {
           "Sources/🦸 Birthright (Joshua Williamson).md": {
             "initial": 594,
@@ -827,6 +827,30 @@
           "! Meta/changelog.md": {
             "initial": 282,
             "current": 282
+          },
+          "Sources/drafts/DRAFT Pinky and Pepper Forever.md": {
+            "initial": 0,
+            "current": 38
+          },
+          "Sources/drafts/DRAFT Слушать мусорного монстра.md": {
+            "initial": 0,
+            "current": 35
+          },
+          "Sources/drafts/DRAFT О попытках понять по-русски «вещь в себе».md": {
+            "initial": 0,
+            "current": 36
+          },
+          "Sources/drafts/DRAFT Формирование понятий в действии.md": {
+            "initial": 0,
+            "current": 36
+          },
+          "Sources/drafts/DRAFT Конспект книги Мэг Джей «Важные годы».md": {
+            "initial": 0,
+            "current": 35
+          },
+          "! Meta/drafts/DRAFT site map.md": {
+            "initial": 0,
+            "current": 50
           }
         }
       }
