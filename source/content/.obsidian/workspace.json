@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
+                "file": "🇬🇧 English/Sources/drafts/DRAFT The fear of being perceived in neurodivergent people.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT Levels of EA Adjacency Never Thought Possible"
+              "title": "DRAFT The fear of being perceived in neurodivergent people"
             }
           },
           {
@@ -280,13 +280,16 @@
   },
   "active": "f8c8e898d6176d3f",
   "lastOpenFiles": [
+    "🇷🇺 Русский/Источники/DRAFT В чём сила тренингов по исполнению желаний.md",
+    "🇬🇧 English/Sources/drafts/DRAFT The fear of being perceived in neurodivergent people.md",
+    "🇬🇧 English/! Meta/changelog.md",
+    "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
+    "🇬🇧 English/Sources/Haskell Programming From First Principles",
     "_img/Pasted image 20250401183942.png",
     "🇬🇧 English/Sources/drafts/DRAFT 30 Great Essays About Biology.md",
-    "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
     "🇳🇱 Nederlands",
     "🇬🇧 English/Sources/drafts/DRAFT I should have loved biology (James Somers).md",
     "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
-    "🇬🇧 English/! Meta/changelog.md",
     "🇬🇧 English/Sources/Learn You a Haskell for Great Good/DRAFT Learn You a Haskell for Great Good! (Miran Lipovača et al.).md",
     "🇬🇧 English/Sources/The Introduction to Effective Altruism Handbook/EA Handbook.md",
     "🇬🇧 English/Sources/The Introduction to Effective Altruism Handbook",
@@ -305,7 +308,6 @@
     "🇯🇵 日本語",
     "🇫🇮 Suomi",
     "🇮🇹 Italiano",
-    "🇷🇺 Русский",
     "🇬🇧 English/Sources/drafts/DRAFT Как подвести итоги года и поставить цели на будущий.md",
     "🇬🇧 English/! Meta/drafts/DRAFT site map.md",
     "🇬🇧 English/Sources/drafts/DRAFT Конспект книги Мэг Джей «Важные годы».md",
@@ -316,7 +318,6 @@
     "🇬🇧 English/Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT The Role of Algorithms in Computing.md",
     "🇬🇧 English/Sources/🎵 Level Clear! (Tom Cardy).md",
     "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
-    "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
     "_img/ッLevel Clear! - cover.png",
     "_img/ッBirthright Mikey.png",
     "_img/ッBirthright landscape.png",
@@ -324,7 +325,6 @@
     "_img/ッcat do it for her meme.png",
     "_img/ッthe anatomy of loneliness - cover.png",
     "_img/ッtear along the dotted line poster.png",
-    "_img/ッCGP Grey - Your Theme 0m13s.png",
-    "_img/Do it for her.jpg"
+    "_img/ッCGP Grey - Your Theme 0m13s.png"
   ]
 }

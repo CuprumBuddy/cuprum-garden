@@ -863,7 +863,7 @@
         }
       },
       "2025-04-01": {
-        "totalDelta": 529,
+        "totalDelta": 599,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT Dyslucksia.md": {
             "initial": 37,
@@ -920,6 +920,14 @@
           "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md": {
             "initial": 0,
             "current": 35
+          },
+          "🇷🇺 Русский/Источники/DRAFT В чём сила тренингов по исполнению желаний.md": {
+            "initial": 0,
+            "current": 34
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT The fear of being perceived in neurodivergent people.md": {
+            "initial": 0,
+            "current": 36
           }
         }
       }
