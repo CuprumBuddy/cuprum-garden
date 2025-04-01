@@ -863,7 +863,7 @@
         }
       },
       "2025-04-01": {
-        "totalDelta": 494,
+        "totalDelta": 529,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT Dyslucksia.md": {
             "initial": 37,
@@ -916,6 +916,10 @@
           "🇬🇧 English/Sources/drafts/DRAFT 30 Great Essays About Biology.md": {
             "initial": 0,
             "current": 37
+          },
+          "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md": {
+            "initial": 0,
+            "current": 35
           }
         }
       }

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT 30 Great Essays About Biology.md",
+                "file": "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT 30 Great Essays About Biology"
+              "title": "DRAFT Levels of EA Adjacency Never Thought Possible"
             }
           },
           {
@@ -278,11 +278,13 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "967de0bd04797223",
+  "active": "f8c8e898d6176d3f",
   "lastOpenFiles": [
+    "_img/Pasted image 20250401183942.png",
+    "🇬🇧 English/Sources/drafts/DRAFT 30 Great Essays About Biology.md",
+    "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
     "🇳🇱 Nederlands",
     "🇬🇧 English/Sources/drafts/DRAFT I should have loved biology (James Somers).md",
-    "🇬🇧 English/Sources/drafts/DRAFT 30 Great Essays About Biology.md",
     "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
     "🇬🇧 English/! Meta/changelog.md",
     "🇬🇧 English/Sources/Learn You a Haskell for Great Good/DRAFT Learn You a Haskell for Great Good! (Miran Lipovača et al.).md",
@@ -304,7 +306,6 @@
     "🇫🇮 Suomi",
     "🇮🇹 Italiano",
     "🇷🇺 Русский",
-    "🇬🇧 English",
     "🇬🇧 English/Sources/drafts/DRAFT Как подвести итоги года и поставить цели на будущий.md",
     "🇬🇧 English/! Meta/drafts/DRAFT site map.md",
     "🇬🇧 English/Sources/drafts/DRAFT Конспект книги Мэг Джей «Важные годы».md",
@@ -316,7 +317,6 @@
     "🇬🇧 English/Sources/🎵 Level Clear! (Tom Cardy).md",
     "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
     "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
-    "🇬🇧 English/Tools/Obsidian Keep the Rhythm.md",
     "_img/ッLevel Clear! - cover.png",
     "_img/ッBirthright Mikey.png",
     "_img/ッBirthright landscape.png",
