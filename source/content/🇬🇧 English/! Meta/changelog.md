@@ -7,10 +7,12 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T12:13:56+03:00
-modified: 2025-03-30T17:30:47+03:00
+modified: 2025-04-01T05:58:13+03:00
 published: 2025-03-26
 enableToc: true
 ---
+## 2025-04-01
+- created folders for notes in different languages
 ## 2025-03-30
 - updated pages:
 	- [[📔 A Practical Guide to Evil (Erratic Errata)]]

@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b3f74b8a650e827",
+            "id": "b5f78df68de99451",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Meta/changelog.md",
+                "file": "🇬🇧 English/! Meta/changelog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -34,13 +34,12 @@
             }
           },
           {
-            "id": "ceca4a2de9f6c014",
+            "id": "f8c8e898d6176d3f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Meta/colophon.md",
+                "file": "🇬🇧 English/Sources/drafts/DRAFT 30 Great Essays About Biology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,18 +53,17 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "colophon"
+              "title": "DRAFT 30 Great Essays About Biology"
             }
           },
           {
-            "id": "b1d329866d73b555",
+            "id": "0897fcafd6778d96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/drafts/DRAFT Dyslucksia.md",
+                "file": "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,11 +78,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT Dyslucksia"
+              "title": "DRAFT resume"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -280,53 +278,53 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "b1d329866d73b555",
+  "active": "967de0bd04797223",
   "lastOpenFiles": [
-    "Sources/drafts/DRAFT Как подвести итоги года и поставить цели на будущий.md",
-    "Sources/drafts/DRAFT Dyslucksia.md",
-    "! Meta/drafts/DRAFT site map.md",
-    "Sources/drafts/DRAFT Конспект книги Мэг Джей «Важные годы».md",
-    "Creatures",
-    "Sources/drafts/DRAFT Формирование понятий в действии.md",
-    "Sources/drafts/DRAFT Pinky and Pepper Forever.md",
-    "Sources/drafts/DRAFT О попытках понять по-русски «вещь в себе».md",
-    "Sources/drafts/DRAFT Слушать мусорного монстра.md",
-    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT The Role of Algorithms in Computing.md",
-    "Sources/🎵 Level Clear! (Tom Cardy).md",
-    "! Meta/changelog.md",
-    "Sources/🦸 Birthright (Joshua Williamson).md",
-    "Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
-    "Tools/Obsidian Keep the Rhythm.md",
-    "Tools/Webtoons MIM Blocker (botato).md",
-    "Tutorials/How to get a picture of a YouTube thumbnail.md",
-    "Sources/drafts/DRAFT Rest Days vs Recovery Days.md",
-    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT ! Introduction to Algorithms - TOC.md",
-    "! Meta/colophon.md",
+    "🇬🇧 English/Sources/drafts/DRAFT I should have loved biology (James Somers).md",
+    "🇬🇧 English/Sources/drafts/DRAFT 30 Great Essays About Biology.md",
+    "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
+    "🇬🇧 English/! Meta/changelog.md",
+    "🇬🇧 English/Sources/Learn You a Haskell for Great Good/DRAFT Learn You a Haskell for Great Good! (Miran Lipovača et al.).md",
+    "🇬🇧 English/Sources/The Introduction to Effective Altruism Handbook/EA Handbook.md",
+    "🇬🇧 English/Sources/The Introduction to Effective Altruism Handbook",
+    "🇬🇧 English/! Meta/drafts/DRAFT tag system.md",
+    "🇷🇺 Русский/Источники/Практическая подготовка к ЕГЭ по биологии/DRAFT Практическая подготовка к ЕГЭ по биологии.md",
+    "🇬🇧 English/Sources/Learn You a Haskell for Great Good",
+    "🇷🇺 Русский/Источники/Практическая подготовка к ЕГЭ по биологии",
+    "🇷🇺 Русский/Источники",
+    "🇬🇧 English/Projects/drafts/DRAFT A fantasy novel about cryonics.md",
+    "🇷🇺 Русский/Коллажи",
+    "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md",
+    "_img/Pasted image 20250401051817.png",
+    "🇬🇧 English/Tools/drafts/DRAFT Obsidian Color Folders and Files.md",
+    "🇬🇧 English/People/drafts/DRAFT Allie X.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Dyslucksia.md",
+    "🇯🇵 日本語",
+    "🇫🇮 Suomi",
+    "🇮🇹 Italiano",
+    "🇷🇺 Русский",
+    "🇬🇧 English",
+    "🇬🇧 English/Sources/drafts/DRAFT Как подвести итоги года и поставить цели на будущий.md",
+    "🇬🇧 English/! Meta/drafts/DRAFT site map.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Конспект книги Мэг Джей «Важные годы».md",
+    "🇬🇧 English/Sources/drafts/DRAFT Формирование понятий в действии.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Pinky and Pepper Forever.md",
+    "🇬🇧 English/Sources/drafts/DRAFT О попытках понять по-русски «вещь в себе».md",
+    "🇬🇧 English/Sources/drafts/DRAFT Слушать мусорного монстра.md",
+    "🇬🇧 English/Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT The Role of Algorithms in Computing.md",
+    "🇬🇧 English/Sources/🎵 Level Clear! (Tom Cardy).md",
+    "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
+    "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
+    "🇬🇧 English/Tools/Obsidian Keep the Rhythm.md",
+    "🇬🇧 English/Tools/Webtoons MIM Blocker (botato).md",
     "_img/ッLevel Clear! - cover.png",
-    "_templates/(TMPL) Site - General.md",
-    "Projects/drafts/DRAFT Public Bathrooms Collection.md",
-    "Projects/Ideas/A Corporate Practical Guide to Evil.md",
-    "Projects/In progress",
     "_img/ッBirthright Mikey.png",
     "_img/ッBirthright landscape.png",
     "_img/ッbirthright comic - cover.png",
     "_img/ッcat do it for her meme.png",
     "_img/ッthe anatomy of loneliness - cover.png",
-    "Concepts/drafts/DRAFT Investigative Reading.md",
-    "Tools/drafts/DRAFT Obsidian Front Matter Timestamps.md",
-    "Tools/drafts/DRAFT Citations (Quartz plugin).md",
-    "Tools/drafts/DRAFT Obsidian Line Arrange.md",
     "_img/ッtear along the dotted line poster.png",
     "_img/ッCGP Grey - Your Theme 0m13s.png",
-    "Places",
-    "_img/Do it for her.jpg",
-    "_img/ッpgte webtoon cover.jpg",
-    "Projects/Done",
-    "Projects/Ideas",
-    "Sources/Introduction to Algorithms (Thomas H. Cormen et al.)",
-    "Tutorials/drafts",
-    "Tutorials",
-    "Notions",
-    "Collages/drafts"
+    "_img/Do it for her.jpg"
   ]
 }

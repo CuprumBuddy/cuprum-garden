@@ -861,6 +861,63 @@
             "current": 37
           }
         }
+      },
+      "2025-04-01": {
+        "totalDelta": 494,
+        "files": {
+          "🇬🇧 English/Sources/drafts/DRAFT Dyslucksia.md": {
+            "initial": 37,
+            "current": 37
+          },
+          "🇬🇧 English/People/drafts/DRAFT Allie X.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "🇬🇧 English/Tools/drafts/DRAFT Obsidian Color Folders and Files.md": {
+            "initial": 57,
+            "current": 78
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md": {
+            "initial": 0,
+            "current": 99
+          },
+          "🇬🇧 English/Projects/drafts/DRAFT A fantasy novel about cryonics.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇷🇺 Русский/Источники/Практическая подготовка к ЕГЭ по биологии/DRAFT Практическая подготовка к ЕГЭ по биологии.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Sources/Learn You a Haskell for Great Good/DRAFT Learn You a Haskell for Great Good! (Miran Lipovača et al.).md": {
+            "initial": 4,
+            "current": 26
+          },
+          "🇬🇧 English/! Meta/changelog.md": {
+            "initial": 282,
+            "current": 292
+          },
+          "🇬🇧 English/! Meta/drafts/DRAFT tag system.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/! Meta/drafts/DRAFT resume.md": {
+            "initial": 0,
+            "current": 88
+          },
+          "🇬🇧 English/Sources/The Introduction to Effective Altruism Handbook/EA Handbook.md": {
+            "initial": 0,
+            "current": 36
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT I should have loved biology (James Somers).md": {
+            "initial": 0,
+            "current": 91
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT 30 Great Essays About Biology.md": {
+            "initial": 0,
+            "current": 37
+          }
+        }
       }
     }
   }
