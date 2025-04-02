@@ -283,12 +283,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,7 +303,7 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "0d5e8fc5b2abd668",
+  "active": "37d289cbfffbb19f",
   "lastOpenFiles": [
     "🇬🇧 English/Moments/drafts/DRAFT Make Sure to Warm Up Beforehand.md",
     "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
