@@ -930,6 +930,71 @@
             "current": 36
           }
         }
+      },
+      "2025-04-02": {
+        "totalDelta": 397,
+        "files": {
+          "🇬🇧 English/Sources/drafts/DRAFT The fear of being perceived in neurodivergent people.md": {
+            "initial": 36,
+            "current": 36
+          },
+          "🇷🇺 Русский/Источники/DRAFT Как Souls-игры спасают жизни.md": {
+            "initial": 0,
+            "current": 37
+          },
+          "🇬🇧 English/Sources/Replacing Guilt/DRAFT Replacing Guilt.md": {
+            "initial": 0,
+            "current": 18
+          },
+          "🇬🇧 English/Sources/Rationality From AI to Zombie/DRAFT Rationality From AI to Zombie.md": {
+            "initial": 0,
+            "current": 35
+          },
+          "🇬🇧 English/! Meta/drafts/DRAFT resume.md": {
+            "initial": 88,
+            "current": 96
+          },
+          "🇬🇧 English/! Meta/changelog.md": {
+            "initial": 292,
+            "current": 292
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT How Many Licks.md": {
+            "initial": 0,
+            "current": 42
+          },
+          "🇷🇺 Русский/Источники/drafts/DRAFT Теорема Ауманна о согласии (Википедия).md": {
+            "initial": 0,
+            "current": 81
+          },
+          "🇬🇧 English/Tools/drafts/DRAFT Dark Reader.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Tools/Obsidian Plugins/Obsidian Keep the Rhythm.md": {
+            "initial": 161,
+            "current": 165
+          },
+          "🇬🇧 English/Tools/Browser Add-ons/Webtoons MIM Blocker (botato).md": {
+            "initial": 88,
+            "current": 88
+          },
+          "🇬🇧 English/Tools/drafts/DRAFT CopyQ.md": {
+            "initial": 0,
+            "current": 43
+          },
+          "🇬🇧 English/! Meta/colophon.md": {
+            "initial": 470,
+            "current": 496
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT RPG Maker » Media Notes.md": {
+            "initial": 0,
+            "current": 38
+          },
+          "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/DRAFT Истгео.md": {
+            "initial": 0,
+            "current": 35
+          }
+        }
       }
     }
   }

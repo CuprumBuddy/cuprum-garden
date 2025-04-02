@@ -39,4 +39,9 @@ Kind of a backstage/back-end: while I can’t directly share the results of thes
 - [[DRAFT Obsidian Strange New Worlds|Strange New Worlds]]: presents connections between notes in a more visually pleasant way than standard backlinks and outgoing links tabs.
 - [[DRAFT Obsidian Wikipedia Search|Wikipedia Search]]
 
+## Honorable Mentions
+These tools don’t affect the site itself in any way, but they make writing posts (and life in general) easier.
+
+- [[DRAFT CopyQ|CopyQ]]
+
 [^1]: This is an example of a footnote.

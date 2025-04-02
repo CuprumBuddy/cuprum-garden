@@ -34,12 +34,13 @@
             }
           },
           {
-            "id": "f8c8e898d6176d3f",
+            "id": "f5ef6390ee24d1e7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT The fear of being perceived in neurodivergent people.md",
+                "file": "🇬🇧 English/! Meta/colophon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,17 +54,18 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "DRAFT The fear of being perceived in neurodivergent people"
+              "title": "colophon"
             }
           },
           {
-            "id": "0897fcafd6778d96",
+            "id": "782452f60a37cfe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
+                "file": "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/DRAFT Истгео.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,11 +80,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT resume"
+              "title": "DRAFT Истгео"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,46 +280,46 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "f8c8e898d6176d3f",
+  "active": "782452f60a37cfe8",
   "lastOpenFiles": [
-    "🇷🇺 Русский/Источники/DRAFT В чём сила тренингов по исполнению желаний.md",
-    "🇬🇧 English/Sources/drafts/DRAFT The fear of being perceived in neurodivergent people.md",
+    "🇬🇧 English/! Meta/colophon.md",
+    "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/DRAFT Истгео.md",
+    "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)",
+    "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
+    "🇬🇧 English/Tools/drafts/DRAFT CopyQ.md",
+    "🇬🇧 English/Sources/drafts/DRAFT RPG Maker » Media Notes.md",
     "🇬🇧 English/! Meta/changelog.md",
+    "🇬🇧 English/Tools/Browser Add-ons/Webtoons MIM Blocker (botato).md",
+    "🇬🇧 English/Tools/Browser Add-ons",
+    "🇬🇧 English/Tools/Obsidian Plugins/Obsidian Keep the Rhythm.md",
+    "🇬🇧 English/Tools/drafts/DRAFT Dark Reader.md",
+    "🇬🇧 English/Tools/Obsidian Plugins",
+    "🇷🇺 Русский/Источники/drafts/DRAFT Теорема Ауманна о согласии (Википедия).md",
+    "🇬🇧 English/Sources/drafts/DRAFT How Many Licks.md",
+    "🇷🇺 Русский/Источники/drafts",
+    "🇬🇧 English/Sources/Metaphors We Live By",
+    "🇬🇧 English/Sources/Rationality From AI to Zombie/DRAFT Rationality From AI to Zombie.md",
+    "🇬🇧 English/Sources/drafts/DRAFT The fear of being perceived in neurodivergent people.md",
+    "🇷🇺 Русский/Источники/DRAFT Как Souls-игры спасают жизни.md",
+    "🇬🇧 English/Sources/Rationality From AI to Zombie",
+    "🇬🇧 English/Sources/Replacing Guilt",
+    "🇬🇧 English/Sources/Replacing Guilt/DRAFT Replacing Guilt.md",
+    "🇷🇺 Русский/Источники/DRAFT В чём сила тренингов по исполнению желаний.md",
     "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
     "🇬🇧 English/Sources/Haskell Programming From First Principles",
     "_img/Pasted image 20250401183942.png",
     "🇬🇧 English/Sources/drafts/DRAFT 30 Great Essays About Biology.md",
     "🇳🇱 Nederlands",
     "🇬🇧 English/Sources/drafts/DRAFT I should have loved biology (James Somers).md",
-    "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
     "🇬🇧 English/Sources/Learn You a Haskell for Great Good/DRAFT Learn You a Haskell for Great Good! (Miran Lipovača et al.).md",
     "🇬🇧 English/Sources/The Introduction to Effective Altruism Handbook/EA Handbook.md",
     "🇬🇧 English/Sources/The Introduction to Effective Altruism Handbook",
     "🇬🇧 English/! Meta/drafts/DRAFT tag system.md",
     "🇷🇺 Русский/Источники/Практическая подготовка к ЕГЭ по биологии/DRAFT Практическая подготовка к ЕГЭ по биологии.md",
-    "🇬🇧 English/Sources/Learn You a Haskell for Great Good",
-    "🇷🇺 Русский/Источники/Практическая подготовка к ЕГЭ по биологии",
-    "🇷🇺 Русский/Источники",
     "🇬🇧 English/Projects/drafts/DRAFT A fantasy novel about cryonics.md",
-    "🇷🇺 Русский/Коллажи",
     "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md",
     "_img/Pasted image 20250401051817.png",
     "🇬🇧 English/Tools/drafts/DRAFT Obsidian Color Folders and Files.md",
-    "🇬🇧 English/People/drafts/DRAFT Allie X.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Dyslucksia.md",
-    "🇯🇵 日本語",
-    "🇫🇮 Suomi",
-    "🇮🇹 Italiano",
-    "🇬🇧 English/Sources/drafts/DRAFT Как подвести итоги года и поставить цели на будущий.md",
-    "🇬🇧 English/! Meta/drafts/DRAFT site map.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Конспект книги Мэг Джей «Важные годы».md",
-    "🇬🇧 English/Sources/drafts/DRAFT Формирование понятий в действии.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Pinky and Pepper Forever.md",
-    "🇬🇧 English/Sources/drafts/DRAFT О попытках понять по-русски «вещь в себе».md",
-    "🇬🇧 English/Sources/drafts/DRAFT Слушать мусорного монстра.md",
-    "🇬🇧 English/Sources/Introduction to Algorithms (Thomas H. Cormen et al.)/DRAFT The Role of Algorithms in Computing.md",
-    "🇬🇧 English/Sources/🎵 Level Clear! (Tom Cardy).md",
-    "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
     "_img/ッLevel Clear! - cover.png",
     "_img/ッBirthright Mikey.png",
     "_img/ッBirthright landscape.png",
