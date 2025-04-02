@@ -65,6 +65,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "🇬🇧 English/Moments/drafts/DRAFT Make Sure to Warm Up Beforehand.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT Make Sure to Warm Up Beforehand"
+            }
+          },
+          {
+            "id": "0d5e8fc5b2abd668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
                 "mode": "source",
                 "source": false,
@@ -82,33 +106,9 @@
               "icon": "lucide-file",
               "title": "DRAFT folder system"
             }
-          },
-          {
-            "id": "243a3fc51ba20cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DRAFT Levels of EA Adjacency Never Thought Possible"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -304,15 +304,19 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "782452f60a37cfe8",
+  "active": "0d5e8fc5b2abd668",
   "lastOpenFiles": [
-    "🇬🇧 English/! Meta/drafts/DRAFT pricing.md",
+    "🇬🇧 English/Moments/drafts/DRAFT Make Sure to Warm Up Beforehand.md",
     "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Interoception (Wikipedia).md",
+    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
+    "🇬🇧 English/Moments/drafts",
+    "🇬🇧 English/Sources/🧩 Collections",
+    "🇬🇧 English/! Meta/drafts/DRAFT pricing.md",
     "🇬🇧 English/Curiosities/drafts/DRAFT \"a camel is a horse designed by a committee\".md",
     "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md",
     "🇬🇧 English/! Meta/drafts/DRAFT license.md",
     "🇬🇧 English/! Meta/drafts/DRAFT rules.md",
-    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "🇬🇧 English/Projects/drafts/DRAFT Deep Diving.md",
     "🇬🇧 English/Projects/drafts/DRAFT Sitting Characters from Yume Nikki fangames.md",
     "🇬🇧 English/! Meta/drafts/DRAFT tag system.md",
@@ -337,12 +341,8 @@
     "🇷🇺 Русский/Источники/DRAFT Как Souls-игры спасают жизни.md",
     "🇬🇧 English/Sources/Rationality From AI to Zombie",
     "🇬🇧 English/Sources/Replacing Guilt",
-    "🇬🇧 English/Sources/Replacing Guilt/DRAFT Replacing Guilt.md",
-    "🇷🇺 Русский/Источники/DRAFT В чём сила тренингов по исполнению желаний.md",
     "🇬🇧 English/Sources/Haskell Programming From First Principles",
     "_img/Pasted image 20250401183942.png",
-    "🇳🇱 Nederlands",
-    "🇬🇧 English/Sources/The Introduction to Effective Altruism Handbook",
     "_img/Pasted image 20250401051817.png",
     "_img/ッLevel Clear! - cover.png",
     "_img/ッBirthright Mikey.png",
