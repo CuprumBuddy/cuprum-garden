@@ -932,7 +932,7 @@
         }
       },
       "2025-04-02": {
-        "totalDelta": 724,
+        "totalDelta": 727,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT The fear of being perceived in neurodivergent people.md": {
             "initial": 36,
@@ -1000,7 +1000,7 @@
           },
           "🇬🇧 English/! Meta/drafts/DRAFT folder system.md": {
             "initial": 0,
-            "current": 112
+            "current": 115
           },
           "🇬🇧 English/Projects/drafts/DRAFT Sitting Characters from Yume Nikki fangames.md": {
             "initial": 0,
@@ -1021,6 +1021,18 @@
           "🇬🇧 English/! Meta/drafts/DRAFT rules.md": {
             "initial": 0,
             "current": 22
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md": {
+            "initial": 99,
+            "current": 99
+          },
+          "🇬🇧 English/Curiosities/drafts/DRAFT \"a camel is a horse designed by a committee\".md": {
+            "initial": 14,
+            "current": 14
+          },
+          "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md": {
+            "initial": 35,
+            "current": 35
           }
         }
       }
