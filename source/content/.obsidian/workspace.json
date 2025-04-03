@@ -60,32 +60,9 @@
             }
           },
           {
-            "id": "782452f60a37cfe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🇬🇧 English/Moments/drafts/DRAFT Make Sure to Warm Up Beforehand.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DRAFT Make Sure to Warm Up Beforehand"
-            }
-          },
-          {
             "id": "0d5e8fc5b2abd668",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -103,8 +80,33 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "DRAFT folder system"
+            }
+          },
+          {
+            "id": "e6aa75ecdbe857b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🇬🇧 English/Curiosities/drafts/DRAFT Expedia Presents Great Britain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT Expedia Presents Great Britain"
             }
           }
         ],
@@ -303,12 +305,14 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "37d289cbfffbb19f",
+  "active": "e6aa75ecdbe857b0",
   "lastOpenFiles": [
+    "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/DRAFT Истгео.md",
+    "🇬🇧 English/Curiosities/drafts/DRAFT Expedia Presents Great Britain.md",
+    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "🇬🇧 English/Moments/drafts/DRAFT Make Sure to Warm Up Beforehand.md",
     "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
     "🇬🇧 English/Sources/drafts/DRAFT Interoception (Wikipedia).md",
-    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "🇬🇧 English/Moments/drafts",
     "🇬🇧 English/Sources/🧩 Collections",
     "🇬🇧 English/! Meta/drafts/DRAFT pricing.md",
@@ -319,7 +323,6 @@
     "🇬🇧 English/Projects/drafts/DRAFT Deep Diving.md",
     "🇬🇧 English/Projects/drafts/DRAFT Sitting Characters from Yume Nikki fangames.md",
     "🇬🇧 English/! Meta/drafts/DRAFT tag system.md",
-    "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/DRAFT Истгео.md",
     "🇬🇧 English/! Meta/colophon.md",
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)",
     "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
@@ -337,7 +340,6 @@
     "🇬🇧 English/Sources/Metaphors We Live By",
     "🇬🇧 English/Sources/Rationality From AI to Zombie/DRAFT Rationality From AI to Zombie.md",
     "🇬🇧 English/Sources/drafts/DRAFT The fear of being perceived in neurodivergent people.md",
-    "🇷🇺 Русский/Источники/DRAFT Как Souls-игры спасают жизни.md",
     "🇬🇧 English/Sources/Rationality From AI to Zombie",
     "🇬🇧 English/Sources/Replacing Guilt",
     "🇬🇧 English/Sources/Haskell Programming From First Principles",

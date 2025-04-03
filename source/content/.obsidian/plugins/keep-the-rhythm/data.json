@@ -932,7 +932,7 @@
         }
       },
       "2025-04-02": {
-        "totalDelta": 1218,
+        "totalDelta": 1305,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT The fear of being perceived in neurodivergent people.md": {
             "initial": 36,
@@ -992,7 +992,7 @@
           },
           "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/DRAFT Истгео.md": {
             "initial": 0,
-            "current": 35
+            "current": 92
           },
           "🇬🇧 English/! Meta/drafts/DRAFT tag system.md": {
             "initial": 30,
@@ -1039,6 +1039,10 @@
             "current": 232
           },
           "🇬🇧 English/Sources/drafts/DRAFT Interoception (Wikipedia).md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Curiosities/drafts/DRAFT Expedia Presents Great Britain.md": {
             "initial": 0,
             "current": 30
           }
