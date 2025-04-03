@@ -89,12 +89,24 @@
             "id": "e6aa75ecdbe857b0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_img/ッI Thought I Was an Angel - cover.png"
+                "file": "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "ッI Thought I Was an Angel - cover"
+              "icon": "lucide-file",
+              "title": "DRAFT HPFFP - Introduction"
             }
           }
         ],
@@ -165,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -295,10 +308,14 @@
   },
   "active": "e6aa75ecdbe857b0",
   "lastOpenFiles": [
+    "🇬🇧 English/Sources/🧩 Collections/DRAFT Awesome Python (Vinta).md",
+    "🇬🇧 English/! Meta/colophon.md",
+    "🇬🇧 English/! Meta/changelog.md",
+    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
+    "_img/ッI Thought I Was an Angel - cover.png",
     "_img/ッEA Adjacentcy.png",
     "_img/ッHaskell Programming from First Principles - cover.png",
     "_img/ッHakenbüchse.png",
-    "_img/ッI Thought I Was an Angel - cover.png",
     "_img/Pasted image 20250403145352.png",
     "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
     "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
@@ -307,7 +324,6 @@
     "🇬🇧 English/Curiosities/drafts/DRAFT Expedia Presents Great Britain.md",
     "🇬🇧 English/Moments/drafts/DRAFT Make Sure to Warm Up Beforehand.md",
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/DRAFT Истгео.md",
-    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
     "🇬🇧 English/Sources/drafts/DRAFT Interoception (Wikipedia).md",
     "🇬🇧 English/Moments/drafts",
@@ -320,16 +336,13 @@
     "🇬🇧 English/Projects/drafts/DRAFT Deep Diving.md",
     "🇬🇧 English/Projects/drafts/DRAFT Sitting Characters from Yume Nikki fangames.md",
     "🇬🇧 English/! Meta/drafts/DRAFT tag system.md",
-    "🇬🇧 English/! Meta/colophon.md",
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)",
     "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
     "🇬🇧 English/Tools/drafts/DRAFT CopyQ.md",
     "🇬🇧 English/Sources/drafts/DRAFT RPG Maker » Media Notes.md",
-    "🇬🇧 English/! Meta/changelog.md",
     "🇬🇧 English/Tools/Browser Add-ons/Webtoons MIM Blocker (botato).md",
     "🇬🇧 English/Tools/Browser Add-ons",
     "🇬🇧 English/Tools/Obsidian Plugins/Obsidian Keep the Rhythm.md",
-    "🇬🇧 English/Tools/drafts/DRAFT Dark Reader.md",
     "🇬🇧 English/Tools/Obsidian Plugins",
     "🇷🇺 Русский/Источники/drafts",
     "🇬🇧 English/Sources/Metaphors We Live By",
