@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
+                "file": "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,7 +106,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT HPFFP - Introduction"
+              "title": "DRAFT Hackenbush & Hakenbüchse"
             }
           }
         ],
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -308,9 +307,11 @@
   },
   "active": "e6aa75ecdbe857b0",
   "lastOpenFiles": [
+    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
+    "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
+    "🇬🇧 English/Thoughts",
     "_img/Pasted image 20250403114216.png",
     "🇬🇧 English/Sources/drafts/DRAFT Making Sense of Interoception.md",
-    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
     "🇬🇧 English/Curiosities/drafts/DRAFT Expedia Presents Great Britain.md",
     "🇬🇧 English/Moments/drafts/DRAFT Make Sure to Warm Up Beforehand.md",
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/DRAFT Истгео.md",
@@ -343,7 +344,6 @@
     "🇬🇧 English/Sources/Metaphors We Live By",
     "🇬🇧 English/Sources/Rationality From AI to Zombie",
     "🇬🇧 English/Sources/Replacing Guilt",
-    "🇬🇧 English/Sources/Haskell Programming From First Principles",
     "_img/Pasted image 20250401183942.png",
     "_img/Pasted image 20250401051817.png",
     "_img/ッLevel Clear! - cover.png",
@@ -352,7 +352,6 @@
     "_img/ッbirthright comic - cover.png",
     "_img/ッcat do it for her meme.png",
     "_img/ッthe anatomy of loneliness - cover.png",
-    "_img/ッtear along the dotted line poster.png",
-    "_img/ッCGP Grey - Your Theme 0m13s.png"
+    "_img/ッtear along the dotted line poster.png"
   ]
 }
