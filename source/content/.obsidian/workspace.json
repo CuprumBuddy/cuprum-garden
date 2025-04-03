@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
+                "file": "🇬🇧 English/Sources/🧩 Collections/DRAFT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,7 +106,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT HPFFP - Introduction"
+              "title": "DRAFT"
             }
           }
         ],
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -290,7 +289,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,6 +308,8 @@
   },
   "active": "e6aa75ecdbe857b0",
   "lastOpenFiles": [
+    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
+    "🇬🇧 English/Sources/🧩 Collections/DRAFT.md",
     "🇬🇧 English/Sources/🧩 Collections/DRAFT Awesome Python (Vinta).md",
     "🇬🇧 English/! Meta/colophon.md",
     "🇬🇧 English/! Meta/changelog.md",
@@ -318,7 +320,6 @@
     "_img/ッHakenbüchse.png",
     "_img/Pasted image 20250403145352.png",
     "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
-    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
     "🇬🇧 English/Thoughts",
     "🇬🇧 English/Sources/drafts/DRAFT Making Sense of Interoception.md",
     "🇬🇧 English/Curiosities/drafts/DRAFT Expedia Presents Great Britain.md",
