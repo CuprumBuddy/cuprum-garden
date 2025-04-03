@@ -89,24 +89,12 @@
             "id": "e6aa75ecdbe857b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "_img/ッI Thought I Was an Angel - cover.png"
               },
-              "icon": "lucide-file",
-              "title": "DRAFT Hackenbush & Hakenbüchse"
+              "icon": "lucide-image",
+              "title": "ッI Thought I Was an Angel - cover"
             }
           }
         ],
@@ -177,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 278.5
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -307,10 +295,14 @@
   },
   "active": "e6aa75ecdbe857b0",
   "lastOpenFiles": [
-    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
+    "_img/ッEA Adjacentcy.png",
+    "_img/ッHaskell Programming from First Principles - cover.png",
+    "_img/ッHakenbüchse.png",
+    "_img/ッI Thought I Was an Angel - cover.png",
+    "_img/Pasted image 20250403145352.png",
     "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
+    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
     "🇬🇧 English/Thoughts",
-    "_img/Pasted image 20250403114216.png",
     "🇬🇧 English/Sources/drafts/DRAFT Making Sense of Interoception.md",
     "🇬🇧 English/Curiosities/drafts/DRAFT Expedia Presents Great Britain.md",
     "🇬🇧 English/Moments/drafts/DRAFT Make Sure to Warm Up Beforehand.md",
@@ -339,19 +331,14 @@
     "🇬🇧 English/Tools/Obsidian Plugins/Obsidian Keep the Rhythm.md",
     "🇬🇧 English/Tools/drafts/DRAFT Dark Reader.md",
     "🇬🇧 English/Tools/Obsidian Plugins",
-    "🇷🇺 Русский/Источники/drafts/DRAFT Теорема Ауманна о согласии (Википедия).md",
     "🇷🇺 Русский/Источники/drafts",
     "🇬🇧 English/Sources/Metaphors We Live By",
     "🇬🇧 English/Sources/Rationality From AI to Zombie",
     "🇬🇧 English/Sources/Replacing Guilt",
-    "_img/Pasted image 20250401183942.png",
-    "_img/Pasted image 20250401051817.png",
     "_img/ッLevel Clear! - cover.png",
     "_img/ッBirthright Mikey.png",
     "_img/ッBirthright landscape.png",
     "_img/ッbirthright comic - cover.png",
-    "_img/ッcat do it for her meme.png",
-    "_img/ッthe anatomy of loneliness - cover.png",
-    "_img/ッtear along the dotted line poster.png"
+    "_img/ッcat do it for her meme.png"
   ]
 }

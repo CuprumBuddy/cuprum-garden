@@ -1049,7 +1049,7 @@
         }
       },
       "2025-04-03": {
-        "totalDelta": 892,
+        "totalDelta": 1020,
         "files": {
           "🇬🇧 English/Curiosities/drafts/DRAFT Expedia Presents Great Britain.md": {
             "initial": 31,
@@ -1065,11 +1065,19 @@
           },
           "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md": {
             "initial": 0,
-            "current": 772
+            "current": 777
           },
           "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md": {
             "initial": 0,
-            "current": 38
+            "current": 161
+          },
+          "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md": {
+            "initial": 36,
+            "current": 36
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md": {
+            "initial": 105,
+            "current": 105
           }
         }
       }
