@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/🧩 Collections/DRAFT.md",
+                "file": "🇬🇧 English/Sources/🧩 Collections/DRAFT Read Something Wonderful.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,11 +106,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT"
+              "title": "DRAFT Read Something Wonderful"
+            }
+          },
+          {
+            "id": "c80343e0067484bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT A blog post is a query"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -289,8 +313,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,10 +329,12 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "e6aa75ecdbe857b0",
+  "active": "c80343e0067484bb",
   "lastOpenFiles": [
+    "_img/Pasted image 20250404060954.png",
+    "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md",
+    "🇬🇧 English/Sources/🧩 Collections/DRAFT Read Something Wonderful.md",
     "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
-    "🇬🇧 English/Sources/🧩 Collections/DRAFT.md",
     "🇬🇧 English/Sources/🧩 Collections/DRAFT Awesome Python (Vinta).md",
     "🇬🇧 English/! Meta/colophon.md",
     "🇬🇧 English/! Meta/changelog.md",
@@ -341,9 +366,7 @@
     "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
     "🇬🇧 English/Tools/drafts/DRAFT CopyQ.md",
     "🇬🇧 English/Sources/drafts/DRAFT RPG Maker » Media Notes.md",
-    "🇬🇧 English/Tools/Browser Add-ons/Webtoons MIM Blocker (botato).md",
     "🇬🇧 English/Tools/Browser Add-ons",
-    "🇬🇧 English/Tools/Obsidian Plugins/Obsidian Keep the Rhythm.md",
     "🇬🇧 English/Tools/Obsidian Plugins",
     "🇷🇺 Русский/Источники/drafts",
     "🇬🇧 English/Sources/Metaphors We Live By",
