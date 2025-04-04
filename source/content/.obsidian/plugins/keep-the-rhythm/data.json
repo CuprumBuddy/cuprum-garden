@@ -1102,7 +1102,7 @@
         }
       },
       "2025-04-04": {
-        "totalDelta": 1067,
+        "totalDelta": 1503,
         "files": {
           "🇬🇧 English/Sources/🧩 Collections/DRAFT Read Something Wonderful.md": {
             "initial": 142,
@@ -1118,7 +1118,7 @@
           },
           "DRAFT HPFFP 01 - All you need is Lambda.md": {
             "initial": 0,
-            "current": 224
+            "current": 660
           },
           "🇬🇧 English/! Meta/colophon.md": {
             "initial": 496,
