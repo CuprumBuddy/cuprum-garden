@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/🧩 Collections/DRAFT Read Something Wonderful.md",
+                "file": "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,20 +102,20 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT Read Something Wonderful"
+              "title": "DRAFT HPFFP - Introduction"
             }
           },
           {
-            "id": "c80343e0067484bb",
+            "id": "5f7853d4d2c1658b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md",
+                "file": "DRAFT HPFFP 01 - All you need is Lambda.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -130,7 +130,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT A blog post is a query"
+              "title": "DRAFT HPFFP 01 - All you need is Lambda"
             }
           }
         ],
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -329,12 +330,13 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "c80343e0067484bb",
+  "active": "5f7853d4d2c1658b",
   "lastOpenFiles": [
-    "_img/Pasted image 20250404060954.png",
-    "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md",
-    "🇬🇧 English/Sources/🧩 Collections/DRAFT Read Something Wonderful.md",
     "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
+    "DRAFT HPFFP 01 - All you need is Lambda.md",
+    "🇬🇧 English/Sources/🧩 Collections/DRAFT Read Something Wonderful.md",
+    "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md",
+    "_img/Pasted image 20250404060954.png",
     "🇬🇧 English/Sources/🧩 Collections/DRAFT Awesome Python (Vinta).md",
     "🇬🇧 English/! Meta/colophon.md",
     "🇬🇧 English/! Meta/changelog.md",
@@ -375,7 +377,6 @@
     "_img/ッLevel Clear! - cover.png",
     "_img/ッBirthright Mikey.png",
     "_img/ッBirthright landscape.png",
-    "_img/ッbirthright comic - cover.png",
-    "_img/ッcat do it for her meme.png"
+    "_img/ッbirthright comic - cover.png"
   ]
 }

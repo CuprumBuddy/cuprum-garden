@@ -1102,7 +1102,7 @@
         }
       },
       "2025-04-04": {
-        "totalDelta": 583,
+        "totalDelta": 865,
         "files": {
           "🇬🇧 English/Sources/🧩 Collections/DRAFT Read Something Wonderful.md": {
             "initial": 142,
@@ -1110,7 +1110,15 @@
           },
           "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md": {
             "initial": 0,
-            "current": 542
+            "current": 562
+          },
+          "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md": {
+            "initial": 1446,
+            "current": 1622
+          },
+          "DRAFT HPFFP 01 - All you need is Lambda.md": {
+            "initial": 0,
+            "current": 86
           }
         }
       }
