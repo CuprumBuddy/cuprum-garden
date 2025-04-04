@@ -7,11 +7,11 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T11:18:34+03:00
-modified: 2025-03-30T17:31:04+03:00
+modified: 2025-04-04T13:38:04+03:00
 published: 2025-03-26
 enableToc: true
 ---
-i.e. how this site was built. Inspired by `/colophon` from [[DRAFT "slash pages"|slash pages]].
+i.e. how this site was built. Inspired by `/colophon` from [[DRAFT "slash pages"|slash pages]]. See also [[DRAFT Why 'colophon' is called like that|Why 'colophon' is called like that?]]
 
 I've used [Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1) tutorial about [[DRAFT Obsidian Quartz GitHub Pages Template | Obsidian / Quartz / GitHub Pages Template]] by Defender for a quick start, and a [GitHub Desktop fork for Linux](https://github.com/shiftkey/desktop) (and I find it pretty insane that the official version [doesn't have Linux support](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) – at least at the time of writing, 2025-03-26).
 
@@ -43,5 +43,6 @@ Kind of a backstage/back-end: while I can’t directly share the results of thes
 These tools don’t affect the site itself in any way, but they make writing posts (and life in general) easier.
 
 - [[DRAFT CopyQ|CopyQ]]
+- [[DRAFT Zotero|Zotero]]
 
 [^1]: This is an example of a footnote.

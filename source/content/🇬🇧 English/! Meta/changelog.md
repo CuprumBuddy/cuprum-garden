@@ -7,10 +7,12 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T12:13:56+03:00
-modified: 2025-04-01T05:58:13+03:00
+modified: 2025-04-04T13:35:58+03:00
 published: 2025-03-26
 enableToc: true
 ---
+## 2025-04-04
+- added [[DRAFT Zotero|Zotero]] mention to [[colophon|colophon]]
 ## 2025-04-01
 - created folders for notes in different languages
 ## 2025-03-30
