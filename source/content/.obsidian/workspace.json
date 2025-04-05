@@ -153,7 +153,7 @@
               "state": {
                 "file": "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -349,7 +349,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -367,22 +367,22 @@
   },
   "active": "be138c53a92f0687",
   "lastOpenFiles": [
-    "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
     "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
+    "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
+    "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
     "_img/Pasted image 20250405164830.png",
     "🇬🇧 English/Moments/drafts/DRAFT 2025-03-XX Make Sure to Warm Up Beforehand.md",
     "_img/Pasted image 20250405164614.png",
     "_img/Pasted image 20250404181422.png",
     "_img/Pasted image 20250404060954.png",
     "🇬🇧 English/Tools/drafts/DRAFT Obsidian Metadata Menu (mdelobelle).md",
-    "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
     "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
     "🇬🇧 English/Projects/Ideas/A Corporate Practical Guide to Evil.md",
     "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 Speculating Futures (Francis Tseng).md",
     "🇬🇧 English/Sources/drafts/DRAFT Why Goodreads is bad for books.md",
     "🇬🇧 English/Sources/drafts/DRAFT Generating Agency Through Blogging (Tom Critchlow).md",
     "🇬🇧 English/Sources/drafts/DRAFT Rejecting Specialization (Tom Critchlow).md",
-    "DRAFT Look for people who like illegible you.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Look for people who like illegible you.md",
     "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP 01 - All you need is Lambda.md",
     "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
     "🇬🇧 English/Sources/drafts/DRAFT Welcome to the SEO MBA (Tom Critchlow).md",

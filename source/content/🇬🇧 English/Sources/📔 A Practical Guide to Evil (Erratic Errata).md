@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-31T06:33:32+03:00
+modified: 2025-04-05T17:01:39+03:00
 title: 📔 A Practical Guide to Evil (Erratic Errata)
 description: 
 lang: en-US
@@ -10,7 +10,7 @@ tags:
   - Rational_Fiction
   - Storytelling
 aliases: 
-cover: /_img/ッpgte webtoon cover.jpg
+cover: _img/ッpgte webtoon cover.jpg
 draft: false
 created: 2025-03-18
 published: 2025-03-29
