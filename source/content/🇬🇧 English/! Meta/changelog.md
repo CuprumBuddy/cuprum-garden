@@ -7,10 +7,17 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T12:13:56+03:00
-modified: 2025-04-04T13:35:58+03:00
+modified: 2025-04-05T17:57:29+03:00
 published: 2025-03-26
 enableToc: true
 ---
+A list of the site changes. Made by hand and therefore doesn’t include every single background change (e.g. whether I created a new draft), but still, alike to [[colophon]], can provide insight on history of cuprum garden, how it was created and how it evolved over time.
+
+## 2025-04-05
+- published pages:
+	- [[2025-04-05 Installing Emacs]]
+	- [[A Corporate Practical Guide to Evil]] (it was meant to be published way earlier but wasn’t because of a mistake in the page settings)
+	- [[Истгео Лекториум|Историческая география (Фёдор Корандей и др.)]]
 ## 2025-04-04
 - added [[DRAFT Zotero|Zotero]] mention to [[colophon|colophon]]
 ## 2025-04-01

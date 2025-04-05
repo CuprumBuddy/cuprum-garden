@@ -1163,7 +1163,7 @@
         }
       },
       "2025-04-05": {
-        "totalDelta": 718,
+        "totalDelta": 1075,
         "files": {
           "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md": {
             "initial": 227,
@@ -1232,6 +1232,34 @@
           "🇬🇧 English/Sources/drafts/DRAFT Look for people who like illegible you.md": {
             "initial": 0,
             "current": 52
+          },
+          "🇬🇧 English/! Meta/changelog.md": {
+            "initial": 303,
+            "current": 395
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Height maps in top-down pixel art (R.C.).md": {
+            "initial": 0,
+            "current": 37
+          },
+          "🇷🇺 Русский/Источники/drafts/DRAFT Сложнее ≠ лучше.md": {
+            "initial": 0,
+            "current": 47
+          },
+          "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md": {
+            "initial": 161,
+            "current": 162
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT \"Focus\" (Allie X).md": {
+            "initial": 0,
+            "current": 22
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT \"Bitch\" (Allie X).md": {
+            "initial": 0,
+            "current": 22
+          },
+          "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md": {
+            "initial": 92,
+            "current": 228
           }
         }
       }

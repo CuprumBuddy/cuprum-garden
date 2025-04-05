@@ -98,12 +98,12 @@
             }
           },
           {
-            "id": "b13e0591661d6e74",
+            "id": "58c6ea35edf3d7b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
+                "file": "🇬🇧 English/Sources/drafts/DRAFT \"Focus\" (Allie X).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,16 +118,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT The Markdown Guide"
+              "title": "DRAFT \"Focus\" (Allie X)"
             }
           },
           {
-            "id": "e842d95a7a8c5e9d",
+            "id": "10d8282a01b4ffa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
+                "file": "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -142,11 +142,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-05 Installing Emacs"
+              "title": "Истгео Лекториум"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,12 +340,20 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "e842d95a7a8c5e9d",
+  "active": "b5f78df68de99451",
   "lastOpenFiles": [
+    "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md",
+    "🇬🇧 English/! Meta/changelog.md",
+    "_img/Pasted image 20250405173911.png",
+    "🇬🇧 English/Sources/drafts/DRAFT \"Bitch\" (Allie X).md",
+    "🇬🇧 English/Sources/drafts/DRAFT \"Focus\" (Allie X).md",
+    "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
+    "🇷🇺 Русский/Источники/drafts/DRAFT Сложнее ≠ лучше.md",
+    "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
+    "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Height maps in top-down pixel art (R.C.).md",
     "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
     "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
-    "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
-    "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
     "_img/Pasted image 20250405164830.png",
     "🇬🇧 English/Moments/drafts/DRAFT 2025-03-XX Make Sure to Warm Up Beforehand.md",
     "_img/Pasted image 20250405164614.png",
@@ -365,14 +372,7 @@
     "🇬🇧 English/Sources/drafts/DRAFT What happened to simple, basic web hosting (Jon Udell).md",
     "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md",
     "🇬🇧 English/Sources/🧩 Collections/🔖 slash pages (Robb Knight, 11ty).md",
-    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
-    "🇬🇧 English/! Meta/colophon.md",
-    "🇬🇧 English/! Meta/changelog.md",
     "🇬🇧 English/Opportunities",
-    "🇬🇧 English/Sources/drafts/DRAFT Slow Ideas (Atul Gawande).md",
-    "🇬🇧 English/Sources/🧩 Collections/DRAFT Fast (Patrick Collison).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Contemplations on Cascades (Neil Kakkar).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Growth Without Goals.md",
     "_img/ッI Thought I Was an Angel - cover.png",
     "_img/ッEA Adjacentcy.png",
     "_img/ッHaskell Programming from First Principles - cover.png",
@@ -386,7 +386,6 @@
     "🇬🇧 English/Tools/Obsidian Plugins",
     "🇷🇺 Русский/Источники/drafts",
     "🇬🇧 English/Sources/Metaphors We Live By",
-    "🇬🇧 English/Sources/Rationality From AI to Zombie",
-    "_img/ッLevel Clear! - cover.png"
+    "🇬🇧 English/Sources/Rationality From AI to Zombie"
   ]
 }
