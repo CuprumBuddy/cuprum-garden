@@ -10,7 +10,7 @@ tags:
   - Rational_Fiction
   - Storytelling
 aliases: 
-cover: 
+cover: /_img/ッpgte webtoon cover.jpg
 draft: false
 created: 2025-03-18
 published: 2025-03-29

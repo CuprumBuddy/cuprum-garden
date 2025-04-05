@@ -1163,7 +1163,7 @@
         }
       },
       "2025-04-05": {
-        "totalDelta": 530,
+        "totalDelta": 718,
         "files": {
           "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md": {
             "initial": 227,
@@ -1219,11 +1219,19 @@
           },
           "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md": {
             "initial": 1212,
-            "current": 1212
+            "current": 1218
           },
           "🇬🇧 English/Tools/drafts/DRAFT Obsidian Metadata Menu (mdelobelle).md": {
             "initial": 0,
-            "current": 56
+            "current": 57
+          },
+          "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md": {
+            "initial": 0,
+            "current": 181
+          },
+          "🇬🇧 English/Moments/drafts/DRAFT 2025-03-XX Make Sure to Warm Up Beforehand.md": {
+            "initial": 238,
+            "current": 238
           }
         }
       }
