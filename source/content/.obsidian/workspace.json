@@ -144,33 +144,9 @@
               "icon": "lucide-file",
               "title": "2025-04-05 Installing Emacs"
             }
-          },
-          {
-            "id": "be138c53a92f0687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "📔 A Practical Guide to Evil (Erratic Errata)"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -365,10 +341,11 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "be138c53a92f0687",
+  "active": "e842d95a7a8c5e9d",
   "lastOpenFiles": [
-    "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
     "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
+    "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
+    "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
     "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
     "_img/Pasted image 20250405164830.png",
     "🇬🇧 English/Moments/drafts/DRAFT 2025-03-XX Make Sure to Warm Up Beforehand.md",
@@ -376,7 +353,6 @@
     "_img/Pasted image 20250404181422.png",
     "_img/Pasted image 20250404060954.png",
     "🇬🇧 English/Tools/drafts/DRAFT Obsidian Metadata Menu (mdelobelle).md",
-    "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
     "🇬🇧 English/Projects/Ideas/A Corporate Practical Guide to Evil.md",
     "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 Speculating Futures (Francis Tseng).md",
     "🇬🇧 English/Sources/drafts/DRAFT Why Goodreads is bad for books.md",
