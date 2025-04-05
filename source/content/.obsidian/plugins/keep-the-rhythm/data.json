@@ -1102,7 +1102,7 @@
         }
       },
       "2025-04-04": {
-        "totalDelta": 1503,
+        "totalDelta": 2040,
         "files": {
           "🇬🇧 English/Sources/🧩 Collections/DRAFT Read Something Wonderful.md": {
             "initial": 142,
@@ -1130,7 +1130,35 @@
           },
           "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md": {
             "initial": 14,
-            "current": 48
+            "current": 227
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Reality has a surprising amount of detail (John Salvatier).md": {
+            "initial": 0,
+            "current": 36
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Growth Without Goals.md": {
+            "initial": 0,
+            "current": 36
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Contemplations on Cascades (Neil Kakkar).md": {
+            "initial": 0,
+            "current": 35
+          },
+          "🇬🇧 English/Sources/🧩 Collections/DRAFT Fast (Patrick Collison).md": {
+            "initial": 0,
+            "current": 43
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Slow Ideas (Atul Gawande).md": {
+            "initial": 0,
+            "current": 39
+          },
+          "🇬🇧 English/! Meta/drafts/DRAFT folder system.md": {
+            "initial": 347,
+            "current": 358
+          },
+          "🇬🇧 English/Sources/🧩 Collections/🔖 slash pages (Robb Knight, 11ty).md": {
+            "initial": 0,
+            "current": 158
           }
         }
       }

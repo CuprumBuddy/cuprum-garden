@@ -86,36 +86,24 @@
             }
           },
           {
-            "id": "e6aa75ecdbe857b0",
+            "id": "af0d2572ff3033f1",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DRAFT HPFFP - Introduction"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "5f7853d4d2c1658b",
+            "id": "46f07290ec42708f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFT HPFFP 01 - All you need is Lambda.md",
+                "file": "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -130,7 +118,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT HPFFP 01 - All you need is Lambda"
+              "title": "DRAFT Why 'colophon' is called like that"
             }
           }
         ],
@@ -201,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -330,18 +317,26 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "5f7853d4d2c1658b",
+  "active": "46f07290ec42708f",
   "lastOpenFiles": [
-    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
+    "_img/Pasted image 20250404181422.png",
+    "🇬🇧 English/Sources/🧩 Collections/🔖 slash pages (Robb Knight, 11ty).md",
+    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "🇬🇧 English/! Meta/colophon.md",
-    "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md",
     "🇬🇧 English/! Meta/changelog.md",
+    "🇬🇧 English/Opportunities",
+    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Slow Ideas (Atul Gawande).md",
+    "🇬🇧 English/Sources/🧩 Collections/DRAFT Fast (Patrick Collison).md",
+    "🇬🇧 English/Sources/drafts/DRAFT Contemplations on Cascades (Neil Kakkar).md",
+    "🇬🇧 English/Sources/drafts/DRAFT Growth Without Goals.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Reality has a surprising amount of detail (John Salvatier).md",
     "DRAFT HPFFP 01 - All you need is Lambda.md",
+    "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md",
     "🇬🇧 English/Sources/🧩 Collections/DRAFT Read Something Wonderful.md",
     "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md",
     "_img/Pasted image 20250404060954.png",
     "🇬🇧 English/Sources/🧩 Collections/DRAFT Awesome Python (Vinta).md",
-    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "_img/ッI Thought I Was an Angel - cover.png",
     "_img/ッEA Adjacentcy.png",
     "_img/ッHaskell Programming from First Principles - cover.png",
@@ -360,20 +355,12 @@
     "🇬🇧 English/! Meta/drafts/DRAFT pricing.md",
     "🇬🇧 English/Curiosities/drafts/DRAFT \"a camel is a horse designed by a committee\".md",
     "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md",
-    "🇬🇧 English/! Meta/drafts/DRAFT license.md",
-    "🇬🇧 English/! Meta/drafts/DRAFT rules.md",
-    "🇬🇧 English/Projects/drafts/DRAFT Deep Diving.md",
-    "🇬🇧 English/Projects/drafts/DRAFT Sitting Characters from Yume Nikki fangames.md",
-    "🇬🇧 English/! Meta/drafts/DRAFT tag system.md",
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)",
-    "🇬🇧 English/! Meta/drafts/DRAFT resume.md",
-    "🇬🇧 English/Tools/drafts/DRAFT CopyQ.md",
     "🇬🇧 English/Tools/Browser Add-ons",
     "🇬🇧 English/Tools/Obsidian Plugins",
     "🇷🇺 Русский/Источники/drafts",
     "🇬🇧 English/Sources/Metaphors We Live By",
     "🇬🇧 English/Sources/Rationality From AI to Zombie",
-    "🇬🇧 English/Sources/Replacing Guilt",
     "_img/ッLevel Clear! - cover.png",
     "_img/ッBirthright Mikey.png",
     "_img/ッBirthright landscape.png",

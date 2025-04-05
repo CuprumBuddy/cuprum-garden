@@ -11,7 +11,7 @@ modified: 2025-04-04T13:38:04+03:00
 published: 2025-03-26
 enableToc: true
 ---
-i.e. how this site was built. Inspired by `/colophon` from [[DRAFT "slash pages"|slash pages]]. See also [[DRAFT Why 'colophon' is called like that|Why 'colophon' is called like that?]]
+i.e. how this site was built. Inspired by `/colophon` from [[🔖 slash pages (Robb Knight, 11ty)|🔖 slash pages (Robb Knight, 11ty)]]. See also [[DRAFT Why 'colophon' is called like that|Why 'colophon' is called like that?]]
 
 I've used [Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1) tutorial about [[DRAFT Obsidian Quartz GitHub Pages Template | Obsidian / Quartz / GitHub Pages Template]] by Defender for a quick start, and a [GitHub Desktop fork for Linux](https://github.com/shiftkey/desktop) (and I find it pretty insane that the official version [doesn't have Linux support](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) – at least at the time of writing, 2025-03-26).
 
