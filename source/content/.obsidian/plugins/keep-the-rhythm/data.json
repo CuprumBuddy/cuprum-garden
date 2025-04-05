@@ -1163,7 +1163,7 @@
         }
       },
       "2025-04-05": {
-        "totalDelta": 1075,
+        "totalDelta": 1072,
         "files": {
           "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md": {
             "initial": 227,
@@ -1259,7 +1259,7 @@
           },
           "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md": {
             "initial": 92,
-            "current": 228
+            "current": 225
           }
         }
       }

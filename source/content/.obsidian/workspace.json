@@ -145,7 +145,8 @@
               "title": "Истгео Лекториум"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -340,13 +341,13 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "b5f78df68de99451",
+  "active": "10d8282a01b4ffa5",
   "lastOpenFiles": [
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md",
+    "🇬🇧 English/Sources/drafts/DRAFT \"Focus\" (Allie X).md",
     "🇬🇧 English/! Meta/changelog.md",
     "_img/Pasted image 20250405173911.png",
     "🇬🇧 English/Sources/drafts/DRAFT \"Bitch\" (Allie X).md",
-    "🇬🇧 English/Sources/drafts/DRAFT \"Focus\" (Allie X).md",
     "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
     "🇷🇺 Русский/Источники/drafts/DRAFT Сложнее ≠ лучше.md",
     "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
