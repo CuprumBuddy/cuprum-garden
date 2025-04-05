@@ -1163,7 +1163,7 @@
         }
       },
       "2025-04-05": {
-        "totalDelta": 1097,
+        "totalDelta": 1441,
         "files": {
           "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md": {
             "initial": 227,
@@ -1223,7 +1223,7 @@
           },
           "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md": {
             "initial": 0,
-            "current": 181
+            "current": 201
           },
           "🇬🇧 English/Moments/drafts/DRAFT 2025-03-XX Make Sure to Warm Up Beforehand.md": {
             "initial": 238,
@@ -1249,14 +1249,6 @@
             "initial": 161,
             "current": 162
           },
-          "🇬🇧 English/Sources/drafts/DRAFT \"Focus\" (Allie X).md": {
-            "initial": 0,
-            "current": 22
-          },
-          "🇬🇧 English/Sources/drafts/DRAFT \"Bitch\" (Allie X).md": {
-            "initial": 0,
-            "current": 22
-          },
           "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md": {
             "initial": 92,
             "current": 250
@@ -1264,6 +1256,58 @@
           "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md": {
             "initial": 105,
             "current": 105
+          },
+          "🇬🇧 English/Tools/Browser Add-ons/DRAFT DeArrow.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Tools/Browser Add-ons/DRAFT SponsorBlock.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Tools/Browser Add-ons/DRAFT Unpaywall.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Tools/Browser Add-ons/DRAFT RSSHub Radar.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Tools/Browser Add-ons/DRAFT Feedbro.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Focus (Allie X).md": {
+            "initial": 0,
+            "current": 52
+          },
+          "🇬🇧 English/Tools/PKM Tools/DRAFT are.na.md": {
+            "initial": 0,
+            "current": 34
+          },
+          "🇬🇧 English/Tools/PKM Tools/DRAFT Notion.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Tools/PKM Tools/DRAFT Obsidian.md": {
+            "initial": 0,
+            "current": 18
+          },
+          "🇬🇧 English/Tools/PKM Tools/DRAFT Emacs.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇷🇺 Русский/Источники/DRAFT В чём сила тренингов по исполнению желаний.md": {
+            "initial": 34,
+            "current": 34
+          },
+          "🇷🇺 Русский/Источники/DRAFT Как Souls-игры спасают жизни.md": {
+            "initial": 37,
+            "current": 37
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Bitch (Allie X).md": {
+            "initial": 0,
+            "current": 54
           }
         }
       }

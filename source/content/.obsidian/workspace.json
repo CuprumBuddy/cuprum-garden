@@ -96,57 +96,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "58c6ea35edf3d7b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT \"Focus\" (Allie X).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DRAFT \"Focus\" (Allie X)"
-            }
-          },
-          {
-            "id": "10d8282a01b4ffa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Истгео Лекториум"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.5
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -341,18 +293,34 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "10d8282a01b4ffa5",
+  "active": "af0d2572ff3033f1",
   "lastOpenFiles": [
-    "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md",
-    "🇬🇧 English/Sources/drafts/DRAFT \"Focus\" (Allie X).md",
+    "🇬🇧 English/Sources/drafts/DRAFT Bitch (Allie X).md",
+    "_img/Pasted image 20250405191231.png",
+    "_img/Pasted image 20250404060954.png",
+    "_img/Pasted image 20250405191203.png",
+    "🇬🇧 English/Sources/drafts/DRAFT Focus (Allie X).md",
+    "_img/Pasted image 20250405191012.png",
+    "🇬🇧 English/Tools/PKM Tools/DRAFT Emacs.md",
+    "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
+    "🇷🇺 Русский/Источники/DRAFT Как Souls-игры спасают жизни.md",
+    "🇬🇧 English/Tools/PKM Tools/DRAFT are.na.md",
+    "🇷🇺 Русский/Источники/DRAFT В чём сила тренингов по исполнению желаний.md",
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md",
+    "🇬🇧 English/Tools/PKM Tools/DRAFT Obsidian.md",
+    "🇬🇧 English/Tools/PKM Tools/DRAFT Notion.md",
+    "🇬🇧 English/Tools/PKM Tools",
+    "🇬🇧 English/Tools/Browser Add-ons/DRAFT Feedbro.md",
+    "🇬🇧 English/Tools/Browser Add-ons/DRAFT RSSHub Radar.md",
+    "🇬🇧 English/Tools/Browser Add-ons/DRAFT Unpaywall.md",
+    "🇬🇧 English/Tools/Browser Add-ons/DRAFT SponsorBlock.md",
+    "🇬🇧 English/Tools/Browser Add-ons/DRAFT DeArrow.md",
     "🇬🇧 English/! Meta/changelog.md",
+    "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md",
     "_img/Pasted image 20250405173911.png",
-    "🇬🇧 English/Sources/drafts/DRAFT \"Bitch\" (Allie X).md",
     "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
     "🇷🇺 Русский/Источники/drafts/DRAFT Сложнее ≠ лучше.md",
     "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
-    "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
     "🇬🇧 English/Sources/drafts/DRAFT Height maps in top-down pixel art (R.C.).md",
     "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
     "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
@@ -360,26 +328,10 @@
     "🇬🇧 English/Moments/drafts/DRAFT 2025-03-XX Make Sure to Warm Up Beforehand.md",
     "_img/Pasted image 20250405164614.png",
     "_img/Pasted image 20250404181422.png",
-    "_img/Pasted image 20250404060954.png",
     "🇬🇧 English/Tools/drafts/DRAFT Obsidian Metadata Menu (mdelobelle).md",
-    "🇬🇧 English/Projects/Ideas/A Corporate Practical Guide to Evil.md",
-    "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 Speculating Futures (Francis Tseng).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Why Goodreads is bad for books.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Generating Agency Through Blogging (Tom Critchlow).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Rejecting Specialization (Tom Critchlow).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Look for people who like illegible you.md",
-    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP 01 - All you need is Lambda.md",
-    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Welcome to the SEO MBA (Tom Critchlow).md",
-    "🇬🇧 English/Sources/drafts/DRAFT What happened to simple, basic web hosting (Jon Udell).md",
-    "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md",
-    "🇬🇧 English/Sources/🧩 Collections/🔖 slash pages (Robb Knight, 11ty).md",
     "🇬🇧 English/Opportunities",
     "_img/ッI Thought I Was an Angel - cover.png",
     "_img/ッEA Adjacentcy.png",
-    "_img/ッHaskell Programming from First Principles - cover.png",
-    "_img/ッHakenbüchse.png",
-    "_img/Pasted image 20250403145352.png",
     "🇬🇧 English/Thoughts",
     "🇬🇧 English/Moments/drafts",
     "🇬🇧 English/Sources/🧩 Collections",
@@ -387,7 +339,6 @@
     "🇬🇧 English/Tools/Browser Add-ons",
     "🇬🇧 English/Tools/Obsidian Plugins",
     "🇷🇺 Русский/Источники/drafts",
-    "🇬🇧 English/Sources/Metaphors We Live By",
-    "🇬🇧 English/Sources/Rationality From AI to Zombie"
+    "🇬🇧 English/Sources/Metaphors We Live By"
   ]
 }
