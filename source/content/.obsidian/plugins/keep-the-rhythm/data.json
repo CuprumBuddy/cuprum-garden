@@ -1161,6 +1161,71 @@
             "current": 158
           }
         }
+      },
+      "2025-04-05": {
+        "totalDelta": 510,
+        "files": {
+          "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md": {
+            "initial": 227,
+            "current": 227
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT What happened to simple, basic web hosting (Jon Udell).md": {
+            "initial": 0,
+            "current": 38
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Welcome to the SEO MBA (Tom Critchlow).md": {
+            "initial": 0,
+            "current": 36
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Generating Agency Through Blogging (Tom Critchlow).md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Rejecting Specialization (Tom Critchlow).md": {
+            "initial": 0,
+            "current": 37
+          },
+          "DRAFT Look for people who like illegible you.md": {
+            "initial": 0,
+            "current": 52
+          },
+          "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md": {
+            "initial": 1622,
+            "current": 1622
+          },
+          "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP 01 - All you need is Lambda.md": {
+            "initial": 660,
+            "current": 660
+          },
+          "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 Speculating Futures (Francis Tseng).md": {
+            "initial": 0,
+            "current": 172
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Why Goodreads is bad for books.md": {
+            "initial": 0,
+            "current": 45
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md": {
+            "initial": 0,
+            "current": 64
+          },
+          "🇬🇧 English/Projects/Ideas/A Corporate Practical Guide to Evil.md": {
+            "initial": 238,
+            "current": 238
+          },
+          "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md": {
+            "initial": 595,
+            "current": 595
+          },
+          "🇬🇧 English/Tools/drafts/DRAFT Obsidian Metadata Menu.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md": {
+            "initial": 1212,
+            "current": 1218
+          }
+        }
       }
     }
   }

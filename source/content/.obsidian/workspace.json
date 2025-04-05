@@ -98,12 +98,12 @@
             }
           },
           {
-            "id": "46f07290ec42708f",
+            "id": "b13e0591661d6e74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md",
+                "file": "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,11 +118,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT Why 'colophon' is called like that"
+              "title": "DRAFT The Markdown Guide"
+            }
+          },
+          {
+            "id": "e842d95a7a8c5e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🇬🇧 English/Tools/drafts/DRAFT Obsidian Metadata Menu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT Obsidian Metadata Menu"
+            }
+          },
+          {
+            "id": "d19317bf080b0641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "📔 A Practical Guide to Evil (Erratic Errata)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -317,22 +365,33 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "46f07290ec42708f",
+  "active": "d19317bf080b0641",
   "lastOpenFiles": [
+    "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
+    "🇬🇧 English/Tools/drafts/DRAFT Obsidian Metadata Menu.md",
+    "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
+    "🇬🇧 English/Projects/Ideas/A Corporate Practical Guide to Evil.md",
+    "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 Speculating Futures (Francis Tseng).md",
+    "🇬🇧 English/Sources/drafts/DRAFT Why Goodreads is bad for books.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Generating Agency Through Blogging (Tom Critchlow).md",
+    "🇬🇧 English/Sources/drafts/DRAFT Rejecting Specialization (Tom Critchlow).md",
+    "DRAFT Look for people who like illegible you.md",
+    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP 01 - All you need is Lambda.md",
+    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Welcome to the SEO MBA (Tom Critchlow).md",
+    "🇬🇧 English/Sources/drafts/DRAFT What happened to simple, basic web hosting (Jon Udell).md",
+    "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md",
     "_img/Pasted image 20250404181422.png",
     "🇬🇧 English/Sources/🧩 Collections/🔖 slash pages (Robb Knight, 11ty).md",
     "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "🇬🇧 English/! Meta/colophon.md",
     "🇬🇧 English/! Meta/changelog.md",
     "🇬🇧 English/Opportunities",
-    "🇬🇧 English/Sources/Haskell Programming From First Principles/DRAFT HPFFP - Introduction.md",
     "🇬🇧 English/Sources/drafts/DRAFT Slow Ideas (Atul Gawande).md",
     "🇬🇧 English/Sources/🧩 Collections/DRAFT Fast (Patrick Collison).md",
     "🇬🇧 English/Sources/drafts/DRAFT Contemplations on Cascades (Neil Kakkar).md",
     "🇬🇧 English/Sources/drafts/DRAFT Growth Without Goals.md",
     "🇬🇧 English/Sources/drafts/DRAFT Reality has a surprising amount of detail (John Salvatier).md",
-    "DRAFT HPFFP 01 - All you need is Lambda.md",
-    "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md",
     "🇬🇧 English/Sources/🧩 Collections/DRAFT Read Something Wonderful.md",
     "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md",
     "_img/Pasted image 20250404060954.png",
@@ -342,19 +401,9 @@
     "_img/ッHaskell Programming from First Principles - cover.png",
     "_img/ッHakenbüchse.png",
     "_img/Pasted image 20250403145352.png",
-    "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
     "🇬🇧 English/Thoughts",
-    "🇬🇧 English/Sources/drafts/DRAFT Making Sense of Interoception.md",
-    "🇬🇧 English/Curiosities/drafts/DRAFT Expedia Presents Great Britain.md",
-    "🇬🇧 English/Moments/drafts/DRAFT Make Sure to Warm Up Beforehand.md",
-    "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/DRAFT Истгео.md",
-    "🇬🇧 English/Curiosities/drafts/DRAFT Levels of EA Adjacency Never Thought Possible.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Interoception (Wikipedia).md",
     "🇬🇧 English/Moments/drafts",
     "🇬🇧 English/Sources/🧩 Collections",
-    "🇬🇧 English/! Meta/drafts/DRAFT pricing.md",
-    "🇬🇧 English/Curiosities/drafts/DRAFT \"a camel is a horse designed by a committee\".md",
-    "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md",
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)",
     "🇬🇧 English/Tools/Browser Add-ons",
     "🇬🇧 English/Tools/Obsidian Plugins",
@@ -363,7 +412,6 @@
     "🇬🇧 English/Sources/Rationality From AI to Zombie",
     "_img/ッLevel Clear! - cover.png",
     "_img/ッBirthright Mikey.png",
-    "_img/ッBirthright landscape.png",
-    "_img/ッbirthright comic - cover.png"
+    "_img/ッBirthright landscape.png"
   ]
 }
