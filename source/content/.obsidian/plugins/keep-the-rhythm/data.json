@@ -1163,7 +1163,7 @@
         }
       },
       "2025-04-05": {
-        "totalDelta": 510,
+        "totalDelta": 530,
         "files": {
           "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md": {
             "initial": 227,
@@ -1217,13 +1217,13 @@
             "initial": 595,
             "current": 595
           },
-          "🇬🇧 English/Tools/drafts/DRAFT Obsidian Metadata Menu.md": {
-            "initial": 0,
-            "current": 30
-          },
           "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md": {
             "initial": 1212,
-            "current": 1218
+            "current": 1212
+          },
+          "🇬🇧 English/Tools/drafts/DRAFT Obsidian Metadata Menu (mdelobelle).md": {
+            "initial": 0,
+            "current": 56
           }
         }
       }
