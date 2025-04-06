@@ -98,12 +98,12 @@
             }
           },
           {
-            "id": "7bab480cccae7f16",
+            "id": "df8ffd7051c9cb6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT Solitude and Leadership (William Deresiewicz).md",
+                "file": "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,16 +118,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT Solitude and Leadership (William Deresiewicz)"
+              "title": "📔 A Practical Guide to Evil (Erratic Errata)"
             }
           },
           {
-            "id": "ccbd9621c3e7e1c7",
+            "id": "643630b24e643483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇷🇺 Русский/Источники/Коллекции/DRAFT Справочник автора.md",
+                "file": "🇬🇧 English/Sources/drafts/DRAFT 📔 How Many Licks (Aaron Santon).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -142,11 +142,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT Справочник автора"
+              "title": "DRAFT 📔 How Many Licks (Aaron Santon)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -325,7 +325,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,15 +342,26 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "ccbd9621c3e7e1c7",
+  "active": "df8ffd7051c9cb6d",
   "lastOpenFiles": [
-    "🇷🇺 Русский/Источники/Коллекции",
+    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
+    "🇬🇧 English/Sources/drafts/DRAFT 📔 How Many Licks (Aaron Santon).md",
+    "_img/Pasted image 20250406075308.png",
+    "index.md",
+    "index.md.part",
+    "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
+    "🇬🇧 English/Sources/drafts/DRAFT \"Autistic individuals have increased risk of chronic physical health conditions across the whole body\".md",
+    "🇬🇧 English/! Meta/colophon.md",
+    "🇬🇧 English/! Meta/changelog.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Solitude and Leadership (William Deresiewicz).md",
+    "🇬🇧 English/Sources/🎮 META (Crystal Shard).md",
+    "_img/Pasted image 20250406064731.png",
     "🇷🇺 Русский/Источники/Коллекции/DRAFT Справочник автора.md",
+    "🇷🇺 Русский/Источники/Коллекции",
     "🇬🇧 English/Sources/drafts/DRAFT Frank Sinatra Has a Cold.md",
     "🇬🇧 English/Sources/drafts/DRAFT My Brain is Different (MONZUSU).md",
     "_img/FQKeFFmUcAY763i.jpg",
     "🇬🇧 English/Projects/Ideas/An app that allows to easily filter menu options at cafes.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Solitude and Leadership (William Deresiewicz).md",
     "🇬🇧 English/Sources/drafts/DRAFT The Dark Forest Theory of the Internet (Yancey Strickler).md",
     "🇬🇧 English/Sources/drafts/DRAFT Aggregation Theory (Ben Thompson).md",
     "🇬🇧 English/Sources/drafts/DRAFT This is Water by David Foster Wallace (Full Transcript and Audio).md",
@@ -367,27 +379,16 @@
     "🇬🇧 English/Tools/PKM Tools/DRAFT Emacs.md",
     "🇷🇺 Русский/Источники/DRAFT Как Souls-игры спасают жизни.md",
     "🇬🇧 English/Tools/PKM Tools/DRAFT are.na.md",
-    "🇷🇺 Русский/Источники/DRAFT В чём сила тренингов по исполнению желаний.md",
-    "🇬🇧 English/Tools/PKM Tools/DRAFT Obsidian.md",
-    "🇬🇧 English/Tools/PKM Tools/DRAFT Notion.md",
     "🇬🇧 English/Tools/PKM Tools",
-    "🇬🇧 English/Tools/Browser Add-ons/DRAFT Feedbro.md",
-    "🇬🇧 English/Tools/Browser Add-ons/DRAFT RSSHub Radar.md",
-    "🇬🇧 English/Tools/Browser Add-ons/DRAFT Unpaywall.md",
-    "🇬🇧 English/Tools/Browser Add-ons/DRAFT SponsorBlock.md",
     "_img/Pasted image 20250405173911.png",
     "_img/Pasted image 20250405164830.png",
     "_img/Pasted image 20250405164614.png",
-    "_img/Pasted image 20250404181422.png",
     "🇬🇧 English/Opportunities",
-    "_img/ッI Thought I Was an Angel - cover.png",
     "🇬🇧 English/Thoughts",
     "🇬🇧 English/Moments/drafts",
     "🇬🇧 English/Sources/🧩 Collections",
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)",
     "🇬🇧 English/Tools/Browser Add-ons",
-    "🇬🇧 English/Tools/Obsidian Plugins",
-    "🇷🇺 Русский/Источники/drafts",
-    "🇬🇧 English/Sources/Metaphors We Live By"
+    "🇬🇧 English/Tools/Obsidian Plugins"
   ]
 }

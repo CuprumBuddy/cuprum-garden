@@ -1,0 +1,35 @@
+---
+created: 2025-04-06T06:34:11+03:00
+modified: 2025-04-06T07:29:45+03:00
+title: 🎮 META (Crystal Shard)
+description: 
+lang: en-US
+tags:
+  - Bug_fixing
+aliases:
+  - 🎮 META (Crystal Shard)
+cover: 
+draft: false
+published: 2025-04-06
+enableToc: true
+---
+![[Pasted image 20250406064731.png]]
+
+> A parody of amateur adventure design, this metagame consists of a simple treasure hunting game, and a complex editor needed to complete it. The editor and its [assistant Cuppit](https://crystalshard.net/index.php?f=cuppit) are all part of the game; anyone involved in game or level design should appreciate the humor.
+> 
+> The editor is an exercise of twisted logic and lateral thinking. You have to see it to believe it; with its offbeat controls, inventory items that kill you, and intentional misspellings, it's the weirdest thing since sliced bread!
+> 
+> META is based on [Adventure Game Studio](http://www.adventuregamestudio.co.uk), the platform for most of our games, and is runner-up for two AGS Awards.
+
+https://crystalshard.net/?g=4
+
+I wonder whether this game has affected the “fix the bugs” genre – titles like [[DRAFT Pony Island|Pony Island]], to be exact.
+
+## 2025-04-06
+My first experience sure was frustrating. I think META perfectly captures the rage, helplessness and confusion which arise when you want to do something supposedly simple in a new software, but none of its features seem to even remotely do what you want. Add to the mix an incredibly annoying unhelpful helper, and you are on a right way to create the next videogame masterpiece, the legend, the Awesmoe (sic!) Game.
+
+Well, [the TVTropes page](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Meta2005) has already warned me: “Expect lots of out-of-the-box thinking and meta-solutions.” Ugh.
+
+I haven’t replayed Pony Island in a while, but I remember it to be more… Straightforward and way less confusing. Another important point is that in Pony Island the player has to fix a game made by someone else (namely the Devil himself) and in META the player *is* the Awesmoe Game creator. Fixing the old project which you don’t remember making – and of course don’t remember how to use the editor in which the game in question was created – is a frustrating experience as well.
+
+Even if I don’t return to this game anytime soon, I think it’s a good idea to reflect on aforementioned issues, since I encounter them *a lot* when I try to find a brand new perfect [[personal knowledge management]] setup only to abandon it in a few weeks.

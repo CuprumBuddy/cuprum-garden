@@ -7,12 +7,15 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T12:13:56+03:00
-modified: 2025-04-05T18:26:59+03:00
+modified: 2025-04-06T07:39:26+03:00
 published: 2025-03-26
 enableToc: true
 ---
 A list of the site changes. Made by hand and therefore doesn’t include every single background change (e.g. whether I created a new draft), but still, alike to [[colophon]], can provide insight on the history of cuprum garden, how it was created and how it evolved over time.
 
+## 2025-04-06
+- published pages:
+	- [[🎮 META (Crystal Shard)]]
 ## 2025-04-05
 - published pages:
 	- [[2025-04-05 Installing Emacs]]
