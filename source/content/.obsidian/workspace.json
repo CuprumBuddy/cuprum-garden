@@ -144,9 +144,33 @@
               "icon": "lucide-file",
               "title": "DRAFT 📔 How Many Licks (Aaron Santon)"
             }
+          },
+          {
+            "id": "fb2ebfe420b9dace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -342,14 +366,16 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "df8ffd7051c9cb6d",
+  "active": "fb2ebfe420b9dace",
   "lastOpenFiles": [
-    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
-    "🇬🇧 English/Sources/drafts/DRAFT 📔 How Many Licks (Aaron Santon).md",
-    "_img/Pasted image 20250406075308.png",
-    "index.md",
-    "index.md.part",
+    "🇬🇧 English/English Folders List.md",
     "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
+    "🇬🇧 English/Sources/drafts/DRAFT 📔 How Many Licks (Aaron Santon).md",
+    "index.md",
+    "🇬🇧 English/Collages/drafts/DRAFT What is an ADHD Technology Explained.md",
+    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
+    "_img/Pasted image 20250406075308.png",
+    "index.md.part",
     "🇬🇧 English/Sources/drafts/DRAFT \"Autistic individuals have increased risk of chronic physical health conditions across the whole body\".md",
     "🇬🇧 English/! Meta/colophon.md",
     "🇬🇧 English/! Meta/changelog.md",
@@ -377,8 +403,6 @@
     "🇬🇧 English/Sources/drafts/DRAFT Focus (Allie X).md",
     "_img/Pasted image 20250405191012.png",
     "🇬🇧 English/Tools/PKM Tools/DRAFT Emacs.md",
-    "🇷🇺 Русский/Источники/DRAFT Как Souls-игры спасают жизни.md",
-    "🇬🇧 English/Tools/PKM Tools/DRAFT are.na.md",
     "🇬🇧 English/Tools/PKM Tools",
     "_img/Pasted image 20250405173911.png",
     "_img/Pasted image 20250405164830.png",

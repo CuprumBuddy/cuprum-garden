@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-05T17:11:15+03:00
+modified: 2025-04-06T07:59:27+03:00
 title: 📔 A Practical Guide to Evil (Erratic Errata)
 description: 
 lang: en-US
