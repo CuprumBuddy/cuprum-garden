@@ -96,9 +96,57 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "7bab480cccae7f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🇬🇧 English/Sources/drafts/DRAFT Solitude and Leadership (William Deresiewicz).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT Solitude and Leadership (William Deresiewicz)"
+            }
+          },
+          {
+            "id": "ccbd9621c3e7e1c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🇷🇺 Русский/Источники/Коллекции/DRAFT Справочник автора.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT Справочник автора"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 208.5
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -277,7 +325,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,8 +341,23 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "af0d2572ff3033f1",
+  "active": "ccbd9621c3e7e1c7",
   "lastOpenFiles": [
+    "🇷🇺 Русский/Источники/Коллекции",
+    "🇷🇺 Русский/Источники/Коллекции/DRAFT Справочник автора.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Frank Sinatra Has a Cold.md",
+    "🇬🇧 English/Sources/drafts/DRAFT My Brain is Different (MONZUSU).md",
+    "_img/FQKeFFmUcAY763i.jpg",
+    "🇬🇧 English/Projects/Ideas/An app that allows to easily filter menu options at cafes.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Solitude and Leadership (William Deresiewicz).md",
+    "🇬🇧 English/Sources/drafts/DRAFT The Dark Forest Theory of the Internet (Yancey Strickler).md",
+    "🇬🇧 English/Sources/drafts/DRAFT Aggregation Theory (Ben Thompson).md",
+    "🇬🇧 English/Sources/drafts/DRAFT This is Water by David Foster Wallace (Full Transcript and Audio).md",
+    "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
+    "🇬🇧 English/Sources/drafts/DRAFT The high-return activity of raising others’ aspirations (Tyler Cowen).md",
+    "🇬🇧 English/Sources/drafts/DRAFT Why books donʼt work (Andy Matuschak).md",
+    "🇬🇧 English/Sources/drafts/DRAFT Slaying the speckled monster (Jason Crawford).md",
+    "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md",
     "🇬🇧 English/Sources/drafts/DRAFT Bitch (Allie X).md",
     "_img/Pasted image 20250405191231.png",
     "_img/Pasted image 20250404060954.png",
@@ -302,11 +365,9 @@
     "🇬🇧 English/Sources/drafts/DRAFT Focus (Allie X).md",
     "_img/Pasted image 20250405191012.png",
     "🇬🇧 English/Tools/PKM Tools/DRAFT Emacs.md",
-    "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
     "🇷🇺 Русский/Источники/DRAFT Как Souls-игры спасают жизни.md",
     "🇬🇧 English/Tools/PKM Tools/DRAFT are.na.md",
     "🇷🇺 Русский/Источники/DRAFT В чём сила тренингов по исполнению желаний.md",
-    "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md",
     "🇬🇧 English/Tools/PKM Tools/DRAFT Obsidian.md",
     "🇬🇧 English/Tools/PKM Tools/DRAFT Notion.md",
     "🇬🇧 English/Tools/PKM Tools",
@@ -314,24 +375,12 @@
     "🇬🇧 English/Tools/Browser Add-ons/DRAFT RSSHub Radar.md",
     "🇬🇧 English/Tools/Browser Add-ons/DRAFT Unpaywall.md",
     "🇬🇧 English/Tools/Browser Add-ons/DRAFT SponsorBlock.md",
-    "🇬🇧 English/Tools/Browser Add-ons/DRAFT DeArrow.md",
-    "🇬🇧 English/! Meta/changelog.md",
-    "🇬🇧 English/Sources/drafts/DRAFT I Thought I Was an Angel (Utsu-P).md",
     "_img/Pasted image 20250405173911.png",
-    "🇬🇧 English/Questions/drafts/DRAFT Hackenbush & Hakenbüchse.md",
-    "🇷🇺 Русский/Источники/drafts/DRAFT Сложнее ≠ лучше.md",
-    "🇬🇧 English/Sources/drafts/DRAFT The Markdown Guide.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Height maps in top-down pixel art (R.C.).md",
-    "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
-    "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
     "_img/Pasted image 20250405164830.png",
-    "🇬🇧 English/Moments/drafts/DRAFT 2025-03-XX Make Sure to Warm Up Beforehand.md",
     "_img/Pasted image 20250405164614.png",
     "_img/Pasted image 20250404181422.png",
-    "🇬🇧 English/Tools/drafts/DRAFT Obsidian Metadata Menu (mdelobelle).md",
     "🇬🇧 English/Opportunities",
     "_img/ッI Thought I Was an Angel - cover.png",
-    "_img/ッEA Adjacentcy.png",
     "🇬🇧 English/Thoughts",
     "🇬🇧 English/Moments/drafts",
     "🇬🇧 English/Sources/🧩 Collections",

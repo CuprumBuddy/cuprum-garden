@@ -1163,7 +1163,7 @@
         }
       },
       "2025-04-05": {
-        "totalDelta": 1441,
+        "totalDelta": 1808,
         "files": {
           "🇬🇧 English/Questions/drafts/DRAFT Why 'colophon' is called like that.md": {
             "initial": 227,
@@ -1223,7 +1223,7 @@
           },
           "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md": {
             "initial": 0,
-            "current": 201
+            "current": 205
           },
           "🇬🇧 English/Moments/drafts/DRAFT 2025-03-XX Make Sure to Warm Up Beforehand.md": {
             "initial": 238,
@@ -1308,6 +1308,59 @@
           "🇬🇧 English/Sources/drafts/DRAFT Bitch (Allie X).md": {
             "initial": 0,
             "current": 54
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Slaying the speckled monster (Jason Crawford).md": {
+            "initial": 0,
+            "current": 63
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Why books donʼt work (Andy Matuschak).md": {
+            "initial": 0,
+            "current": 48
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT The high-return activity of raising others’ aspirations (Tyler Cowen).md": {
+            "initial": 0,
+            "current": 56
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT This is Water by David Foster Wallace (Full Transcript and Audio).md": {
+            "initial": 0,
+            "current": 56
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Aggregation Theory (Ben Thompson).md": {
+            "initial": 0,
+            "current": 43
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT The Dark Forest Theory of the Internet (Yancey Strickler).md": {
+            "initial": 0,
+            "current": 53
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Solitude and Leadership (William Deresiewicz).md": {
+            "initial": 0,
+            "current": 44
+          }
+        }
+      },
+      "2025-04-06": {
+        "totalDelta": 476,
+        "files": {
+          "🇬🇧 English/Projects/Ideas/An app that allows to easily filter menu options at cafes.md": {
+            "initial": 0,
+            "current": 156
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Solitude and Leadership (William Deresiewicz).md": {
+            "initial": 44,
+            "current": 44
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT My Brain is Different (MONZUSU).md": {
+            "initial": 0,
+            "current": 145
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Frank Sinatra Has a Cold.md": {
+            "initial": 0,
+            "current": 37
+          },
+          "🇷🇺 Русский/Источники/Коллекции/DRAFT Справочник автора.md": {
+            "initial": 0,
+            "current": 138
           }
         }
       }
