@@ -120,57 +120,9 @@
               "icon": "lucide-file",
               "title": "📔 A Practical Guide to Evil (Erratic Errata)"
             }
-          },
-          {
-            "id": "643630b24e643483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT 📔 How Many Licks (Aaron Santon).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DRAFT 📔 How Many Licks (Aaron Santon)"
-            }
-          },
-          {
-            "id": "fb2ebfe420b9dace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -366,12 +318,13 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "fb2ebfe420b9dace",
+  "active": "af0d2572ff3033f1",
   "lastOpenFiles": [
-    "🇬🇧 English/English Folders List.md",
     "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
     "🇬🇧 English/Sources/drafts/DRAFT 📔 How Many Licks (Aaron Santon).md",
     "index.md",
+    "🇬🇧 English/! Meta/drafts/DRAFT philosophy.md",
+    "🇬🇧 English/English Folders List.md",
     "🇬🇧 English/Collages/drafts/DRAFT What is an ADHD Technology Explained.md",
     "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "_img/Pasted image 20250406075308.png",
@@ -402,7 +355,6 @@
     "_img/Pasted image 20250405191203.png",
     "🇬🇧 English/Sources/drafts/DRAFT Focus (Allie X).md",
     "_img/Pasted image 20250405191012.png",
-    "🇬🇧 English/Tools/PKM Tools/DRAFT Emacs.md",
     "🇬🇧 English/Tools/PKM Tools",
     "_img/Pasted image 20250405173911.png",
     "_img/Pasted image 20250405164830.png",
