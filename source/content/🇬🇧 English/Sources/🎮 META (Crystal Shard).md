@@ -1,6 +1,6 @@
 ---
 created: 2025-04-06T06:34:11+03:00
-modified: 2025-04-06T07:29:45+03:00
+modified: 2025-04-06T16:06:02+03:00
 title: 🎮 META (Crystal Shard)
 description: 
 lang: en-US
@@ -25,7 +25,7 @@ https://crystalshard.net/?g=4
 
 I wonder whether this game has affected the “fix the bugs” genre – titles like [[DRAFT Pony Island|Pony Island]], to be exact.
 
-## 2025-04-06
+## 2025-04-06 The First Try
 My first experience sure was frustrating. I think META perfectly captures the rage, helplessness and confusion which arise when you want to do something supposedly simple in a new software, but none of its features seem to even remotely do what you want. Add to the mix an incredibly annoying unhelpful helper, and you are on a right way to create the next videogame masterpiece, the legend, the Awesmoe (sic!) Game.
 
 Well, [the TVTropes page](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Meta2005) has already warned me: “Expect lots of out-of-the-box thinking and meta-solutions.” Ugh.

@@ -1340,7 +1340,7 @@
         }
       },
       "2025-04-06": {
-        "totalDelta": 1232,
+        "totalDelta": 2246,
         "files": {
           "🇬🇧 English/Projects/Ideas/An app that allows to easily filter menu options at cafes.md": {
             "initial": 0,
@@ -1364,7 +1364,7 @@
           },
           "🇬🇧 English/Sources/🎮 META (Crystal Shard).md": {
             "initial": 0,
-            "current": 426
+            "current": 429
           },
           "🇬🇧 English/! Meta/changelog.md": {
             "initial": 395,
@@ -1394,10 +1394,6 @@
             "initial": 358,
             "current": 358
           },
-          "🇬🇧 English/Collages/drafts/DRAFT What is an ADHD Technology Explained.md": {
-            "initial": 261,
-            "current": 263
-          },
           "🇬🇧 English/English Folders List.md": {
             "initial": 0,
             "current": 30
@@ -1405,6 +1401,18 @@
           "🇬🇧 English/! Meta/drafts/DRAFT philosophy.md": {
             "initial": 0,
             "current": 152
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md": {
+            "initial": 562,
+            "current": 562
+          },
+          "🇬🇧 English/Research/drafts/DRAFT What is an ADHD Technology Explained.md": {
+            "initial": 261,
+            "current": 263
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md": {
+            "initial": 0,
+            "current": 1011
           }
         }
       }

@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
+                "file": "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,11 +118,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📔 A Practical Guide to Evil (Erratic Errata)"
+              "title": "DRAFT REWRITE Fact Posts (sarahconstantin)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -301,8 +302,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,14 +318,17 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "af0d2572ff3033f1",
+  "active": "df8ffd7051c9cb6d",
   "lastOpenFiles": [
+    "🇬🇧 English/Sources/🎮 META (Crystal Shard).md",
+    "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md",
+    "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md",
     "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
     "🇬🇧 English/Sources/drafts/DRAFT 📔 How Many Licks (Aaron Santon).md",
     "index.md",
     "🇬🇧 English/! Meta/drafts/DRAFT philosophy.md",
     "🇬🇧 English/English Folders List.md",
-    "🇬🇧 English/Collages/drafts/DRAFT What is an ADHD Technology Explained.md",
+    "🇬🇧 English/Research/drafts/DRAFT What is an ADHD Technology Explained.md",
     "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "_img/Pasted image 20250406075308.png",
     "index.md.part",
@@ -333,7 +336,6 @@
     "🇬🇧 English/! Meta/colophon.md",
     "🇬🇧 English/! Meta/changelog.md",
     "🇬🇧 English/Sources/drafts/DRAFT Solitude and Leadership (William Deresiewicz).md",
-    "🇬🇧 English/Sources/🎮 META (Crystal Shard).md",
     "_img/Pasted image 20250406064731.png",
     "🇷🇺 Русский/Источники/Коллекции/DRAFT Справочник автора.md",
     "🇷🇺 Русский/Источники/Коллекции",
@@ -349,11 +351,9 @@
     "🇬🇧 English/Sources/drafts/DRAFT Why books donʼt work (Andy Matuschak).md",
     "🇬🇧 English/Sources/drafts/DRAFT Slaying the speckled monster (Jason Crawford).md",
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Bitch (Allie X).md",
     "_img/Pasted image 20250405191231.png",
     "_img/Pasted image 20250404060954.png",
     "_img/Pasted image 20250405191203.png",
-    "🇬🇧 English/Sources/drafts/DRAFT Focus (Allie X).md",
     "_img/Pasted image 20250405191012.png",
     "🇬🇧 English/Tools/PKM Tools",
     "_img/Pasted image 20250405173911.png",
