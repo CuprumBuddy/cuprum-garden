@@ -120,8 +120,33 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "815809c37a6dc816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -316,8 +341,9 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "b5f78df68de99451",
+  "active": "815809c37a6dc816",
   "lastOpenFiles": [
+    "🇬🇧 English/! Meta/changelog.md",
     "index.md",
     "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
     "🇬🇧 English/Places/DRAFT Eames Archives.md",
@@ -346,7 +372,6 @@
     "index.md.part",
     "🇬🇧 English/Sources/drafts/DRAFT \"Autistic individuals have increased risk of chronic physical health conditions across the whole body\".md",
     "🇬🇧 English/! Meta/colophon.md",
-    "🇬🇧 English/! Meta/changelog.md",
     "🇬🇧 English/Sources/drafts/DRAFT Solitude and Leadership (William Deresiewicz).md",
     "_img/Pasted image 20250406064731.png",
     "🇷🇺 Русский/Источники/Коллекции/DRAFT Справочник автора.md",
