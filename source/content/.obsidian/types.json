@@ -5,6 +5,7 @@
     "tags": "tags",
     "created": "date",
     "modified": "date",
-    "published": "date"
+    "published": "date",
+    "comments": "checkbox"
   }
 }

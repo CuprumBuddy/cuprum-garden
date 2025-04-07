@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Places/DRAFT Eames Archives.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -114,11 +114,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT Eames Archives"
+              "title": "index"
             }
           }
         ],
@@ -319,9 +319,11 @@
   },
   "active": "9ae7b004362059fa",
   "lastOpenFiles": [
+    "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
+    "index.md",
+    "🇬🇧 English/Places/DRAFT Eames Archives.md",
     "_img/Pasted image 20250407113131.png",
     "🇬🇧 English/Sources/drafts/🎮  Stimulation Clicker (Neil Agarwal).md",
-    "🇬🇧 English/Places/DRAFT Eames Archives.md",
     "_img/Pasted image 20250407082324.png",
     "_img/Pasted image 20250407081532.png",
     "🇬🇧 English/Tools/drafts/DRAFT Try Haskell.md",
@@ -337,7 +339,6 @@
     "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md",
     "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md",
     "🇬🇧 English/Sources/drafts/DRAFT 📔 How Many Licks (Aaron Santon).md",
-    "index.md",
     "🇬🇧 English/! Meta/drafts/DRAFT philosophy.md",
     "🇬🇧 English/English Folders List.md",
     "🇬🇧 English/Research/drafts/DRAFT What is an ADHD Technology Explained.md",
@@ -356,7 +357,6 @@
     "_img/FQKeFFmUcAY763i.jpg",
     "🇬🇧 English/Projects/Ideas/An app that allows to easily filter menu options at cafes.md",
     "🇬🇧 English/Sources/drafts/DRAFT The Dark Forest Theory of the Internet (Yancey Strickler).md",
-    "_img/Pasted image 20250405191231.png",
     "🇬🇧 English/Tools/PKM Tools",
     "🇬🇧 English/Opportunities",
     "🇬🇧 English/Thoughts",

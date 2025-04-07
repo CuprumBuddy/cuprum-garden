@@ -1417,7 +1417,7 @@
         }
       },
       "2025-04-07": {
-        "totalDelta": 530,
+        "totalDelta": 531,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md": {
             "initial": 1011,
@@ -1454,6 +1454,14 @@
           "🇬🇧 English/Places/DRAFT Eames Archives.md": {
             "initial": 0,
             "current": 106
+          },
+          "index.md": {
+            "initial": 114,
+            "current": 115
+          },
+          "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md": {
+            "initial": 595,
+            "current": 595
           }
         }
       }

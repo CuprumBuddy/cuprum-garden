@@ -7,11 +7,11 @@ lang: en-US
 tags: 
 aliases:
   - Welcome!
-  - Home
 cover: 
 draft: false
 published: 
 enableToc: true
+comments: false
 ---
 This is cuprum garden, a [[digital garden]] created by Cuprum Buddy.
 
