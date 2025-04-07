@@ -6,6 +6,6 @@
     "created": "date",
     "modified": "date",
     "published": "date",
-    "comments": "text"
+    "comments": "checkbox"
   }
 }

@@ -129,7 +129,7 @@
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,

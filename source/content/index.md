@@ -11,7 +11,7 @@ cover:
 draft: false
 published: 
 enableToc: true
-comments: "false"
+comments: false
 ---
 This is cuprum garden, a [[digital garden]] created by Cuprum Buddy.
 
