@@ -7,7 +7,7 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26
-modified: 2025-04-05T09:14:18+03:00
+modified: 2025-04-07T15:11:34+03:00
 published: 2025-03-31
 enableToc: true
 ---
@@ -15,7 +15,13 @@ enableToc: true
 > 
 > And the whole work is a thorough introduction to politics & economics (though it sounds like it's on the verge of parody)
 > 
-> – 2025-03-22, by me
+> – 2025-03-22, me
+
+> a practical guide to corporate evil:
+> 
+> actually a walkthrough collection of dark patterns used by corporations, no fictionalization, just like some 'bias' and neuromarketing books
+> 
+> – 2025-04-07, my partner
 
 I realize that, I believe, this work will never be written as a fanfic, or brought to life via any other form of media except for blogposts – at least not by my hand – because it requires immense knowledge which I currently don't have and no, I don't want to get a degree in economics (management, politics, etc) to create a fanwork.
 
