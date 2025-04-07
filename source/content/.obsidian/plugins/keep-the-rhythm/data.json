@@ -1417,7 +1417,7 @@
         }
       },
       "2025-04-07": {
-        "totalDelta": 1771,
+        "totalDelta": 2023,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md": {
             "initial": 1011,
@@ -1530,6 +1530,14 @@
           "🇬🇧 English/Sources/drafts/DRAFT Web Scraping With Scrapy (Bernardas Ališauskas).md": {
             "initial": 0,
             "current": 78
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Snow White is Disney's most villainous remake (art at midnight).md": {
+            "initial": 0,
+            "current": 208
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT We Become What We Behold (Nicky Case).md": {
+            "initial": 0,
+            "current": 44
           }
         }
       }
