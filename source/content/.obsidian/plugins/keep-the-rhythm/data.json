@@ -1417,7 +1417,7 @@
         }
       },
       "2025-04-07": {
-        "totalDelta": 583,
+        "totalDelta": 1771,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md": {
             "initial": 1011,
@@ -1470,6 +1470,66 @@
           "🇬🇧 English/Projects/Ideas/A Corporate Practical Guide to Evil.md": {
             "initial": 238,
             "current": 267
+          },
+          "🇬🇧 English/Places/DRAFT The Cave Without a Name.md": {
+            "initial": 0,
+            "current": 54
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Vape-O-Nomics (Tom Nicholas).md": {
+            "initial": 0,
+            "current": 90
+          },
+          "🇬🇧 English/Tutorials/How to get a picture of a YouTube thumbnail.md": {
+            "initial": 86,
+            "current": 86
+          },
+          "🇬🇧 English/Tools/drafts/DRAFT Visual Studio Code.md": {
+            "initial": 0,
+            "current": 33
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Basic writing and formatting syntax (GitHub Docs).md": {
+            "initial": 0,
+            "current": 66
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT The Magic of Small Databases (Tom Critchlow).md": {
+            "initial": 0,
+            "current": 143
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT The Art of Teaching Math and Science (Thomas Lin et al.).md": {
+            "initial": 0,
+            "current": 79
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT American Sublime (Alex Ross).md": {
+            "initial": 0,
+            "current": 58
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Завтра я всегда бывала львом (Арнхильд Лаувенг).md": {
+            "initial": 0,
+            "current": 239
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Using GPT-3 to augment human intelligence (Henrik Karlsson).md": {
+            "initial": 0,
+            "current": 70
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Crossing the Sunshine Skyway (Robin Sloan).md": {
+            "initial": 0,
+            "current": 48
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT \"No-one in my org puts money in their pension\" (Toby Jolly).md": {
+            "initial": 0,
+            "current": 61
+          },
+          "🇷🇺 Русский/Источники/drafts/DRAFT Как жить после потери близкого.md": {
+            "initial": 0,
+            "current": 90
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Dogra Magra (Yumeno Kyūsaku).md": {
+            "initial": 0,
+            "current": 79
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Web Scraping With Scrapy (Bernardas Ališauskas).md": {
+            "initial": 0,
+            "current": 78
           }
         }
       }
