@@ -13,6 +13,8 @@ enableToc: true
 ---
 A list of the site changes. Made by hand and therefore doesn’t include every single background change (e.g. whether I created a new draft), but still, alike to [[colophon]], can provide insight on the history of cuprum garden, how it was created and how it evolved over time.
 
+## 2025-04-07
+- enabled comments via [[giscus]]
 ## 2025-04-06
 - published pages:
 	- [[🎮 META (Crystal Shard)]]

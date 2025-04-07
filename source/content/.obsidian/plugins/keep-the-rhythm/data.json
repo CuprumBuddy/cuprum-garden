@@ -1417,7 +1417,7 @@
         }
       },
       "2025-04-07": {
-        "totalDelta": 531,
+        "totalDelta": 538,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md": {
             "initial": 1011,
@@ -1462,6 +1462,10 @@
           "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md": {
             "initial": 595,
             "current": 595
+          },
+          "🇬🇧 English/! Meta/changelog.md": {
+            "initial": 405,
+            "current": 412
           }
         }
       }
