@@ -1,7 +1,7 @@
 ---
 URL: https://youtube.com/watch?v=G87p148EOjo
 description: A song by Tom Cardy about Mario's existential crisis.
-modified: 2025-03-31T06:49:13+03:00
+modified: 2025-04-07T06:52:27+03:00
 title: 🎵 Level Clear! (Tom Cardy)
 lang: en-US
 tags: 
@@ -13,8 +13,6 @@ published: 2025-03-27
 enableToc: true
 ---
 ![[ッLevel Clear! - cover.png]]
-
-URL: https://youtube.com/watch?v=G87p148EOjo
 
 > Boss dead, level clear
 > 
@@ -29,6 +27,15 @@ URL: https://youtube.com/watch?v=G87p148EOjo
 > Think about what bad guy said
 > 
 > “Even if you did defeat me, what would you do then?”
+
+
+> Title: Level Clear!
+> 
+> Author: [[DRAFT Tom Cardy|Tom Cardy]]
+> 
+> URL: https://youtube.com/watch?v=G87p148EOjo
+> 
+> Date: 2023-04-25
 
 Somehow reminds me of [[Wreck-It Ralph]]: in both works character’s fate is tied to the way they were programmed, to their “ultimate goal”. While Wreck-It Ralph explores “What if a character doesn’t want to obey the fate?”, “Level Clear!” focuses on “What if the goal is achieved?”.
 

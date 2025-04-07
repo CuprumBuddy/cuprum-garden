@@ -1,6 +1,6 @@
 ---
 created: 2025-04-06T06:34:11+03:00
-modified: 2025-04-06T16:06:02+03:00
+modified: 2025-04-07T06:50:35+03:00
 title: 🎮 META (Crystal Shard)
 description: 
 lang: en-US
@@ -21,7 +21,14 @@ enableToc: true
 > 
 > META is based on [Adventure Game Studio](http://www.adventuregamestudio.co.uk), the platform for most of our games, and is runner-up for two AGS Awards.
 
-https://crystalshard.net/?g=4
+
+> Title: META
+> 
+> Author: [[DRAFT Crystal Shard|Crystal Shard]]
+> 
+> URL: https://crystalshard.net/?g=4
+> 
+> Date: 2005
 
 I wonder whether this game has affected the “fix the bugs” genre – titles like [[DRAFT Pony Island|Pony Island]], to be exact.
 

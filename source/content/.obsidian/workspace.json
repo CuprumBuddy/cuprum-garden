@@ -98,12 +98,12 @@
             }
           },
           {
-            "id": "df8ffd7051c9cb6d",
+            "id": "9ae7b004362059fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md",
+                "file": "🇬🇧 English/Sources/drafts/🎮  Stimulation Clicker (Neil Agarwal).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,7 +118,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT REWRITE Fact Posts (sarahconstantin)"
+              "title": "🎮  Stimulation Clicker (Neil Agarwal)"
             }
           }
         ],
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "5886fabcf85290b3",
@@ -318,12 +317,23 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "df8ffd7051c9cb6d",
+  "active": "9ae7b004362059fa",
   "lastOpenFiles": [
+    "🇬🇧 English/Sources/drafts/🎮  Stimulation Clicker (Neil Agarwal).md",
+    "_img/Pasted image 20250407082324.png",
+    "_img/Pasted image 20250407081532.png",
+    "🇬🇧 English/Tools/drafts/DRAFT Try Haskell.md",
+    "🇬🇧 English/Sources/drafts/DRAFT Internet Artifacts.md",
+    "_img/Pasted image 20250407071910.png",
+    "_img/Pasted image 20250407070910.png",
+    "_img/Pasted image 20250407070846.png",
+    "_img/Pasted image 20250407070643.png",
+    "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
+    "🇬🇧 English/Sources/🎵 Level Clear! (Tom Cardy).md",
     "🇬🇧 English/Sources/🎮 META (Crystal Shard).md",
+    "_templates/(TMPL) Source - Public Metadata.md",
     "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md",
     "🇬🇧 English/Sources/drafts/DRAFT A blog post is a query.md",
-    "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
     "🇬🇧 English/Sources/drafts/DRAFT 📔 How Many Licks (Aaron Santon).md",
     "index.md",
     "🇬🇧 English/! Meta/drafts/DRAFT philosophy.md",
@@ -345,20 +355,8 @@
     "🇬🇧 English/Projects/Ideas/An app that allows to easily filter menu options at cafes.md",
     "🇬🇧 English/Sources/drafts/DRAFT The Dark Forest Theory of the Internet (Yancey Strickler).md",
     "🇬🇧 English/Sources/drafts/DRAFT Aggregation Theory (Ben Thompson).md",
-    "🇬🇧 English/Sources/drafts/DRAFT This is Water by David Foster Wallace (Full Transcript and Audio).md",
-    "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md",
-    "🇬🇧 English/Sources/drafts/DRAFT The high-return activity of raising others’ aspirations (Tyler Cowen).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Why books donʼt work (Andy Matuschak).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Slaying the speckled monster (Jason Crawford).md",
-    "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md",
     "_img/Pasted image 20250405191231.png",
-    "_img/Pasted image 20250404060954.png",
-    "_img/Pasted image 20250405191203.png",
-    "_img/Pasted image 20250405191012.png",
     "🇬🇧 English/Tools/PKM Tools",
-    "_img/Pasted image 20250405173911.png",
-    "_img/Pasted image 20250405164830.png",
-    "_img/Pasted image 20250405164614.png",
     "🇬🇧 English/Opportunities",
     "🇬🇧 English/Thoughts",
     "🇬🇧 English/Moments/drafts",

@@ -1417,11 +1417,39 @@
         }
       },
       "2025-04-07": {
-        "totalDelta": 0,
+        "totalDelta": 424,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT REWRITE Fact Posts (sarahconstantin).md": {
             "initial": 1011,
             "current": 1011
+          },
+          "_templates/(TMPL) Source - Public Metadata.md": {
+            "initial": 0,
+            "current": 4
+          },
+          "🇬🇧 English/Sources/🎮 META (Crystal Shard).md": {
+            "initial": 429,
+            "current": 440
+          },
+          "🇬🇧 English/Sources/🎵 Level Clear! (Tom Cardy).md": {
+            "initial": 252,
+            "current": 265
+          },
+          "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md": {
+            "initial": 1218,
+            "current": 1235
+          },
+          "🇬🇧 English/Tools/drafts/DRAFT Try Haskell.md": {
+            "initial": 4,
+            "current": 101
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Internet Artifacts.md": {
+            "initial": 0,
+            "current": 51
+          },
+          "🇬🇧 English/Sources/drafts/🎮  Stimulation Clicker (Neil Agarwal).md": {
+            "initial": 0,
+            "current": 231
           }
         }
       }

@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-06T07:59:27+03:00
+modified: 2025-04-07T07:02:50+03:00
 title: 📔 A Practical Guide to Evil (Erratic Errata)
 description: 
 lang: en-US
@@ -16,7 +16,17 @@ created: 2025-03-18
 published: 2025-03-29
 enableToc: true
 ---
-![[ッpgte webtoon cover.jpg]]**WARNING! Spoilers Alert: Following post contains unmarked spoilers to all of the books in A Practical Guide to Evil. You have been warned.**
+![[ッpgte webtoon cover.jpg]]
+
+> Title: A Practical Guide to Evil
+> 
+> Author: [[DRAFT ErraticErrata|ErraticErata]]
+> 
+> URL: see below
+> 
+> Date: 2015-03-25
+
+**WARNING! Spoilers Alert: Following post contains unmarked spoilers to all of the books in A Practical Guide to Evil. You have been warned.**
 
 I highly recommend you to check out this work before reading further, starting at [https://practicalguidetoevil.wordpress.com/2015/03/25/prologue/](https://practicalguidetoevil.wordpress.com/2015/03/25/prologue/).
 
@@ -32,7 +42,7 @@ One of the most peculiar things about this work is that it's extremely long –
 
 Ah, I totally forgot. I've read 23 out of 600+ chapters by now. I bet my description will change in the future.
 
-As for now, the story follows Catherine Foundling, an orphaned 16-ish years old girl, who wants to infiltrate the Empire of Praes' army to set her home kingdom of Callow free. However, for some not-very-clear-yet reason she becomes an apprentice to Black Knight – the very guy with eerie green eyes who had a significant role in conquering Callow in the first place.
+As for now, the story follows Catherine Foundling, an orphaned 16-ish years old girl, who wants to infiltrate the Empire of Praes' army to set her home kingdom of Callow free. However, for some not-very-clear-yet reason she becomes an apprentice of Black Knight – the very guy with eerie green eyes who had a significant role in conquering Callow in the first place.
 
 By the way, Good and Evil exist and sometimes grant to those who seem worthy Names – way-more-than-ordinary abilities. Named people should fulfill their Roles, which are extremely similar to character archetypes and their purpose in fiction in general. Incredibly tropey stuff.
 
