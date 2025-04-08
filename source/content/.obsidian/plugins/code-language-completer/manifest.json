@@ -1,0 +1,10 @@
+{
+	"id": "code-language-completer",
+	"name": "Code Language Completer",
+	"version": "1.1.1",
+	"minAppVersion": "0.15.0",
+	"description": "Autosuggests and completes codeblock language options based on history.",
+	"author": "Stanley Wang",
+	"authorUrl": "https://github.com/Stanley-Wang910",
+	"isDesktopOnly": true
+}

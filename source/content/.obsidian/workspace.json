@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT We Become What We Behold (Nicky Case).md",
+                "file": "🇬🇧 English/Tools/drafts/DRAFT Mermaid Live Editor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,11 +118,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT We Become What We Behold (Nicky Case)"
+              "title": "DRAFT Mermaid Live Editor"
+            }
+          },
+          {
+            "id": "f03b3290cdd69c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🇬🇧 English/Thoughts/DRAFT On my notetaking process.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT On my notetaking process"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -317,10 +341,16 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "9ae7b004362059fa",
+  "active": "f03b3290cdd69c98",
   "lastOpenFiles": [
-    "🇬🇧 English/Sources/drafts/DRAFT Snow White is Disney's most villainous remake (art at midnight).md",
+    "🇬🇧 English/! Meta/changelog.md",
+    "🇬🇧 English/Tools/drafts/DRAFT Mermaid Live Editor.md",
+    "🇷🇺 Русский/Места/DRAFT Коворкинг музея-заповедника Царицыно.md",
+    "index.md",
+    "🇬🇧 English/Thoughts/DRAFT On my notetaking process.md",
+    "🇷🇺 Русский/Места",
     "🇬🇧 English/Sources/drafts/DRAFT We Become What We Behold (Nicky Case).md",
+    "🇬🇧 English/Sources/drafts/DRAFT Snow White is Disney's most villainous remake (art at midnight).md",
     "🇬🇧 English/Sources/drafts/DRAFT Web Scraping With Scrapy (Bernardas Ališauskas).md",
     "🇬🇧 English/Sources/drafts/DRAFT Dogra Magra (Yumeno Kyūsaku).md",
     "🇷🇺 Русский/Источники/drafts/DRAFT Как жить после потери близкого.md",
@@ -331,7 +361,6 @@
     "🇬🇧 English/Sources/drafts/DRAFT Завтра я всегда бывала львом (Арнхильд Лаувенг).md",
     "_img/Pasted image 20250407173113.png",
     "🇬🇧 English/Sources/drafts/DRAFT The Art of Teaching Math and Science (Thomas Lin et al.).md",
-    "index.md",
     "🇬🇧 English/Sources/drafts/DRAFT The Magic of Small Databases (Tom Critchlow).md",
     "🇬🇧 English/Sources/drafts/DRAFT Basic writing and formatting syntax (GitHub Docs).md",
     "🇬🇧 English/Tools/drafts/DRAFT Visual Studio Code.md",
@@ -340,20 +369,16 @@
     "🇬🇧 English/Tutorials/How to get a picture of a YouTube thumbnail.md",
     "🇬🇧 English/Places/DRAFT The Cave Without a Name.md",
     "🇬🇧 English/Projects/Ideas/A Corporate Practical Guide to Evil.md",
-    "🇬🇧 English/! Meta/changelog.md",
     "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md",
     "🇬🇧 English/Places/DRAFT Eames Archives.md",
     "_img/Pasted image 20250407113131.png",
     "🇬🇧 English/Sources/drafts/🎮  Stimulation Clicker (Neil Agarwal).md",
     "_img/Pasted image 20250407082324.png",
     "_img/Pasted image 20250407081532.png",
-    "🇬🇧 English/Tools/drafts/DRAFT Try Haskell.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Internet Artifacts.md",
     "_img/Pasted image 20250407071910.png",
     "_img/Pasted image 20250407070910.png",
     "_img/Pasted image 20250407070846.png",
     "_img/Pasted image 20250407070643.png",
-    "🇬🇧 English/Sources/📔 A Practical Guide to Evil (Erratic Errata).md",
     "_img/Pasted image 20250406075308.png",
     "index.md.part",
     "🇷🇺 Русский/Источники/Коллекции",
@@ -363,7 +388,6 @@
     "🇬🇧 English/Moments/drafts",
     "🇬🇧 English/Sources/🧩 Collections",
     "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)",
-    "🇬🇧 English/Tools/Browser Add-ons",
-    "🇬🇧 English/Tools/Obsidian Plugins"
+    "🇬🇧 English/Tools/Browser Add-ons"
   ]
 }
