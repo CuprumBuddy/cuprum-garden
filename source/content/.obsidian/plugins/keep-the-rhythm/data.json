@@ -1542,7 +1542,7 @@
         }
       },
       "2025-04-08": {
-        "totalDelta": 466,
+        "totalDelta": 571,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT We Become What We Behold (Nicky Case).md": {
             "initial": 44,
@@ -1550,7 +1550,7 @@
           },
           "🇬🇧 English/Thoughts/DRAFT On my notetaking process.md": {
             "initial": 0,
-            "current": 322
+            "current": 349
           },
           "index.md": {
             "initial": 131,
@@ -1567,6 +1567,10 @@
           "🇬🇧 English/! Meta/changelog.md": {
             "initial": 412,
             "current": 431
+          },
+          "🇬🇧 English/Thoughts/DRAFT The Sleep Procrastination & Making Time for Yourself.md": {
+            "initial": 0,
+            "current": 78
           }
         }
       }
