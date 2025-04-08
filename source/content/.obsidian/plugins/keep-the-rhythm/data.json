@@ -1542,7 +1542,7 @@
         }
       },
       "2025-04-08": {
-        "totalDelta": 665,
+        "totalDelta": 1403,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT We Become What We Behold (Nicky Case).md": {
             "initial": 44,
@@ -1575,6 +1575,50 @@
           "🇬🇧 English/! Meta/DRtimeline test.md": {
             "initial": 0,
             "current": 71
+          },
+          "🇷🇺 Русский/Источники/drafts/DRAFT Как общаются рационалисты (Вячеслав Матюхин).md": {
+            "initial": 0,
+            "current": 49
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Rematch (Andrew D. Pontious).md": {
+            "initial": 0,
+            "current": 87
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Three Hundred Mechanics.md": {
+            "initial": 0,
+            "current": 88
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT  Video Games » Flower, Sun and Rain.md": {
+            "initial": 0,
+            "current": 53
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Japanese Spirit » Analysis (TVTropes).md": {
+            "initial": 0,
+            "current": 50
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Self-Parody (TVTropes).md": {
+            "initial": 0,
+            "current": 47
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Internal Deconstruction (TVTropes).md": {
+            "initial": 0,
+            "current": 46
+          },
+          "🇬🇧 English/! Meta/DRAFT license check.md": {
+            "initial": 0,
+            "current": 49
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Дизайн игрового процесса (SentineL88).md": {
+            "initial": 0,
+            "current": 94
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Parody Displacement (TVTropes).md": {
+            "initial": 0,
+            "current": 54
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT The Enchanted Turnabout (Ana_).md": {
+            "initial": 0,
+            "current": 121
           }
         }
       }
