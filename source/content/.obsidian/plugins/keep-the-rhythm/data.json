@@ -1643,7 +1643,7 @@
         }
       },
       "2025-04-09": {
-        "totalDelta": 220,
+        "totalDelta": 300,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT Internal Deconstruction (TVTropes).md": {
             "initial": 46,
@@ -1655,7 +1655,7 @@
           },
           "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md": {
             "initial": 0,
-            "current": 220
+            "current": 300
           }
         }
       }
