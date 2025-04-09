@@ -1542,7 +1542,7 @@
         }
       },
       "2025-04-08": {
-        "totalDelta": 1403,
+        "totalDelta": 1824,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT We Become What We Behold (Nicky Case).md": {
             "initial": 44,
@@ -1619,6 +1619,43 @@
           "🇬🇧 English/Sources/drafts/DRAFT The Enchanted Turnabout (Ana_).md": {
             "initial": 0,
             "current": 121
+          },
+          "🇷🇺 Русский/Источники/drafts/DRAFT Конспект лекции про дизайн игровых механик.md": {
+            "initial": 0,
+            "current": 81
+          },
+          "🇷🇺 Русский/Источники/drafts/DRAFT Неподатливые soft-skills (ramarque).md": {
+            "initial": 0,
+            "current": 75
+          },
+          "🇷🇺 Русский/Источники/drafts/DRAFT Как не сойти с ума в космосе (Полина Кузнецова).md": {
+            "initial": 0,
+            "current": 67
+          },
+          "🇷🇺 Русский/Источники/drafts/DRAFT Парадоксы зрительного внимания (Мария Фаликман).md": {
+            "initial": 0,
+            "current": 48
+          },
+          "🇷🇺 Русский/Источники/drafts/DRAFT 200 законов мироздания.md": {
+            "initial": 0,
+            "current": 150
+          }
+        }
+      },
+      "2025-04-09": {
+        "totalDelta": 220,
+        "files": {
+          "🇬🇧 English/Sources/drafts/DRAFT Internal Deconstruction (TVTropes).md": {
+            "initial": 46,
+            "current": 46
+          },
+          "🇷🇺 Русский/Источники/drafts/DRAFT 200 законов мироздания.md": {
+            "initial": 150,
+            "current": 150
+          },
+          "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md": {
+            "initial": 0,
+            "current": 220
           }
         }
       }

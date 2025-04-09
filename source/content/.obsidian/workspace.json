@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT Internal Deconstruction (TVTropes).md",
+                "file": "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,35 +118,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT Internal Deconstruction (TVTropes)"
-            }
-          },
-          {
-            "id": "46439c5f33e38e54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🇬🇧 English/Sources/drafts/DRAFT The Enchanted Turnabout (Ana_).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DRAFT The Enchanted Turnabout (Ana_)"
+              "title": "DRAFT How to DOOM Emacs Elfeed"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -341,13 +317,20 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "46439c5f33e38e54",
+  "active": "f26d2b61218f7b89",
   "lastOpenFiles": [
-    "🇬🇧 English/Sources/drafts/DRAFT Parody Displacement (TVTropes).md",
+    "🇬🇧 English/Food",
+    "🇬🇧 English/Sources/drafts/DRAFT Internal Deconstruction (TVTropes).md",
+    "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md",
+    "🇷🇺 Русский/Источники/drafts/DRAFT 200 законов мироздания.md",
+    "🇷🇺 Русский/Источники/drafts/DRAFT Парадоксы зрительного внимания (Мария Фаликман).md",
+    "🇷🇺 Русский/Источники/drafts/DRAFT Как не сойти с ума в космосе (Полина Кузнецова).md",
+    "🇷🇺 Русский/Источники/drafts/DRAFT Неподатливые soft-skills (ramarque).md",
+    "🇷🇺 Русский/Источники/drafts/DRAFT Конспект лекции про дизайн игровых механик.md",
     "🇬🇧 English/Sources/drafts/DRAFT The Enchanted Turnabout (Ana_).md",
+    "🇬🇧 English/Sources/drafts/DRAFT Parody Displacement (TVTropes).md",
     "🇬🇧 English/Sources/drafts/DRAFT Дизайн игрового процесса (SentineL88).md",
     "🇬🇧 English/! Meta/DRAFT license check.md",
-    "🇬🇧 English/Sources/drafts/DRAFT Internal Deconstruction (TVTropes).md",
     "🇬🇧 English/Sources/drafts/DRAFT Japanese Spirit » Analysis (TVTropes).md",
     "🇬🇧 English/Sources/drafts/DRAFT Self-Parody (TVTropes).md",
     "🇬🇧 English/Sources/drafts/DRAFT  Video Games » Flower, Sun and Rain.md",
@@ -363,13 +346,6 @@
     "index.md",
     "🇷🇺 Русский/Места",
     "🇬🇧 English/Sources/drafts/DRAFT We Become What We Behold (Nicky Case).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Snow White is Disney's most villainous remake (art at midnight).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Web Scraping With Scrapy (Bernardas Ališauskas).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Dogra Magra (Yumeno Kyūsaku).md",
-    "🇷🇺 Русский/Источники/drafts/DRAFT Как жить после потери близкого.md",
-    "🇬🇧 English/Sources/drafts/DRAFT \"No-one in my org puts money in their pension\" (Toby Jolly).md",
-    "🇬🇧 English/Sources/drafts/DRAFT American Sublime (Alex Ross).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Crossing the Sunshine Skyway (Robin Sloan).md",
     "_img/Pasted image 20250407173113.png",
     "_img/Pasted image 20250407163355.png",
     "_img/Pasted image 20250407113131.png",
