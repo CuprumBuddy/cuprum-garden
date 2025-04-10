@@ -1680,7 +1680,7 @@
         }
       },
       "2025-04-10": {
-        "totalDelta": 1041,
+        "totalDelta": 1479,
         "files": {
           "🇬🇧 English/Projects/In progress/2025-04 Camp NaNoWriMo.md": {
             "initial": 649,
@@ -1688,7 +1688,7 @@
           },
           "🇬🇧 English/! Meta/DRAFT license check.md": {
             "initial": 49,
-            "current": 49
+            "current": 64
           },
           "🇬🇧 English/Creatures/DRAFT Lambda phage.md": {
             "initial": 0,
@@ -1700,7 +1700,7 @@
           },
           "🇬🇧 English/! Meta/drafts/DRAFT folder system.md": {
             "initial": 358,
-            "current": 557
+            "current": 619
           },
           "🇬🇧 English/Projects/Ideas/An app that allows to easily filter menu options at cafes.md": {
             "initial": 156,
@@ -1708,7 +1708,7 @@
           },
           "🇬🇧 English/Sources/drafts/DRAFT Dandadan.md": {
             "initial": 0,
-            "current": 110
+            "current": 121
           },
           "🇬🇧 English/Projects/In progress/DRAFT LifeLines.md": {
             "initial": 0,
@@ -1725,6 +1725,30 @@
           "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md": {
             "initial": 300,
             "current": 313
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT I should have loved biology (James Somers).md": {
+            "initial": 95,
+            "current": 95
+          },
+          "🇬🇧 English/Sources/🧩 Collections/🔖 slash pages (Robb Knight, 11ty).md": {
+            "initial": 158,
+            "current": 158
+          },
+          "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 30 Great Essays About Biology (Niko McCarty).md": {
+            "initial": 0,
+            "current": 184
+          },
+          "🇬🇧 English/Projects/Ideas/DRAFT Read 1 great biology essay daily during the whole month.md": {
+            "initial": 0,
+            "current": 60
+          },
+          "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 Speculating Futures (Francis Tseng).md": {
+            "initial": 172,
+            "current": 172
+          },
+          "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 1 dataset 100 visualizations.md": {
+            "initial": 0,
+            "current": 106
           }
         }
       }

@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Sources/🎮 Stimulation Clicker (Neil Agarwal).md",
+                "file": "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 1 dataset 100 visualizations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,11 +118,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🎮 Stimulation Clicker (Neil Agarwal)"
+              "title": "DRAFT 🔖 1 dataset 100 visualizations"
             }
           },
           {
-            "id": "12ac17d2633dbafe",
+            "id": "e95f41cad9ee53da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,57 +144,9 @@
               "icon": "lucide-file",
               "title": "DRAFT Dandadan"
             }
-          },
-          {
-            "id": "58bfd011929e19a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DRAFT folder system"
-            }
-          },
-          {
-            "id": "ab820cc56b6f4b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DRAFT How to DOOM Emacs Elfeed"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -374,24 +326,29 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "ab820cc56b6f4b5c",
+  "active": "e95f41cad9ee53da",
   "lastOpenFiles": [
+    "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 1 dataset 100 visualizations.md",
+    "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 Speculating Futures (Francis Tseng).md",
+    "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 30 Great Essays About Biology (Niko McCarty).md",
+    "🇬🇧 English/Projects/Ideas/DRAFT Read 1 great biology essay daily during the whole month.md",
+    "🇬🇧 English/Sources/🧩 Collections/🔖 slash pages (Robb Knight, 11ty).md",
     "🇬🇧 English/Sources/🎮 Stimulation Clicker (Neil Agarwal).md",
-    "🇬🇧 English/Projects/In progress/DRAFT LifeLines.md",
-    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "🇬🇧 English/Sources/drafts/DRAFT Dandadan.md",
+    "🇬🇧 English/! Meta/DRAFT license check.md",
+    "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
+    "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md",
+    "🇬🇧 English/Projects/In progress/DRAFT LifeLines.md",
     "🇬🇧 English/Projects/Ideas/DRAFT A management game which actually teaches management.md",
     "_img/Pasted image 20250410073046.png",
     "🇬🇧 English/Projects/Ideas/An app that allows to easily filter menu options at cafes.md",
     "🇬🇧 English/Creatures/DRAFT Lambda phage.md",
     "🇬🇧 English/English Folders List.md",
-    "🇬🇧 English/! Meta/DRAFT license check.md",
     "🇬🇧 English/Projects/In progress/2025-04 Camp NaNoWriMo.md",
     "🇬🇧 English/! Meta/changelog.md",
     "🇬🇧 English/Moments/drafts/2025-03-XX Make Sure to Warm Up Beforehand.md",
     "🇬🇧 English/! Meta/DRAFT what's new.md",
     "🇬🇧 English/Tools/drafts/DRAFT Salt (Wireframe).md",
-    "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md",
     "🇬🇧 English/Food",
     "🇬🇧 English/Sources/drafts/DRAFT Internal Deconstruction (TVTropes).md",
     "🇷🇺 Русский/Источники/drafts/DRAFT 200 законов мироздания.md",
@@ -399,11 +356,6 @@
     "🇷🇺 Русский/Источники/drafts/DRAFT Как не сойти с ума в космосе (Полина Кузнецова).md",
     "🇷🇺 Русский/Источники/drafts/DRAFT Неподатливые soft-skills (ramarque).md",
     "🇷🇺 Русский/Источники/drafts/DRAFT Конспект лекции про дизайн игровых механик.md",
-    "🇬🇧 English/Sources/drafts/DRAFT The Enchanted Turnabout (Ana_).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Parody Displacement (TVTropes).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Дизайн игрового процесса (SentineL88).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Japanese Spirit » Analysis (TVTropes).md",
-    "🇬🇧 English/Sources/drafts/DRAFT Self-Parody (TVTropes).md",
     "🇷🇺 Русский/Места",
     "_img/Pasted image 20250407173113.png",
     "_img/Pasted image 20250407163355.png",
