@@ -1643,7 +1643,7 @@
         }
       },
       "2025-04-09": {
-        "totalDelta": 300,
+        "totalDelta": 1176,
         "files": {
           "🇬🇧 English/Sources/drafts/DRAFT Internal Deconstruction (TVTropes).md": {
             "initial": 46,
@@ -1656,6 +1656,71 @@
           "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md": {
             "initial": 0,
             "current": 300
+          },
+          "🇬🇧 English/Tools/drafts/DRAFT Salt (Wireframe).md": {
+            "initial": 0,
+            "current": 63
+          },
+          "🇬🇧 English/Projects/In progress/2025-04 Camp NaNoWriMo.md": {
+            "initial": 0,
+            "current": 649
+          },
+          "🇬🇧 English/! Meta/DRAFT what's new.md": {
+            "initial": 0,
+            "current": 88
+          },
+          "🇬🇧 English/! Meta/changelog.md": {
+            "initial": 431,
+            "current": 459
+          },
+          "🇬🇧 English/Moments/drafts/2025-03-XX Make Sure to Warm Up Beforehand.md": {
+            "initial": 238,
+            "current": 286
+          }
+        }
+      },
+      "2025-04-10": {
+        "totalDelta": 886,
+        "files": {
+          "🇬🇧 English/Projects/In progress/2025-04 Camp NaNoWriMo.md": {
+            "initial": 649,
+            "current": 809
+          },
+          "🇬🇧 English/! Meta/DRAFT license check.md": {
+            "initial": 49,
+            "current": 49
+          },
+          "🇬🇧 English/Creatures/DRAFT Lambda phage.md": {
+            "initial": 0,
+            "current": 99
+          },
+          "🇬🇧 English/English Folders List.md": {
+            "initial": 30,
+            "current": 30
+          },
+          "🇬🇧 English/! Meta/drafts/DRAFT folder system.md": {
+            "initial": 358,
+            "current": 557
+          },
+          "🇬🇧 English/Projects/Ideas/An app that allows to easily filter menu options at cafes.md": {
+            "initial": 156,
+            "current": 156
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Dandadan.md": {
+            "initial": 0,
+            "current": 110
+          },
+          "🇬🇧 English/Projects/In progress/DRAFT LifeLines.md": {
+            "initial": 0,
+            "current": 288
+          },
+          "🇬🇧 English/Projects/Ideas/DRAFT A management game which actually teaches management.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Sources/🎮 Stimulation Clicker (Neil Agarwal).md": {
+            "initial": 231,
+            "current": 231
           }
         }
       }
