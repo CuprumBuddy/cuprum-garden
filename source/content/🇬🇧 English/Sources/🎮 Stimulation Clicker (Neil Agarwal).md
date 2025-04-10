@@ -1,12 +1,12 @@
 ---
 created: 2025-04-07T07:23:28+03:00
-modified: 2025-04-07T11:25:20+03:00
-title: Stimulation Clicker
+modified: 2025-04-10T09:15:18+03:00
+title: 🎮 Stimulation Clicker (Neil Agarwal)
 description: 
 lang: en-US
 tags: 
 aliases:
-  - Stimulation Clicker
+  - 🎮 Stimulation Clicker (Neil Agarwal)
 cover: 
 draft: false
 published: 2025-04-07

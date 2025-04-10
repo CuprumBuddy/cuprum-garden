@@ -1680,7 +1680,7 @@
         }
       },
       "2025-04-10": {
-        "totalDelta": 886,
+        "totalDelta": 1041,
         "files": {
           "🇬🇧 English/Projects/In progress/2025-04 Camp NaNoWriMo.md": {
             "initial": 649,
@@ -1712,7 +1712,7 @@
           },
           "🇬🇧 English/Projects/In progress/DRAFT LifeLines.md": {
             "initial": 0,
-            "current": 288
+            "current": 426
           },
           "🇬🇧 English/Projects/Ideas/DRAFT A management game which actually teaches management.md": {
             "initial": 0,
@@ -1720,7 +1720,11 @@
           },
           "🇬🇧 English/Sources/🎮 Stimulation Clicker (Neil Agarwal).md": {
             "initial": 231,
-            "current": 231
+            "current": 235
+          },
+          "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md": {
+            "initial": 300,
+            "current": 313
           }
         }
       }

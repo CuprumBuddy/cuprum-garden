@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇬🇧 English/Projects/In progress/DRAFT LifeLines.md",
+                "file": "🇬🇧 English/Sources/🎮 Stimulation Clicker (Neil Agarwal).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,7 +118,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT LifeLines"
+              "title": "🎮 Stimulation Clicker (Neil Agarwal)"
             }
           },
           {
@@ -168,9 +168,33 @@
               "icon": "lucide-file",
               "title": "DRAFT folder system"
             }
+          },
+          {
+            "id": "ab820cc56b6f4b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🇬🇧 English/Tutorials/drafts/DRAFT How to DOOM Emacs Elfeed.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT How to DOOM Emacs Elfeed"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -350,12 +374,12 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "58bfd011929e19a9",
+  "active": "ab820cc56b6f4b5c",
   "lastOpenFiles": [
+    "🇬🇧 English/Sources/🎮 Stimulation Clicker (Neil Agarwal).md",
     "🇬🇧 English/Projects/In progress/DRAFT LifeLines.md",
     "🇬🇧 English/! Meta/drafts/DRAFT folder system.md",
     "🇬🇧 English/Sources/drafts/DRAFT Dandadan.md",
-    "🇬🇧 English/Sources/🎮 Stimulation Clicker (Neil Agarwal).md",
     "🇬🇧 English/Projects/Ideas/DRAFT A management game which actually teaches management.md",
     "_img/Pasted image 20250410073046.png",
     "🇬🇧 English/Projects/Ideas/An app that allows to easily filter menu options at cafes.md",
