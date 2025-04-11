@@ -1680,7 +1680,7 @@
         }
       },
       "2025-04-10": {
-        "totalDelta": 1479,
+        "totalDelta": 1897,
         "files": {
           "🇬🇧 English/Projects/In progress/2025-04 Camp NaNoWriMo.md": {
             "initial": 649,
@@ -1749,6 +1749,111 @@
           "🇬🇧 English/Sources/🧩 Collections/DRAFT 🔖 1 dataset 100 visualizations.md": {
             "initial": 0,
             "current": 106
+          },
+          "🇬🇧 English/Sources/🎮 META (Crystal Shard).md": {
+            "initial": 440,
+            "current": 440
+          },
+          "🇬🇧 English/Questions/drafts/DRAFT How did deprecation of Adobe Flash affect the gamedev industry?.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/Questions/drafts/DRAFT What could goal factoring software look like?.md": {
+            "initial": 18,
+            "current": 18
+          },
+          "🇬🇧 English/Sources/DRAFT 🎮 Phantom Mansion I & II.md": {
+            "initial": 0,
+            "current": 388
+          }
+        }
+      },
+      "2025-04-11": {
+        "totalDelta": 1997,
+        "files": {
+          "🇬🇧 English/Sources/DRAFT 🎮 Phantom Mansion I & II.md": {
+            "initial": 388,
+            "current": 388
+          },
+          "🇷🇺 Русский/Моменты/DRAFT 2025-04-11 Быть вместе.md": {
+            "initial": 0,
+            "current": 1491
+          },
+          "🇬🇧 English/Questions/drafts/DRAFT Why foodfights are so prominent in American media?.md": {
+            "initial": 0,
+            "current": 30
+          },
+          "🇬🇧 English/! Meta/changelog.md": {
+            "initial": 459,
+            "current": 482
+          },
+          "🇬🇧 English/Sources/🎮 Stimulation Clicker (Neil Agarwal).md": {
+            "initial": 235,
+            "current": 235
+          },
+          "🇬🇧 English/Sources/🧩 Collections/🔖 slash pages (Robb Knight, 11ty).md": {
+            "initial": 158,
+            "current": 158
+          },
+          "🇬🇧 English/Tutorials/DRAFT How to get a picture of a YouTube thumbnail.md": {
+            "initial": 86,
+            "current": 86
+          },
+          "🇬🇧 English/English Folders List.md": {
+            "initial": 30,
+            "current": 30
+          },
+          "🇬🇧 English/! Meta/drafts/DRAFT roadmap.md": {
+            "initial": 103,
+            "current": 103
+          },
+          "🇬🇧 English/! Meta/drafts/DRAFT ai.md": {
+            "initial": 0,
+            "current": 109
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Grip.md": {
+            "initial": 0,
+            "current": 49
+          },
+          "🇬🇧 English/Projects/In progress/2025-04 Camp NaNoWriMo.md": {
+            "initial": 809,
+            "current": 811
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Secret (Ryuuuu feat. Megurine Luka).md": {
+            "initial": 0,
+            "current": 246
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT My Brain is Different (MONZUSU).md": {
+            "initial": 151,
+            "current": 151
+          },
+          "🇬🇧 English/Moments/2025-04-05 Installing Emacs.md": {
+            "initial": 208,
+            "current": 208
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Focus (Allie X).md": {
+            "initial": 55,
+            "current": 55
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Bitch (Allie X).md": {
+            "initial": 57,
+            "current": 57
+          },
+          "🇬🇧 English/Sources/🎮 META (Crystal Shard).md": {
+            "initial": 442,
+            "current": 442
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT NaNoToons.md": {
+            "initial": 0,
+            "current": 45
+          },
+          "🇬🇧 English/Projects/In progress/DRAFT LifeLines.md": {
+            "initial": 434,
+            "current": 436
+          },
+          "🇬🇧 English/Sources/🧩 Collections/DRAFT The Introduction to Effective Altruism Handbook.md": {
+            "initial": 36,
+            "current": 36
           }
         }
       }

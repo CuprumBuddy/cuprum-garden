@@ -7,12 +7,14 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T12:13:56+03:00
-modified: 2025-04-09T18:15:05+03:00
+modified: 2025-04-11T05:31:45+03:00
 published: 2025-03-26
 enableToc: true
 ---
 A list of the site changes. Made by hand and therefore doesn’t include every single background change (e.g. whether I created a new draft), but still, alike to [[colophon]], can provide insight on the history of cuprum garden, how it was created and how it evolved over time.
 
+## 2025-04-11
+- started putting footnotes with sources links next to links to my own pages about these sources 
 ## 2025-04-09
 - published pages:
 	- [[2025-03-XX Make Sure to Warm Up Beforehand|2025-03-XX Make Sure to Warm Up Beforehand]]
@@ -46,7 +48,7 @@ A list of the site changes. Made by hand and therefore doesn’t include every s
 	- [[🎵 Level Clear! (Tom Cardy)]]
 	- [[Obsidian Keep the Rhythm]]
 	- [[colophon]]
-	- [[roadmap]]
+	- [[DRAFT roadmap]]
 	- [[📔 A Practical Guide to Evil (Erratic Errata)]]
 - enabled plugins:
 	- [[DRAFT Obsidian Strange New Worlds|Strange New Worlds]]
@@ -60,7 +62,7 @@ A list of the site changes. Made by hand and therefore doesn’t include every s
 	  - And freaking fixed it by myself on the 8th attempt after it broke!!!!!!!
 	- [[DRAFT Obsidian Front Matter Timestamps|Front Matter Timestamps]]
 - updated pages:
-	- [[roadmap]]
+	- [[DRAFT roadmap]]
 - configured the site:
 	- renamed from standard “Quartz 4.0” to “cuprum garden”
 	- added the base URL to Quartz config file, creating the home page
@@ -68,7 +70,7 @@ A list of the site changes. Made by hand and therefore doesn’t include every s
 ## 2025-03-27
 - published pages:
 	- [[🎵 Level Clear! (Tom Cardy)]]
-	- [[How to get a picture of a YouTube thumbnail]]
+	- [[DRAFT How to get a picture of a YouTube thumbnail]]
 ## 2025-03-26
 - forked the [[DRAFT Obsidian Quartz GitHub Pages Template|Obsidian / Quartz / GitHub Pages Template]] repo from Defender, thus creating this site
 - installed plugins:
@@ -77,6 +79,6 @@ A list of the site changes. Made by hand and therefore doesn’t include every s
 - created & published pages:
 	- [[changelog]]
 	- [[colophon]] 
-	- [[roadmap]]
+	- [[DRAFT roadmap]]
 	- [[Obsidian Keep the Rhythm]]
 	- [[🦸 Birthright (Joshua Williamson)]]

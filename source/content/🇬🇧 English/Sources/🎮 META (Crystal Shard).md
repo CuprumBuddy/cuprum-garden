@@ -13,7 +13,7 @@ draft: false
 published: 2025-04-06
 enableToc: true
 ---
-![[Pasted image 20250406064731.png]]
+![[ッMETA game - screenshot.png]]
 
 > A parody of amateur adventure design, this metagame consists of a simple treasure hunting game, and a complex editor needed to complete it. The editor and its [assistant Cuppit](https://crystalshard.net/index.php?f=cuppit) are all part of the game; anyone involved in game or level design should appreciate the humor.
 > 

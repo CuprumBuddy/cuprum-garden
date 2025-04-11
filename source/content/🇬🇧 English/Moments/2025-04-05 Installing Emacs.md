@@ -17,4 +17,4 @@ I write it at 16:40, because my partner just has finished 7 hour long Emacs inst
 
 So, now I have Emacs in its all not-yet-comprehensible glory. Wish me luck.
 
-![[Pasted image 20250405164830.png]]
+![[ッDOOM Emacs - start page.png]]

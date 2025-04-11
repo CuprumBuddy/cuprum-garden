@@ -1,6 +1,6 @@
 ---
 created: 2025-04-09T17:17:32+03:00
-modified: 2025-04-10T06:57:27+03:00
+modified: 2025-04-11T07:52:26+03:00
 title: 2025-04 Camp NaNoWriMo
 description: 
 lang: en-US
@@ -35,7 +35,7 @@ A few examples of cheating methods (keep in mind that NaNoWriMo’s goal is to w
 >    - Or a [Trebuchet](https://tvtropes.org/pmwiki/pmwiki.php/Main/SiegeEngines "/pmwiki/pmwiki.php/Main/SiegeEngines").
 >    - Or [drown someone in ketchup](https://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTrap "/pmwiki/pmwiki.php/Main/DeathTrap").
 >
-> – [[DRAFT NaNoWriMo » Media Notes (TVTropes)|NaNoWriMo » Media Notes (TVTropes)]]
+> – [[DRAFT NaNoWriMo » Media Notes (TVTropes)|NaNoWriMo » Media Notes (TVTropes)]] [@noauthor_nanowrimo_nodate]
 
 However, it isn’t all that dire. As I write, I constantly generate feedback for myself. Do I need more plugins outside of those mentioned in [[colophon]] to make the process smoother? Which topics even come to my mind when I have to write about literally anything?
 
