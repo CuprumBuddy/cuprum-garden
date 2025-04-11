@@ -1,11 +1,14 @@
 ---
 created: 2025-04-02T14:30:05+03:00
-modified: 2025-04-09T18:13:09+03:00
+modified: 2025-04-11T22:40:55+03:00
 title: 2025-03-XX Make Sure to Warm Up Beforehand
 description: 
 lang: en-US
 tags:
   - Sports
+  - Pain
+  - Failure_Modes
+  - Feedback_Loops
 aliases:
   - 2025-03-XX Make Sure to Warm Up Beforehand
 cover: 

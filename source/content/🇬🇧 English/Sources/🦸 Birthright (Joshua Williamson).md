@@ -7,13 +7,15 @@ aliases:
 cover: 
 draft: false
 created: 2025-03-26T15:05:00Z
-modified: 2025-03-30T20:38:45+03:00
+modified: 2025-04-11T22:50:03+03:00
 published: 2025-03-26
 enableToc: true
 ---
  ![[ッbirthright comic - cover.png]]
 
 > For the Rhodes family, losing their son was the most devastating thing that could've ever occurred… but it couldn't prepare them for what happened when he returned.
+
+---
 
 Found via [["Trapped in Another World" (TVTropes)]], which is a spoiler by itself... I “guess.”
 

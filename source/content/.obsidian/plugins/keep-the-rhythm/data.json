@@ -1769,7 +1769,7 @@
         }
       },
       "2025-04-11": {
-        "totalDelta": 2046,
+        "totalDelta": 2212,
         "files": {
           "🇬🇧 English/Sources/DRAFT 🎮 Phantom Mansion I & II.md": {
             "initial": 388,
@@ -1789,7 +1789,7 @@
           },
           "🇬🇧 English/Sources/🎮 Stimulation Clicker (Neil Agarwal).md": {
             "initial": 235,
-            "current": 235
+            "current": 252
           },
           "🇬🇧 English/Sources/🧩 Collections/🔖 slash pages (Robb Knight, 11ty).md": {
             "initial": 158,
@@ -1862,6 +1862,34 @@
           "🇷🇺 Русский/Источники/drafts/DRAFT Сиквел и приквел - занимательная археология.md": {
             "initial": 0,
             "current": 38
+          },
+          "🇬🇧 English/Moments/2025-03-XX Make Sure to Warm Up Beforehand.md": {
+            "initial": 286,
+            "current": 289
+          },
+          "🇷🇺 Русский/Источники/Практическая подготовка к ЕГЭ по биологии/DRAFT Практическая подготовка к ЕГЭ по биологии.md": {
+            "initial": 30,
+            "current": 30
+          },
+          "🇷🇺 Русский/Источники/Историческая география (Фёдор Корандей и др.)/Истгео Лекториум.md": {
+            "initial": 250,
+            "current": 252
+          },
+          "🇬🇧 English/Sources/drafts/DRAFT Eleven Flavors of Frustration (Bennett Foddy).md": {
+            "initial": 0,
+            "current": 134
+          },
+          "🇬🇧 English/Sources/🦸 Birthright (Joshua Williamson).md": {
+            "initial": 595,
+            "current": 595
+          },
+          "🇬🇧 English/Sources/🎵 Level Clear! (Tom Cardy).md": {
+            "initial": 265,
+            "current": 274
+          },
+          "🇬🇧 English/Tools/Obsidian Plugins/Obsidian Keep the Rhythm.md": {
+            "initial": 165,
+            "current": 166
           }
         }
       }

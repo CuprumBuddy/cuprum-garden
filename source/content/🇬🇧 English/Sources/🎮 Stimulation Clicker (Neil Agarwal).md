@@ -1,8 +1,8 @@
 ---
 created: 2025-04-07T07:23:28+03:00
-modified: 2025-04-10T09:15:18+03:00
+modified: 2025-04-11T22:49:37+03:00
 title: 🎮 Stimulation Clicker (Neil Agarwal)
-description: 
+description: A short (~1 hour long) clicker game about stimulation with which internet bombards us every single day.
 lang: en-US
 tags: 
 aliases:
@@ -20,7 +20,8 @@ enableToc: true
 > URL: https://neal.fun/stimulation-clicker/
 > 
 > Date: 2025-01-06
-> 
+
+---
 
 A short (~1 hour long) [[clicker game]] about [[stimulation]] with which internet bombards us every single day. 
 
