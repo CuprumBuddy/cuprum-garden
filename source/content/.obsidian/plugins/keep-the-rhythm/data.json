@@ -1769,7 +1769,7 @@
         }
       },
       "2025-04-11": {
-        "totalDelta": 1997,
+        "totalDelta": 2006,
         "files": {
           "🇬🇧 English/Sources/DRAFT 🎮 Phantom Mansion I & II.md": {
             "initial": 388,
@@ -1817,7 +1817,7 @@
           },
           "🇬🇧 English/Projects/In progress/2025-04 Camp NaNoWriMo.md": {
             "initial": 809,
-            "current": 811
+            "current": 813
           },
           "🇬🇧 English/Sources/drafts/DRAFT Secret (Ryuuuu feat. Megurine Luka).md": {
             "initial": 0,
@@ -1854,6 +1854,10 @@
           "🇬🇧 English/Sources/🧩 Collections/DRAFT The Introduction to Effective Altruism Handbook.md": {
             "initial": 36,
             "current": 36
+          },
+          "index.md": {
+            "initial": 131,
+            "current": 138
           }
         }
       }

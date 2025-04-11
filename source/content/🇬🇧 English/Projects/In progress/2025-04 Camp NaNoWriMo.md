@@ -6,6 +6,7 @@ description:
 lang: en-US
 tags:
   - Creative_Process
+  - NaNoWriMo
 aliases:
   - 2025-04 Camp NaNoWriMo
 cover: 
@@ -42,3 +43,5 @@ However, it isn’t all that dire. As I write, I constantly generate feedback fo
 Turns out that I tend to write posts about media that impressed me as a short-form and study notes on obscure (at least for a general audience) nerdy topics such as [[Haskell]] or [[DRAFT How to DOOM Emacs Elfeed|accessing RSS feeds via Elfeed in DOOM Emacs]]. About which, to be honest, I wanted to write for a long time, but I felt that nobody would be interested in reading my Telegram blog if I wrote about *these*.
 
 (this is pretty weird, since I know for sure that at least some of my readers work in IT and actually know way more than I do. huh)
+
+# Bibliography
