@@ -127,7 +127,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🇷🇺 Русский/Источники/drafts/DRAFT Сиквел и приквел - занимательная археология.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -142,7 +142,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DRAFT Сиквел и приквел - занимательная археология"
+              "title": "index"
             }
           }
         ],
@@ -328,8 +328,8 @@
   },
   "active": "f291316af62c02cd",
   "lastOpenFiles": [
-    "index.md",
     "🇷🇺 Русский/Источники/drafts/DRAFT Сиквел и приквел - занимательная археология.md",
+    "index.md",
     "🇬🇧 English/Projects/In progress/2025-04 Camp NaNoWriMo.md",
     "🇬🇧 English/Sources/🧩 Collections/DRAFT The Introduction to Effective Altruism Handbook.md",
     "_img/ッAllie X - Bitch - cover.png",
