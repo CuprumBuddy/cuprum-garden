@@ -11,6 +11,10 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "About"
+  weight = 5
+
+[[main]]
   name = "Projects"
   weight = 30
 
