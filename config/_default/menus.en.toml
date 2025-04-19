@@ -12,6 +12,7 @@
 
 [[main]]
   name = "Projects"
+  weight = 30
 
 [[main]]
   name = "Ideas"
@@ -46,7 +47,7 @@
 [[main]]
   name = "Sources"
   pageRef = "source"
-
+  weight = 20
 [[main]]
   name = "Books"
   pageRef = "Book"
