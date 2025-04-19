@@ -33,6 +33,10 @@ enableEmoji = true
   category = "categories"
   author = "authors"
   series = "series"
+  genre = "genres"
+  translator = "translators"
+  creator = "creators"
+  year_created = "year"
 
 [sitemap]
   changefreq = 'daily'
