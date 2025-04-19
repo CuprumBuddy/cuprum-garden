@@ -17,14 +17,33 @@
   name = "Ideas"
   parent = "Projects"
   pageRef = "ideas"
+  weight = 30
+
+[[main]]
+  name = "Finished"
+  parent = "Projects"
+  pageRef = "proj_fin"
+  weight = 10
+
+[[main]]
+  name = "In Progress"
+  parent = "Projects"
+  pageRef = "ideas"
+  weight = 20
 
 [[main]]
   name = "Moments"
   pageRef = "moments"
-  
+
+[[main]]
+  name = "Writing"
+
 [[main]]
   name = "Tutorials"
   pageRef = "tutorials"
+  parent = "Writing"
+
+[[main]]
 
 #[[main]]
 #  name = "Blog"
