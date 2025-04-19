@@ -50,7 +50,37 @@
   weight = 20
 [[main]]
   name = "Books"
-  pageRef = "Book"
+  pageRef = "book"
+  parent = "Sources"
+
+[[main]]
+  name = "Anime"
+  pageRef = "anime"
+  parent = "Sources"
+
+[[main]]
+  name = "Western Animation"
+  pageRef = "w_cartoons"
+  parent = "Sources"
+
+[[main]]
+  name = "Comic Books"
+  pageRef = "comic_book"
+  parent = "Sources"
+
+[[main]]
+  name = "Western Animation"
+  pageRef = "w_cartoons"
+  parent = "Sources"
+
+[[main]]
+  name = "Blog Posts"
+  pageRef = "blog_post"
+  parent = "Sources"
+
+[[main]]
+  name = "Video"
+  pageRef = "video"
   parent = "Sources"
 
 #[[main]]
