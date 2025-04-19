@@ -66,10 +66,6 @@
   name = "Sources"
   pageRef = "source"
   weight = 20
-[[main]]
-  name = "Books"
-  pageRef = "book"
-  parent = "Sources"
 
 [[main]]
   name = "Anime"
@@ -77,8 +73,13 @@
   parent = "Sources"
 
 [[main]]
-  name = "Western Animation"
-  pageRef = "w_cartoons"
+  name = "Blog Posts"
+  pageRef = "blog_post"
+  parent = "Sources"
+
+[[main]]
+  name = "Books"
+  pageRef = "book"
   parent = "Sources"
 
 [[main]]
@@ -92,13 +93,23 @@
   parent = "Sources"
 
 [[main]]
-  name = "Blog Posts"
-  pageRef = "blog_post"
+  name = "Encyclopedia Articles"
+  pageRef = "ency"
+  parent = "Sources"
+
+[[main]]
+  name = "Online Courses"
+  pageRef = "mooc"
   parent = "Sources"
 
 [[main]]
   name = "Video"
   pageRef = "video"
+  parent = "Sources"
+
+[[main]]
+  name = "Western Animation"
+  pageRef = "w_cartoons"
   parent = "Sources"
 
 #[[main]]
