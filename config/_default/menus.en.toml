@@ -53,6 +53,11 @@
   parent = "Knowledge Base"
 
 [[main]]
+  name = "Tools"
+  pageRef = "tool"
+  parent = "Knowledge Base"
+
+[[main]]
   name = "Concepts"
   pageRef = "concept"
   parent = "Knowledge Base"
@@ -103,7 +108,7 @@
   parent = "Sources"
 
 [[main]]
-  name = "Video"
+  name = "Videos"
   pageRef = "video"
   parent = "Sources"
 
