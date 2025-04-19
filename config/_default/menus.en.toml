@@ -37,13 +37,20 @@
 
 [[main]]
   name = "Writing"
-
+  weight = 10
 [[main]]
   name = "Tutorials"
   pageRef = "tutorials"
   parent = "Writing"
 
 [[main]]
+  name = "Sources"
+  pageRef = "source"
+
+[[main]]
+  name = "Books"
+  pageRef = "Book"
+  parent = "Sources"
 
 #[[main]]
 #  name = "Blog"
