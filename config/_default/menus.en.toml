@@ -87,8 +87,8 @@
   parent = "Sources"
 
 [[main]]
-  name = "Western Animation"
-  pageRef = "w_cartoons"
+  name = "Collections"
+  pageRef = "collection"
   parent = "Sources"
 
 [[main]]
