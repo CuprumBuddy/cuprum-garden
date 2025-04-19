@@ -18,6 +18,14 @@
   parent = "Projects"
   pageRef = "ideas"
 
+[[main]]
+  name = "Moments"
+  pageRef = "moments"
+  
+[[main]]
+  name = "Tutorials"
+  pageRef = "tutorials"
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"
