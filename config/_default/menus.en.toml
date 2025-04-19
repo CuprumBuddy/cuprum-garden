@@ -103,6 +103,16 @@
   parent = "Sources"
 
 [[main]]
+  name = "Fanworks"
+  pageRef = "fanwork"
+  parent = "Sources"
+
+[[main]]
+  name = "Fanfics"
+  pageRef = "fanfic"
+  parent = "Fanworks"
+
+[[main]]
   name = "Online Courses"
   pageRef = "mooc"
   parent = "Sources"
