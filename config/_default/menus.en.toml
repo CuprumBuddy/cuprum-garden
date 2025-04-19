@@ -53,6 +53,16 @@
   parent = "Knowledge Base"
 
 [[main]]
+  name = "Concepts"
+  pageRef = "concept"
+  parent = "Knowledge Base"
+
+[[main]]
+  name = "Notions"
+  pageRef = "notion"
+  parent = "Knowledge Base"
+
+[[main]]
   name = "Sources"
   pageRef = "source"
   weight = 20
