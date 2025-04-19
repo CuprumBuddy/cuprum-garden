@@ -19,6 +19,10 @@
   weight = 30
 
 [[main]]
+  name = "Knowledge Base"
+  weight = 25
+
+[[main]]
   name = "Ideas"
   parent = "Projects"
   pageRef = "ideas"
@@ -46,7 +50,7 @@
 [[main]]
   name = "Tutorials"
   pageRef = "tutorials"
-  parent = "Writing"
+  parent = "Knowledge Base"
 
 [[main]]
   name = "Sources"
