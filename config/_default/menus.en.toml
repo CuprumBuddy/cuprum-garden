@@ -37,7 +37,7 @@
 [[main]]
   name = "In Progress"
   parent = "Projects"
-  pageRef = "ideas"
+  pageRef = "proj_in_progress"
   weight = 20
 
 [[main]]
