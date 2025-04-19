@@ -16,7 +16,7 @@
 [[main]]
   name = "Ideas"
   parent = "Projects"
-  pageRef = "idea"
+  pageRef = "ideas"
 
 #[[main]]
 #  name = "Blog"
