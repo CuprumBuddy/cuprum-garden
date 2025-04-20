@@ -123,6 +123,11 @@
   parent = "Sources"
 
 [[main]]
+  name = "Videogames"
+  pageRef = "videogame"
+  parent = "Sources"
+
+[[main]]
   name = "Western Animation"
   pageRef = "w_cartoons"
   parent = "Sources"
