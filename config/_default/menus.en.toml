@@ -123,6 +123,11 @@
   parent = "Sources"
 
 [[main]]
+  name = "Podcasts"
+  pageRef = "podcast"
+  parent = "Sources"
+
+[[main]]
   name = "Videos"
   pageRef = "video"
   parent = "Sources"
