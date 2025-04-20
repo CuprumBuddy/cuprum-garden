@@ -113,6 +113,11 @@
   parent = "Fanworks"
 
 [[main]]
+  name = "Music"
+  pageRef = "music"
+  parent = "Sources"
+
+[[main]]
   name = "Online Courses"
   pageRef = "mooc"
   parent = "Sources"
