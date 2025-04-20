@@ -13,6 +13,8 @@ layout:
 
 {{< figure src="/images/Keep_the_Rhythm_screenshot.png" title="Keep the Rhythm screenshot" >}}
 
+![Keep the Rhythm screenshot from Keep the Rhythm's repository by Benjamin Ezequiel](Keep_the_Rhythm_screenshot.png "Keep the Rhythm screenshot from Keep the Rhythm's [repository](https://github.com/benjaminezequiel/keep-the-rhythm/) by [Benjamin Ezequiel](https://github.com/benjaminezequiel)")
+
 > Keep the Rhythm is an Obsidian plugin that helps you maintain a consistent writing practice by tracking your daily word count and visualizing it through an elegant heatmap.
 
 ---
