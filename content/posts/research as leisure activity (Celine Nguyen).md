@@ -6,6 +6,7 @@ description:
 keywords: 
 categories:
   - blog_post
+  - source
 draft: false
 publishDate: 2025-04-20
 expiryDate: 
