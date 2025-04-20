@@ -24,7 +24,7 @@ layout:
 
 > Title: We Become What We Behold
 > 
-> Author: [Nicky Case].(https://ncase.me/)
+> Author: [Nicky Case](https://ncase.me/)
 > 
 > URL: https://ncase.itch.io/wbwwb
 > 
