@@ -10,6 +10,9 @@ expiryDate:
 lastmod: 2025-04-19T18:14:19+03:00
 layout: 
 ---
+
+<img class="special-img-class" src="/ッKeep the Rhythm - screenshot.png" />
+
 ![Keep the Rhythm screenshot from GitHub](ッKeep the Rhythm - screenshot.png)
 
 > Keep the Rhythm is an Obsidian plugin that helps you maintain a consistent writing practice by tracking your daily word count and visualizing it through an elegant heatmap.
