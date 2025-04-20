@@ -1,5 +1,5 @@
 ---
-title: We Become What We Behold (Nicky Case)
+title: 🎮 We Become What We Behold (Nicky Case)
 description: Short Flash game about news influence.
 keywords:
   - News
