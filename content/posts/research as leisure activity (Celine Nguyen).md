@@ -1,7 +1,7 @@
 ---
 date: 2025-04-20T09:28:25+03:00
 lastmod: 2025-04-20T09:28:36+03:00
-title: ✍️ research as leisure activity (Celine Nguyen)
+title: 🖋 research as leisure activity (Celine Nguyen)
 description: 
 keywords: 
 categories:
