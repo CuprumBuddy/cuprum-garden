@@ -11,9 +11,9 @@ categories:
   - videogame
 tags:
   - News
-  - News_Cycles
-  - Vicious_Cycles
-  - Flash_Games
+  - "News Cycles"
+  - "Vicious Cycles"
+  - "Flash Games"
 draft: false
 date: 2025-04-07T19:09:22+03:00
 publishDate: 2025-04-20
