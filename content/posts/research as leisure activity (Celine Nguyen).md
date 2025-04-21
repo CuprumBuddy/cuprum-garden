@@ -4,6 +4,9 @@ lastmod: 2025-04-20T09:28:36+03:00
 title: 🖋 research as leisure activity (Celine Nguyen)
 description: 
 keywords: 
+  - Research
+tags:
+  - Research
 categories:
   - blog_post
   - source
