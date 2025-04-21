@@ -10,9 +10,9 @@ keywords:
   - Focusing
   - Intuition
   - Emotions
-  - Emotional_Regulation
+  - "Emotional Regulation"
   - Ambition
-  - Toxic_Productivity
+  - "Toxic Productivity"
 categories:
   - podcast
   - source
