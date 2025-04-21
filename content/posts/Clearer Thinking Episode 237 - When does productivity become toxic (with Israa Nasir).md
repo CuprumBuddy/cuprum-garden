@@ -16,6 +16,16 @@ keywords:
 categories:
   - podcast
   - source
+tags:
+  - Productivity
+  - Self-esteem
+  - Values
+  - Focusing
+  - Intuition
+  - Emotions
+  - "Emotional Regulation"
+  - Ambition
+  - "Toxic Productivity"
 draft: false
 publishDate: 2025-04-20
 expiryDate: 
