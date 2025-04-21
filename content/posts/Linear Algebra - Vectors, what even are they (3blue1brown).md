@@ -6,11 +6,16 @@ description:
 keywords:
   - Math
   - Vectors
-  - Linear_Algebra
+  - "Linear Algebra"
   - Scalars
 categories:
   - video
   - source
+tags:
+  - Math
+  - Vectors
+  - "Linear Algebra"
+  - Scalars
 draft: false
 publishDate: 2025-04-20
 expiryDate: 
