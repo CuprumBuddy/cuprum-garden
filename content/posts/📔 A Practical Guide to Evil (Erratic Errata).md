@@ -41,11 +41,15 @@ layout:
 > 
 > Date: 2015-03-25 (started)
 
+---
+
 **WARNING! Spoilers Alert: Following post contains unmarked spoilers to all of the books in A Practical Guide to Evil. You have been warned.**
 
 I highly recommend you to check out this work before reading further, starting at [https://practicalguidetoevil.wordpress.com/2015/03/25/prologue/](https://practicalguidetoevil.wordpress.com/2015/03/25/prologue/).
 
 The story begins rather slowly, therefore I also recommend to read at least 10 chapters before deciding to drop it.
+
+---
 
 # 2025-03-18 Introduction & Tropes
 
