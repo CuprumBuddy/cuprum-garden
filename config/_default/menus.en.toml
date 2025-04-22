@@ -59,7 +59,7 @@
 
 [[main]]
   name = "Concepts"
-  pageRef = "concept"
+  pageRef = "concepts"
   parent = "Knowledge Base"
 
 [[main]]
