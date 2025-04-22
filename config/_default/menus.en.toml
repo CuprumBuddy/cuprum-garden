@@ -54,7 +54,7 @@
 
 [[main]]
   name = "Tools"
-  pageRef = "tool"
+  pageRef = "tools"
   parent = "Knowledge Base"
 
 [[main]]
