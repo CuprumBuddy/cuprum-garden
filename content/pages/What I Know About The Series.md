@@ -22,4 +22,8 @@ Neither dolls, rubber ducks nor notes talk to me. While I *can* imagine some res
 
 Therefore, the primary goal of WIKA is to make learning from textbooks more enjoyable via enabling me to share the results of my studies and improve them during discussions with my readers. I’m going to compare different textbooks & other sources and their explanation approaches, while trying to create comprehensive, yet multi-faceted notes.
 
+An unexpected side-effect of this approach is that now I’m way more willing to try study techniques that, I thought, required “too much effort”. 
+
+For example, there’s an active recall technique that requires to take an empty piece of paper, write down everything you remember about the topic and then compare your notes with the original source of that knowledge (textbook, lecture, video, etc.) It turned out that I already have very similar workflow when writing my blog posts: I write down everything I want to say and then I check whether I cited the source correctly (and sometimes even discarding the idea of the post in the process because misunderstanding was too huge and the whole argumentation fell apart because of it!).
+
 ## What I Know About: The List
