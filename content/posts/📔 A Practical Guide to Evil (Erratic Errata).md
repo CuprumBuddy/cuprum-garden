@@ -93,18 +93,7 @@ You can also read PGtE in a webtoon adaptation, thought it’s based on an a fre
 While reading the webtoon, I have noticed that if you try to open chapter 2, you’ll be redirected to some other site which doesn’t even open. I believe that it’s a “subtle” way to convince readers to either log in or create an account. Fortunately, there’s [[Webtoons MIM Blocker (botato)|a Firefox plugin]] which allows to bypass that.
 
 To be honest, I prefer the book over the webtoon. While I truly adore the artstyle, the omission of many, oh so many events, thoughts, lore descriptions makes me sad. Reading the webtoon might be easier, but webtoon-only readers are going to miss *soooo* much.
-# 2025-03-30 [[DRAFT Investigative Reading|Investigative reading]]
-My experience with PGtE (among with [[Disco Elysium|Disco Elysium]]) was deeply affected by the way my partner and I read it together.
 
-(Yeah, now in my head Black “canonically” has deep voice and some other unique speech patterns, but this section isn’t about it)
-
-When we began reading together, my partner asked me all sorts of questions: What do you think about this character? Who might have done this and that? With which probability and how soon a certain even will happen, if ever?
-
-This approach somewhat disrupts the reading flow, since from time to time we burst into a lengthy discussion of whatever seemingly minor detail, – but the made the experience so much richer.
-
-The problem is: there are too many small details to keep track of all of them. I believe some kind of (maybe AI-powered) mindmapping software could help with that: what questions were asked, when and which answers were found.
-
-Moreover, I feel like investigative reading a pretty cool reading club concept, because different people would have different points of view, allowing to engage with the story in a much more multi-faceted way.
 # 2025-03-30 Making mistakes
 When we read, I usually read as Catherine, and in the beginning my performance was quite bad: I stumbled on longer sentences, stressed words incorrectly, and my intonations were anything but fitting the situation.
 
