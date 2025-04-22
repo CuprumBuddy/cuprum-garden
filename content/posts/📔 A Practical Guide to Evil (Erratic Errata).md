@@ -33,9 +33,6 @@ layout:
   class="ma0 w-75"
 >}}
 
-
-![[ッpgte webtoon cover.jpg]]
-
 > Title: A Practical Guide to Evil
 > 
 > Author: [ErraticErata](https://www.patreon.com/ErraticErrata/about)
