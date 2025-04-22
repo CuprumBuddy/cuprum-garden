@@ -26,7 +26,7 @@ lastmod: 2025-04-22
 layout:
 ---
 {{< figure
-  src="/img/ッpgte webtoon cover.jpg"
+  src="/img/pgte_webtoon_cover.jpg"
   alt="Background header image of PGtE the webtoon"
   link="https://www.webtoons.com/en/fantasy/a-practical-guide-to-evil/list?title_no=6921"
   caption="Background header image of Practical Guide to Evil (the webtoon)"
@@ -79,7 +79,7 @@ It also should be noted that after the pause I was so interested that I simply c
 Additionally, I grew fond of Catherine and started rooting for her. Smart, agentic, strong, sharp tongued orphan girl who fights for a greater essentially Good cause using the resources and knowledge of Evil. Neat! While I don't think "Oh, this is so me", I see a few similarities between us, and some of her qualities I'd like to foster in myself as well.
 
 {{< figure
-  src="/img/ッcat do it for her meme.png"
+  src="/img/cat_do_it_for_her_meme.png"
   alt="'Do it for Catherine' meme made by me"
   caption="'Do it for Catherine' meme made by me"
   class="ma0 w-75"
