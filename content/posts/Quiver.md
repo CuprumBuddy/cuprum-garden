@@ -22,6 +22,8 @@ layout:
 ---
 <embed src="https://q.uiver.app/" style="width:100%; height: 50vw;">
 
+**Note:** this embed acts a bit weird. Please proceed to https://q.uiver.app/ to see what it's actually capable of.
+
 > **quiver** is a modern, graphical editor for [commutative](https://en.wikipedia.org/wiki/Commutative_diagram) and [pasting diagrams](https://ncatlab.org/nlab/show/pasting+diagram), capable of rendering high-quality diagrams for screen viewing, and exporting to LaTeX via [tikz-cd](https://github.com/astoff/tikz-cd).
 > 
 > Creating and modifying diagrams with **quiver** is orders of magnitude faster than writing the equivalent LaTeX by hand and, with a little experience, competes with pen-and-paper.
