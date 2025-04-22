@@ -53,6 +53,11 @@
   parent = "Knowledge Base"
 
 [[main]]
+  name = "WIKA"
+  pageRef = "WIKA"
+  parent = "Knowledge Base"
+
+[[main]]
   name = "Tools"
   pageRef = "tools"
   parent = "Knowledge Base"
