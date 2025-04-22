@@ -84,7 +84,7 @@
 
 [[main]]
   name = "Books"
-  pageRef = "book"
+  pageRef = "books"
   parent = "Sources"
 
 [[main]]

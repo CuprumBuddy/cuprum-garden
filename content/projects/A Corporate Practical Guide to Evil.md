@@ -12,7 +12,7 @@ publishDate: 2025-03-31
 
 categories: ideas
 ---
-> [[📔 A Practical Guide to Evil (Erratic Errata)|A Practical Guide to Evil]], but the Dread Empress Malicia is a company CEO, Black is vice president, Catherine is his apprentice (who fights capitalism within itself, I guess? to help smaller entrepreneurs who got annexed by the Big Sth?)
+> [A Practical Guide to Evil](), but the Dread Empress Malicia is a company CEO, Black is vice president, Catherine is his apprentice (who fights capitalism within itself, I guess? to help smaller entrepreneurs who got annexed by the Big Sth?)
 > 
 > And the whole work is a thorough introduction to politics & economics (though it sounds like it's on the verge of parody)
 > 
