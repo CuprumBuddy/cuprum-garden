@@ -30,7 +30,7 @@ layout:
 
 ---
 
-> Title: Quiver
+> Title: quiver
 > 
 > Author: [varkor](https://github.com/varkor)
 > 
