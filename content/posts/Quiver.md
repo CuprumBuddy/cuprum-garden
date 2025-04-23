@@ -36,7 +36,7 @@ layout:
 > 
 > URL: https://q.uiver.app/
 > 
-> Date: 2018-12-28 (created); 2025-02-21 (last commit)
+> Date: 2018-12-28 (created); 2025-02-21 (latest commit)
 > 
 > License: [MIT License](https://github.com/varkor/quiver?tab=MIT-1-ov-file)
 
