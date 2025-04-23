@@ -51,7 +51,7 @@
 [[main]]
   name = "Ads"
   pageRef = "ads"
-  parent = "Knowledge Base"
+  parent = "Sources"
 
 [[main]]
   name = "Tutorials"
