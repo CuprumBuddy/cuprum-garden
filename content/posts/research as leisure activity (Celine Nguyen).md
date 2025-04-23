@@ -28,3 +28,7 @@ layout:
 > Date: 2024-05-28
 > 
 > License: ?
+
+---
+
+To be honest, I postponed properly reading this post – so I haven’t actually read it before reposting – but the “my favorite form of entertainment is downloading PDFs” quote is so perfect that I just couldn’t resist.
