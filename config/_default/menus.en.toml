@@ -47,6 +47,12 @@
 [[main]]
   name = "Writing"
   weight = 10
+
+[[main]]
+  name = "Ads"
+  pageRef = "ads"
+  parent = "Knowledge Base"
+
 [[main]]
   name = "Tutorials"
   pageRef = "tutorials"
