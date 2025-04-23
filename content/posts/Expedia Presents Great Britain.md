@@ -71,11 +71,9 @@ However, some materials WERE preserved:
 {{< figure
   src="/img/Pasted_image_20250415063508.png"
   link=""
-  caption="'Our character give their perspective on the cultural nuances of each region.' From the post by Thomas Davis. URL: https://www.unit9.com/project/expedia-visit-britain-place/."
+  caption="'Our characters give their perspective on the cultural nuances of each region.' From the post by Thomas Davis. URL: https://www.unit9.com/project/expedia-visit-britain-place/."
   class="ma0 w-75"
 >}}
-
-![[Pasted_image_20250415063508.png]]
 
 
 ---
