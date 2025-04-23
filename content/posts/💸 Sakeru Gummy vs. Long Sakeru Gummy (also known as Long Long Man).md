@@ -4,18 +4,28 @@ lastmod: 2025-04-23T15:45:35+03:00
 title: 💸 Sakeru Gummy vs. Long Sakeru Gummy (also known as Long Long Man)
 description: 
 keywords:
-  - Chewing Gum
+  - "Chewing Gum"
   - Storytelling
-  - Japanese_Ads
+  - "Japanese Ads"
   - Love
   - Jealously
-  - Love_Triangle
+  - "Love Triangle"
   - Drama
   - Marketing
-  - Creativity_Example
+  - "Creativity Example"
 categories:
   - ads
-tags: 
+  - source
+tags:
+  - "Chewing Gum"
+  - Storytelling
+  - "Japanese Ads"
+  - Love
+  - Jealously
+  - "Love Triangle"
+  - Drama
+  - Marketing
+  - "Creativity Example"
 draft: false
 publishDate: 2025-04-23
 expiryDate: 
