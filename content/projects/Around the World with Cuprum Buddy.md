@@ -1,13 +1,21 @@
 ---
 date: 2025-04-24T12:23:49+03:00
 lastmod: 2025-04-24T12:42:10+03:00
-title: 
+title: "Around the World with Cuprum Buddy"
 description: 
 keywords: 
+- Maps
+- Travel
+- Geography
+- "United States"
 categories:
-  - In Progress
+  - "In Progress"
 tags: 
-draft: true
+- Maps
+- Travel
+- Geography
+- "United States"
+draft: false
 publishDate: 
 expiryDate: 
 layout: 
