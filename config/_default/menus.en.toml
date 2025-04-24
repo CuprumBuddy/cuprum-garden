@@ -105,7 +105,7 @@
 
 [[main]]
   name = "Comic Books"
-  pageRef = "comic_book"
+  pageRef = "comic books"
   parent = "Sources"
 
 [[main]]
