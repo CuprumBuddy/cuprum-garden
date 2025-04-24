@@ -23,7 +23,7 @@ I write it at 16:40, because my partner just has finished 7 hour long Emacs inst
 So, now I have Emacs in its all not-yet-comprehensible glory. Wish me luck.
 
 {{< figure
-  src="/img/ッDOOM_Emacs_-_start_page.png"
+  src="/img/DOOM_Emacs_-_start_page.png"
   caption="DOOM Emacs starting screen screenshot"
   class="ma0 w-75"
 >}}
