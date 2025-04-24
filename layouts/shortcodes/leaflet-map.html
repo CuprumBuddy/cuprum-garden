@@ -1,0 +1,20 @@
+{{ if .IsNamedParams }}
+
+{{ $mapLat := default "" (.Get "mapLat") }}
+{{ $mapLon := default "" (.Get "mapLon") }}
+{{ $zoom := default "13" (.Get "zoom") }}
+{{ $mapWidth := default "100%" (.Get "mapWidth") }}
+{{ $mapHeight := default "400px" (.Get "mapHeight") }}
+{{ $mapMargin := default "0px" (.Get "mapMargin") }}
+{{ $mapId := default (md5 (printf "%s%s" $mapLat $mapLon)) (.Get "mapId") }}
+{{ $scrollWheelZoom := default "true" (.Get "scrollWheelZoom") }}
+{{ $mapDescription := default "" (.Get "mapDescription") }}
+
+<!--Container-->
+<div id='mapid_{{ $mapId }}' class="leaflet-map" style='width: {{ $mapWidth }}; height: {{ $mapHeight}}; margin: {{ $mapMargin }};' mapLat="{{ $mapLat}}" mapLon="{{ $mapLon }}" zoom="{{ $zoom }}" scrollWheelZoom="{{ $scrollWheelZoom }}" mapId="{{ $mapId }}" alt="{{ $mapDescription }}" title = "{{ $mapDescription }}"></div>
+
+{{.Inner}}
+
+{{ else }}
+{{ errorf "Leaflet Hugo Shortcode: please provide named Parameters" }}
+{{ end }}
