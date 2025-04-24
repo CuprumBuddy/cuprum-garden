@@ -79,6 +79,11 @@
   parent = "Knowledge Base"
 
 [[main]]
+  name = "Places"
+  pageRef = "Places"
+  parent = "Knowledge Base"
+
+[[main]]
   name = "Sources"
   pageRef = "source"
   weight = 20
