@@ -1,7 +1,7 @@
 ---
 date: 2025-04-23T15:45:35+03:00
 lastmod: 2025-04-23T15:45:35+03:00
-title: 💸 Sakeru Gummy vs. Long Sakeru Gummy (also known as Long Long Man)
+title: "💸 Sakeru Gummy vs. Long Sakeru Gummy [also known as Long Long Man]"
 description: 
 keywords:
   - "Chewing Gum"
