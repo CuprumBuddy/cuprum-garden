@@ -70,8 +70,8 @@
   parent = "База знаний"
 
 [[main]]
-  name = "Concepts"
-  pageRef = "concepts"
+  name = "Концепты"
+  pageRef = "концепты"
   parent = "База знаний"
 
 [[main]]
