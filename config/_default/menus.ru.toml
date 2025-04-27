@@ -13,6 +13,7 @@
 [[main]]
   name = "О сайте"
   weight = 5
+  pageRef = "о сайте"
 
 [[main]]
   name = "Проекты"
@@ -64,8 +65,8 @@
   parent = "База знаний"
 
 [[main]]
-  name = "Tools"
-  pageRef = "tools"
+  name = "Инструменты"
+  pageRef = "инструменты"
   parent = "База знаний"
 
 [[main]]
