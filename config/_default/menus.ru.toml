@@ -1,0 +1,213 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "О сайте"
+  weight = 5
+
+[[main]]
+  name = "Проекты"
+  weight = 30
+
+[[main]]
+  name = "База знаний"
+  weight = 25
+
+[[main]]
+  name = "Идеи"
+  parent = "Проекты"
+  pageRef = "идеи"
+  weight = 30
+
+[[main]]
+  name = "Завершено"
+  parent = "Проекты"
+  pageRef = "завершённые проекты"
+  weight = 10
+
+[[main]]
+  name = "В процессе"
+  parent = "Проекты"
+  pageRef = "В процессе"
+  weight = 20
+
+[[main]]
+  name = "Моменты"
+  pageRef = "моменты"
+
+[[main]]
+  name = "Исследования"
+  weight = 10
+
+[[main]]
+  name = "Реклама"
+  pageRef = "реклама"
+  parent = "Источники"
+
+[[main]]
+  name = "Инструкции"
+  pageRef = "инструкции"
+  parent = "База знаний"
+
+[[main]]
+  name = "ЧЯЗО"
+  pageRef = "ЧЯЗО"
+  parent = "База знаний"
+
+[[main]]
+  name = "Tools"
+  pageRef = "tools"
+  parent = "База знаний"
+
+[[main]]
+  name = "Concepts"
+  pageRef = "concepts"
+  parent = "База знаний"
+
+[[main]]
+  name = "Утверждения"
+  pageRef = "утверждения"
+  parent = "База знаний"
+
+[[main]]
+  name = "Места"
+  pageRef = "места"
+  parent = "База знаний"
+
+[[main]]
+  name = "Источники"
+  pageRef = "источник"
+  weight = 20
+
+[[main]]
+  name = "Аниме"
+  pageRef = "аниме"
+  parent = "Источники"
+
+[[main]]
+  name = "Блогпосты"
+  pageRef = "блогпост"
+  parent = "Источники"
+
+[[main]]
+  name = "Книги"
+  pageRef = "книги"
+  parent = "Источники"
+
+[[main]]
+  name = "Комиксы"
+  pageRef = "комиксы"
+  parent = "Источники"
+
+[[main]]
+  name = "Коллекции"
+  pageRef = "коллекции"
+  parent = "Источники"
+
+[[main]]
+  name = "Статьи из энциклопедий"
+  pageRef = "статьи из энциклопедий"
+  parent = "Источники"
+
+[[main]]
+  name = "Фанатские работы"
+  pageRef = "фанатские работы"
+  parent = "Источники"
+
+[[main]]
+  name = "Фанфики"
+  pageRef = "фанфики"
+  parent = ["Фанатские работы", "Источники"]
+
+[[main]]
+  name = "Музыка"
+  pageRef = "музыка"
+  parent = "Источники"
+
+[[main]]
+  name = "Онлайн-курсы"
+  pageRef = "онлайн-курсы"
+  parent = "Источники"
+
+[[main]]
+  name = "Подкасты"
+  pageRef = "подкасты"
+  parent = "Источники"
+
+[[main]]
+  name = "Видео"
+  pageRef = "видео"
+  parent = "Источники"
+
+[[main]]
+  name = "Видеоигры"
+  pageRef = "Видеоигры"
+  parent = "Источники"
+
+[[main]]
+  name = "Западная анимация"
+  pageRef = "западная анимация"
+  parent = "Источники"
+
+#[[main]]
+#  name = "Blog"
+#  pageRef = "posts"
+#  weight = 10
+
+#[[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+#[[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
