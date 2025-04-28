@@ -3,9 +3,9 @@ title: 🎮 We Become What We Behold (Nicky Case)
 description: Short Flash game about news influence.
 keywords:
   - News
-  - News_Cycles
-  - Vicious_Cycles
-  - Flash_Games
+  - "News Cycles"
+  - "Vicious Cycles"
+  - "Flash Games"
 categories:
   - source
   - videogame
@@ -37,7 +37,7 @@ layout:
 
 ---
 
-“We Become What We Behold” actually was the first game from Nicky Case on which I ever stumbled upon (though [[The Evolution of Trust (Nicky Case)]] seems to be way more popular among my acquaintances).
+“We Become What We Behold” actually was the first game from Nicky Case on which I ever stumbled upon (though "The Evolution of Trust" seems to be way more popular among my acquaintances).
 
 I really like how fast it turns into violent chaos, how reporting good news stops working, – and if you don’t close the tab during the credits, you’ll see that in the end the only survivors are the people who tried to stop the massacre. Extremely powerful example of short storytelling.
 
