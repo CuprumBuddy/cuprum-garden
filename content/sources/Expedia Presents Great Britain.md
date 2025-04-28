@@ -48,23 +48,23 @@ layout:
 
 ---
 
-I was sifting through [[DRAFT Perito|Perito]] archives and stumbled upon the post [[Невероятный интерактивный проект Expedia о Великобритании (Саша Воробьёв)]] | (“An Incredible Interactive Expedia Project about the Great Britain”). 
+I was sifting through Perito archives and stumbled upon the post "Невероятный интерактивный проект Expedia о Великобритании" (“An Incredible Interactive Expedia Project about the Great Britain”). 
 
 The post describes 5 videos, in which residents of London, Highlands, Cornwall, Manchester and Wales describe their regions. The project allowed to switch videos without pausing them, making it possible to seamlessly compare accents, clothes, places…
 
-Sadly, nowadays the project is inaccessible: the direct link redirects to Great Britain hotel booking offers and [the archived version](https://web.archive.org/web/20170324165312/http://www.expedia.com/greatbritain/experience) simply doesn’t load past the first 50%. [[DRAFT Flashpoint|Flashpoint]], sadly, didn’t save this one either (I hope, however, that the mighty archive wizards that maintain Flashpoint can retrieve this one eventually).
+Sadly, nowadays the project is inaccessible: the direct link redirects to Great Britain hotel booking offers and [the archived version](https://web.archive.org/web/20170324165312/http://www.expedia.com/greatbritain/experience) simply doesn’t load past the first 50%. Flashpoint, sadly, didn’t save this one either (I hope, however, that the mighty archive wizards that maintain Flashpoint can retrieve this one eventually).
 
 However, some materials WERE preserved:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/213720163?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Expedia | Great Britain: Digital CaseStudy"></iframe></div>
 
-> *Expedia | Great Britain: Digital CaseStudy*, uploaded by [[DRAFT Cary Ruby|Cary Ruby]] on Vimeo. URL: https://vimeo.com/213720163
+> *Expedia | Great Britain: Digital CaseStudy*, uploaded by Cary Ruby on Vimeo. URL: https://vimeo.com/213720163
 
 ---
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/213475046?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Expedia Great Britain_prores"></iframe></div>
 
-> *Expedia Great Britain_prores*, uploaded by [DRAFT Cary Ruby|Cary Ruby]] on Vimeo. URL: https://vimeo.com/213475046
+> *Expedia Great Britain_prores*, uploaded by Cary Ruby on Vimeo. URL: https://vimeo.com/213475046
 
 ---
 
