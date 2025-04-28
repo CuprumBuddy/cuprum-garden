@@ -65,9 +65,9 @@ As for now, the story follows Catherine Foundling, an orphaned 16-ish years old 
 
 By the way, Good and Evil exist and sometimes grant to those who seem worthy Names – way-more-than-ordinary abilities. Named people should fulfill their Roles, which are extremely similar to character archetypes and their purpose in fiction in general. Incredibly tropey stuff.
 
-(I wonder how reading "[[Morphology of the Folktale]]" by [[Vladimir Propp]] or "[[The Hero with a Thousand Faces]]" by [[Joseph Campbell]] would affect my future interpretations of what's going on).
+(I wonder how reading "Morphology of the Folktale" by Vladimir Propp or "The Hero with a Thousand Faces" by Joseph Campbell would affect my future interpretations of what's going on).
 
-Another interesting thing about "A _Practical_ Guide to Evil" is that it's not very practical, compared to other [[Rational Fiction]] works, though sometimes it provides more obvious lessons similar to those found in "[[Evil Overlord List|Evil Overlord List]]" (basically "Things I'll do if I ever become an Evil Overlord" aimed to avoid numerous mistakes of fictional villains). Also it's not a guide (i.e. an instruction manual): PGtE – at least so far – doesn't lecture the reader.
+Another interesting thing about "A _Practical_ Guide to Evil" is that it's not very practical, compared to other rational fiction works, though sometimes it provides more obvious lessons similar to those found in "Evil Overlord List" (basically "Things I'll do if I ever become an Evil Overlord" aimed to avoid numerous mistakes of fictional villains). Also it's not a guide (i.e. an instruction manual): PGtE – at least so far – doesn't lecture the reader.
 
 # 2025-03-22 Catherine
 
@@ -90,7 +90,7 @@ Additionally, I grew fond of Catherine and started rooting for her. Smart, agent
 # 2025-03-29 Webtoon
 You can also read PGtE in a webtoon adaptation, thought it’s based on an a freshly edited, getting-prepared-to-be-printed version of the book, not the one which is available online for free.
 
-While reading the webtoon, I have noticed that if you try to open chapter 2, you’ll be redirected to some other site which doesn’t even open. I believe that it’s a “subtle” way to convince readers to either log in or create an account. Fortunately, there’s [[Webtoons MIM Blocker (botato)|a Firefox plugin]] which allows to bypass that.
+While reading the webtoon, I have noticed that if you try to open chapter 2, you’ll be redirected to some other site which doesn’t even open. I believe that it’s a “subtle” way to convince readers to either log in or create an account. Fortunately, there’s Webtoons MIM Blocker, a Firefox plugin which allows to bypass that.
 
 To be honest, I prefer the book over the webtoon. While I truly adore the artstyle, the omission of many, oh so many events, thoughts, lore descriptions makes me sad. Reading the webtoon might be easier, but webtoon-only readers are going to miss *soooo* much.
 
