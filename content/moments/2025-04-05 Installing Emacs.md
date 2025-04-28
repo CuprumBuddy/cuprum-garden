@@ -3,11 +3,13 @@ title: "2025-04-05 Installing Emacs"
 description: 
 tags: 
 - Emacs
+- New Software
 aliases: 
 draft: false
 lastmod: 2025-04-05T20:10:54+03:00
 keywords: 
 - Emacs
+- New Software
 categories: 
 - moments
 date: 2025-04-05T16:31:28+03:00
