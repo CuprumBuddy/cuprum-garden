@@ -27,10 +27,10 @@ layout:
 > 
 > License: [MIT](https://github.com/benjaminezequiel/keep-the-rhythm?tab=MIT-1-ov-file)
 
-Thanks to [[DRAFT “obsi hub”|obsi hub]] for [sharing this plugin](https://t.me/obsidian10/186)! [^1]
+Thanks to obsi hub for [sharing this plugin](https://t.me/obsidian10/186)! [^1]
 
 Notes: 
-- If you erase words, your word count will go down, which can severely demotivate editing your work if you are more motivated by the amount of words than the actual quality of writing. Remember the [[Goodhart’s law]] and don’t underestimate the dangers of metrics’ allure.
+- If you erase words, your word count will go down, which can severely demotivate editing your work if you are more motivated by the amount of words than the actual quality of writing. Remember the Goodhart’s law and don’t underestimate the dangers of metrics’ allure.
 - Sadly, it doesn’t count words that were written before installing the plugin.
 - It seems there is no way to see which pages you edited on any given day (except for today).
 
