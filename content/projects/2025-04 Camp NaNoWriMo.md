@@ -20,7 +20,7 @@ keywords:
   - Challenge
   - Blogging
 categories:
-  - finished projects
+  - "finished projects"
 date: 2025-04-09T17:17:32+03:00
 publishDate: 2025-04-30T16:50:17+03:00
 expiryDate: 
