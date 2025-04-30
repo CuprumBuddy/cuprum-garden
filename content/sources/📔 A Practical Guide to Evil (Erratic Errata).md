@@ -9,6 +9,7 @@ tags:
   - Rationality
   - Storytelling
   - "Investigative Reading Material"
+  - Deconstruction
 draft: false
 keywords: 
   - Agency
@@ -18,6 +19,7 @@ keywords:
   - Rationality
   - Storytelling
   - "Investigative Reading Material"
+  - Deconstruction
 categories: 
 - books
 - source
