@@ -48,7 +48,7 @@ layout:
 
 ---
 
-I was sifting through Perito archives and stumbled upon the post "Невероятный интерактивный проект Expedia о Великобритании" (“An Incredible Interactive Expedia Project about the Great Britain”). 
+I was sifting through Perito archives and stumbled upon the post "[Невероятный интерактивный проект Expedia о Великобритании](https://perito.media/posts/expedia-britain)" (“An Incredible Interactive Expedia Project about the Great Britain”). 
 
 The post describes 5 videos, in which residents of London, Highlands, Cornwall, Manchester and Wales describe their regions. The project allowed to switch videos without pausing them, making it possible to seamlessly compare accents, clothes, places…
 
