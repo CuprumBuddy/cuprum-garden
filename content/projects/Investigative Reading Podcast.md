@@ -8,7 +8,6 @@ tags:
 aliases: 
 cover: 
 draft: false
-published: 
 keywords: 
   - "Reading Clubs"
   - "Literary Analysis"
