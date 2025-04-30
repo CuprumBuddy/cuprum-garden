@@ -57,7 +57,7 @@ To give another definition:
 >
 >– [Scalar (physics)](https://en.wikipedia.org/wiki/Scalar_(physics)) (Wikipedia)
 
-I absolutely adore how reading Wikipedia can help to discover unexpected idea connections. I thought “oh, how interesting to define a vector as *scaling thing* in the first sentence and as *just a number* only in a second one”, and then I saw this:
+I absolutely adore how reading Wikipedia can help to discover unexpected connections between ideas. I thought “oh, how interesting to define a vector as *scaling thing* in the first sentence and as *just a number* only in a second one”, and then I saw this:
 
 > The term "scalar" has origin in the [multiplication of vectors by a unitless scalar](https://en.wikipedia.org/wiki/Scalar_multiplication "Scalar multiplication"), which is a _[uniform scaling](https://en.wikipedia.org/wiki/Scaling_\(geometry\) "Scaling (geometry)")_ [transformation](https://en.wikipedia.org/wiki/Geometric_transformation "Geometric transformation").
 > 
