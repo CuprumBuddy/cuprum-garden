@@ -14,10 +14,10 @@ keywords:
   - Hypotheses
 categories:
   - ideas
-date: 2025-03-26
+date: 2025-03-26T17:59:02+03:00
 publishDate: 2025-04-02
 expiryDate: 
-lastmod: 2025-04-22T17:59:02+03:00
+lastmod: 2025-04-22T18:24:38+03:00
 layout: 
 ---
 
