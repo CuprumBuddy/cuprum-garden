@@ -1,6 +1,6 @@
 ---
 created: 2025-04-09T17:17:32+03:00
-title: 2025-04 Camp NaNoWriMo
+title: "2025-04: Camp NaNoWriMo"
 description: 
 tags: 
   - Creative Process
