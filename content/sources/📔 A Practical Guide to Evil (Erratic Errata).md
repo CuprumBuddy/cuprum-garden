@@ -8,6 +8,7 @@ tags:
   - Rational Fiction
   - Rationality
   - Storytelling
+  - "Investigative Reading Material"
 draft: false
 keywords: 
   - Agency
@@ -16,6 +17,7 @@ keywords:
   - "Rational Fiction"
   - Rationality
   - Storytelling
+  - "Investigative Reading Material"
 categories: 
 - books
 - source
