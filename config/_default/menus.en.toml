@@ -31,7 +31,7 @@
 [[main]]
   name = "Finished"
   parent = "Projects"
-  pageRef = "proj_fin"
+  pageRef = "finished projects"
   weight = 10
 
 [[main]]
