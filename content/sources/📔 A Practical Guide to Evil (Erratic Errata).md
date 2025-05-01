@@ -55,7 +55,7 @@ The story begins rather slowly, therefore I also recommend to read at least 10 c
 
 ---
 
-# 2025-03-18 Introduction & Tropes
+## 2025-03-18 Introduction & Tropes
 
 I believe that eventually this note will become one of the most entertaining to reread. I wish I've started writing my thoughts down (and publicly) earlier.
 
@@ -73,7 +73,7 @@ By the way, Good and Evil exist and sometimes grant to those who seem worthy Nam
 
 Another interesting thing about "A _Practical_ Guide to Evil" is that it's not very practical, compared to other rational fiction works, though sometimes it provides more obvious lessons similar to those found in "Evil Overlord List" (basically "Things I'll do if I ever become an Evil Overlord" aimed to avoid numerous mistakes of fictional villains). Also it's not a guide (i.e. an instruction manual): PGtE – at least so far – doesn't lecture the reader.
 
-# 2025-03-22 Catherine
+## 2025-03-22 Catherine
 
 It should be noted that at first I didn't care about PGtE too much. My partner begged me to read it together, and we went through the first 10 chapters or so, but then my migraine showed up once again, with headache overshadowing all my other plans.
 
@@ -91,7 +91,7 @@ Additionally, I grew fond of Catherine and started rooting for her. Smart, agent
 >}}
 
 
-# 2025-03-29 Webtoon
+## 2025-03-29 Webtoon
 You can also read PGtE in a webtoon adaptation, thought it’s based on an a freshly edited, getting-prepared-to-be-printed version of the book, not the one which is available online for free.
 
 While reading the webtoon, I have noticed that if you try to open chapter 2, you’ll be redirected to some other site which doesn’t even open. I believe that it’s a “subtle” way to convince readers to either log in or create an account. Fortunately, there’s Webtoons MIM Blocker, a Firefox plugin which allows to bypass that.

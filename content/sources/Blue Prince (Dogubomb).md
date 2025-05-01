@@ -39,7 +39,7 @@ layout:
 ---
 
 {{< figure
-  src="img/Pasted_image_20250429065142.png"
+  src="/img/Pasted_image_20250429065142.png"
   caption="“Blue Prince” promotional art (?) from Steam"
   class="ma0 w-75"
 >}}
@@ -75,7 +75,7 @@ Pure [Investigative Reading Podcast](https://cuprumbuddy.github.io/cuprum-garden
 That’s it. The player has an unknown number of days to find 46th room, and every day the house resets, allowing the player to build their path anew using blueprints.
 
 {{< figure
-  src="img/Pasted_image_20250429071940.png"
+  src="/img/Pasted_image_20250429071940.png"
   caption="Drafting (i.e. selecting the next room) in “Blue Prince”, screenshot from Steam"
   class="ma0 w-75"
 >}}

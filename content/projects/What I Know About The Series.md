@@ -12,6 +12,8 @@ publishDate: 2025-04-22
 expiryDate: 
 layout:
 ---
+## Introduction
+
 “What I Know About: The Series” (WIKA for short) is a set of post sequences which tackle some subject in textbook-like fashion. It’s different from “Research” category, since it doesn’t revolve about any specific research questions and doesn’t aim to create any new knowledge.
 
 Even during my high school years I have noticed that I don’t like taking notes. I thought the reason was my bad handwriting, but the issue remained the same both when I studied at the university and when I left it. I could spend hours making these notes, and I never re-read them. In some cases I didn’t even read the material before writing it in my notebook or copy-pasting it in Word, Typst, Obsidian…
@@ -27,3 +29,5 @@ An unexpected side-effect of this approach is that now I’m way more willing to
 For example, there’s an active recall technique that requires to take an empty piece of paper, write down everything you remember about the topic and then compare your notes with the original source of that knowledge (textbook, lecture, video, etc.) It turned out that I already have very similar workflow when writing my blog posts: I write down everything I want to say and then I check whether I cited the source correctly (and sometimes even discarding the idea of the post in the process because misunderstanding was too huge and the whole argumentation fell apart because of it!).
 
 ## What I Know About: The List
+
+[empty for now]

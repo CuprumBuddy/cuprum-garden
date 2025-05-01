@@ -26,7 +26,7 @@ publishDate:
 expiryDate: 
 layout:
 ---
-## 2025-04-09
+## 2025-04-09: The first third
 In the middle of March 2025 I got an idea to move my blog from Telegram to an “independent” (at least not hosted on any social media) website.
 
 The 2nd of April, something – sadly, I can’t remember what it was and credit it properly – reminded me about NaNoWriMo, which I held dearly, especially during my high school years. The last time I participated was in ~2018, and I thought it would be a good idea to write a bunch of blog post drafts as a challenge. Given that on March 31st, 2025, there was an announcement that NaNoWriMo shuts down due to lack of sponsors, it might be my very last opportunity to “formally” participate.
@@ -56,7 +56,7 @@ Turns out that I tend to write posts about media that impressed me as short-form
 
 (this is pretty weird, since I know for sure that at least some of my readers work in IT and actually know way more than I do. huh)
 
-## 2025-04-30
+## 2025-04-30: The End
 
 Today is the last day of the challenge, and I’m spent. A few lessons:
 - I was doing rather fine until I switched platforms from Quartz to Hugo and Blowfish, while Hugo and Blowfish weren’t even compatible because of then-recent Hugo updates. For a few days I was literally paralyzed, as I didn’t want to write for Quartz only to have more posts to adapt to Hugo later.
