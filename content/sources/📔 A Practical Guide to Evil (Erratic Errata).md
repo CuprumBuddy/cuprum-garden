@@ -97,14 +97,3 @@ You can also read PGtE in a webtoon adaptation, thought it’s based on an a fre
 While reading the webtoon, I have noticed that if you try to open chapter 2, you’ll be redirected to some other site which doesn’t even open. I believe that it’s a “subtle” way to convince readers to either log in or create an account. Fortunately, there’s Webtoons MIM Blocker, a Firefox plugin which allows to bypass that.
 
 To be honest, I prefer the book over the webtoon. While I truly adore the artstyle, the omission of many, oh so many events, thoughts, lore descriptions makes me sad. Reading the webtoon might be easier, but webtoon-only readers are going to miss *soooo* much.
-
-# 2025-03-30 Making mistakes
-When we read, I usually read as Catherine, and in the beginning my performance was quite bad: I stumbled on longer sentences, stressed words incorrectly, and my intonations were anything but fitting the situation.
-
-It became better over time, and at some point I read the whole sentence without stumbling – though intonation was still out of place. My partner said:
-
-– Do you understand what’s going on in this scene? I don’t think Catherine would say it like that, but okay, I’m not criticizing you…
-
-– I know it was weird, – I answered. – I didn’t mean to read it like that, I just can’t do better for now.
-
-Basically, I *still* was making mistakes, *but* I read good enough for my partner to think that I was doing it on purpose (and I wasn’t). Quite a lesson about judging people’s intentions only by the results of their actions.
