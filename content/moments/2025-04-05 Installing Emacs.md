@@ -4,12 +4,14 @@ description:
 tags: 
 - Emacs
 - New Software
+- Desire for Incomprehensible
 aliases: 
 draft: false
 lastmod: 2025-04-05T20:10:54+03:00
 keywords: 
 - Emacs
 - New Software
+- Desire for Incomprehensible
 categories: 
 - moments
 date: 2025-04-05T16:31:28+03:00

@@ -20,7 +20,19 @@ categories:
   - videogame
   - source
 tags: 
-draft: true
+  - Investigative Reading Material
+  - Puzzle Game
+  - Strategy Game
+  - Architecture
+  - Exploration Game
+  - Resource Management
+  - Creativity Example
+  - Maps
+  - Storytelling
+  - Roguelite
+  - Blueprints
+  - Puns
+draft: false
 publishDate: 
 expiryDate: 
 layout: 
