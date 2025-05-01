@@ -21,7 +21,8 @@ publishDate: 2025-04-20
 expiryDate: 
 layout:
 ---
-<embed src="https://www.3blue1brown.com/lessons/vectors" style="width:100%; height: 50vw;">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNk_zzaMoSs?si=h08p_WrfAeegxvTf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > Title: Vectors, what even are they?
 > 
