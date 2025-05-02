@@ -8,7 +8,7 @@ keywords:
 tags:
   - Research
 categories:
-  - blog_post
+  - "blog post"
   - source
 draft: false
 publishDate: 2025-04-20
