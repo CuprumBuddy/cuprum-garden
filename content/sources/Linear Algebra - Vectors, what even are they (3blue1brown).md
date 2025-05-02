@@ -46,7 +46,7 @@ Anyways, this brings us to the mathematician’s perspective – physics student
 
 > [A] vector can be anything where there's a sensible notion of adding two vectors and multiplying a vector by a number, operations that we'll talk about later in this chapter.
 
-For reference, Yoneda lemma, simply put, states that to describe an object one needs to describe all its relationships with other objects. (Yep, it’s “referencing category theory concepts while studying way more simple subjects” time.)
+For reference, Yoneda lemma, simply put, states that to describe an object one needs to describe all its relationships with other objects. (Yep, it’s “referencing category theory concepts while studying way simpler subjects” time.)
 
 Another explanation that caught my eye was:
 
