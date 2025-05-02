@@ -95,7 +95,7 @@
 
 [[main]]
   name = "Blog Posts"
-  pageRef = "blog_post"
+  pageRef = "blog post"
   parent = "Sources"
 
 [[main]]
