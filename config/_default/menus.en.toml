@@ -74,6 +74,16 @@
   parent = "Knowledge Base"
 
 [[main]]
+  name = "Creatures"
+  pageRef = "creatures"
+  parent = "Knowledge Base"
+
+[[main]]
+  name = "Experiments"
+  pageRef = "experiments"
+  parent = "Knowledge Base"
+
+[[main]]
   name = "Notions"
   pageRef = "notion"
   parent = "Knowledge Base"
