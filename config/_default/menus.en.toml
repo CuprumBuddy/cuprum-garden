@@ -110,7 +110,7 @@
 
 [[main]]
   name = "Collections"
-  pageRef = "collection"
+  pageRef = "collections"
   parent = "Sources"
 
 [[main]]
