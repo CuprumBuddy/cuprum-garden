@@ -3,26 +3,26 @@ title: 📔 A Practical Guide to Evil (Erratic Errata)
 description: 
 tags:
   - Agency
-  - "Ethics and Moral Philosophy"
+  - Deconstruction
+  - Ethics and Moral Philosophy
   - Fantasy
+  - Investigative Reading Material
   - Rational Fiction
   - Rationality
   - Storytelling
-  - "Investigative Reading Material"
-  - Deconstruction
 draft: false
 keywords: 
   - Agency
-  - "Ethics and Moral Philosophy"
+  - Deconstruction
+  - Ethics and Moral Philosophy
   - Fantasy
-  - "Rational Fiction"
+  - Investigative Reading Material
+  - Rational Fiction
   - Rationality
   - Storytelling
-  - "Investigative Reading Material"
-  - Deconstruction
 categories: 
-- books
 - source
+- books
 date: 2025-03-18
 publishDate: 2025-03-29
 expiryDate: 
