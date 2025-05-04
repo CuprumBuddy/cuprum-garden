@@ -4,34 +4,38 @@ lastmod: 2025-05-01T08:49:09+03:00
 title: 🎮 Blue Prince (Dogubomb)
 description: 
 keywords:
-  - Investigative Reading Material
-  - Puzzle Game
-  - Strategy Game
   - Architecture
-  - Exploration Game
-  - Resource Management
-  - Creativity Example
-  - Maps
-  - Storytelling
-  - Roguelite
   - Blueprints
+  - Creativity Example
+  - Exploration Game
+  - Hyperfixation
+  - Investigative Reading Material
+  - Maps
+  - Neurodiversity Metaphors
   - Puns
+  - Puzzle Game
+  - Resource Management
+  - Roguelite
+  - Storytelling
+  - Strategy Game
 categories:
-  - videogame
   - source
+  - videogame
 tags: 
-  - Investigative Reading Material
-  - Puzzle Game
-  - Strategy Game
   - Architecture
-  - Exploration Game
-  - Resource Management
-  - Creativity Example
-  - Maps
-  - Storytelling
-  - Roguelite
   - Blueprints
+  - Creativity Example
+  - Exploration Game
+  - Hyperfixation
+  - Investigative Reading Material
+  - Maps
+  - Neurodiversity Metaphors
   - Puns
+  - Puzzle Game
+  - Resource Management
+  - Roguelite
+  - Storytelling
+  - Strategy Game
 draft: false
 publishDate: 
 expiryDate: 
@@ -39,7 +43,7 @@ layout:
 ---
 
 {{< figure
-  src="/img/Pasted_image_20250429065142.png"
+  src="/img/Pasted_image_20250504204056.png"
   caption="“Blue Prince” promotional art (?) from Steam"
   class="ma0 w-75"
 >}}
