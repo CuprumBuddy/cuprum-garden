@@ -46,7 +46,7 @@ More details that *caught my attention*:
 
 - The game also provides “soothing” experiences like listening to the sound of rain, Lo-Fi girl, which actually just add up with all the other distractions.
 	- Also “meditation” and “meditate twice as fast” combined with “screen time tracker” for “developing healthy habits”. And “fitness instructor” for “staying fit with your screen”.
-- The further you play, the more interactive the game becomes with Duolingo owl asking random question, timed lootboxes, stock market minigame…
+- The further you play, the more interactive the game becomes with Duolingo owl asking random questions, timed lootboxes, stock market minigame…
 
 I got 29/35 achievements, and in the end my screen looked like this – I mean, absolutely terrible.
 
