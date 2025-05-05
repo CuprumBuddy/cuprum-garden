@@ -14,8 +14,8 @@ keywords:
   - Marketing
   - "Creativity Example"
 categories:
-  - ads
   - source
+  - ads
 tags:
   - "Chewing Gum"
   - Storytelling
