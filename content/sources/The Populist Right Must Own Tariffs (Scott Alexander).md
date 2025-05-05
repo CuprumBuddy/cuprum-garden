@@ -11,8 +11,8 @@ keywords:
   - Democrats
   - Populism
 categories:
-  - "blog post"
   - source
+  - "blog post"
 tags: 
   - Politics
   - "United States"
