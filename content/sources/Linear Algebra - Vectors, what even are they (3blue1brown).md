@@ -9,8 +9,8 @@ keywords:
   - "Linear Algebra"
   - Scalars
 categories:
-  - video
   - source
+  - video
 tags:
   - Math
   - Vectors
