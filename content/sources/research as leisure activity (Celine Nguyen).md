@@ -8,8 +8,8 @@ keywords:
 tags:
   - Research
 categories:
-  - "blog post"
   - source
+  - "blog post"
 draft: false
 publishDate: 2025-04-20
 expiryDate: 
