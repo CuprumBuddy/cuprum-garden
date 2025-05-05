@@ -14,8 +14,8 @@ keywords:
   - Ambition
   - "Toxic Productivity"
 categories:
-  - podcast
   - source
+  - podcast
 tags:
   - Productivity
   - Self-esteem
