@@ -74,7 +74,7 @@ But otherwise? I’m tired, yet happy. The challenge was definitely worth it, bu
 Stay tuned! There’s way more to come :)
 
 {{< figure
-  src="Pasted_image_20250501083653.png"
+  src="/img/Pasted_image_20250501083653.png"
   alt="Camp NaNoWriMo (April 2025) results chart"
   caption="Camp NaNoWriMo (April 2025) results chart"
   class="ma0 w-75"
