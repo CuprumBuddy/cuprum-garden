@@ -1,0 +1,1 @@
+https://open.substack.com/pub/aleph0/p/book-recommendations-for-linear-algebra
