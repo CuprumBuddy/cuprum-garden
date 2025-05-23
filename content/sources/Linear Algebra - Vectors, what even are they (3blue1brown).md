@@ -52,7 +52,7 @@ For reference, Yoneda lemma, simply put, states that to describe an object one n
 
 Another explanation that caught my eye was:
 
->Whenever you catch a number like \(2\), \\(\dfrac{1}{3}\\)​, or \(−1.5\) acting like this, scaling some vector [during multiplication and division by number operations, making the resulting vector shorter, longer, or changing its direction to the opposite one], you call it a "scalar". In fact, throughout linear algebra, one of the main things numbers do is scale vectors, so it's common to use the word _scalar_ interchangeably with the word _number_.
+>Whenever you catch a number like \\(2\\), \\(\dfrac{1}{3}\\)​, or \\(−1.5\\) acting like this, scaling some vector [during multiplication and division by number operations, making the resulting vector shorter, longer, or changing its direction to the opposite one], you call it a "scalar". In fact, throughout linear algebra, one of the main things numbers do is scale vectors, so it's common to use the word _scalar_ interchangeably with the word _number_.
 
 To give another definition:
 
