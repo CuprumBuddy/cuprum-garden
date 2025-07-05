@@ -54,6 +54,11 @@
   parent = "Sources"
 
 [[main]]
+  name = "Animation"
+  pageRef = "animation"
+  parent = "Sources"
+
+[[main]]
   name = "Tutorials"
   pageRef = "tutorials"
   parent = "Knowledge Base"
