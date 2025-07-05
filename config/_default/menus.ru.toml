@@ -46,7 +46,7 @@
   pageRef = "моменты"
 
 [[main]]
-  name = "Исследования"
+  name = "Размышления"
   weight = 10
 
 [[main]]
