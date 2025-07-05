@@ -104,11 +104,6 @@
   weight = 20
 
 [[main]]
-  name = "Anime"
-  pageRef = "anime"
-  parent = "Sources"
-
-[[main]]
   name = "Blog Posts"
   pageRef = "blog post"
   parent = "Sources"
@@ -166,11 +161,6 @@
 [[main]]
   name = "Videogames"
   pageRef = "videogame"
-  parent = "Sources"
-
-[[main]]
-  name = "Western Animation"
-  pageRef = "w_cartoons"
   parent = "Sources"
 
 #[[main]]
