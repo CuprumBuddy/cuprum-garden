@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Literary Analysis on cuprum garden</title>
+    <link>http://localhost:1313/tags/literary-analysis/</link>
+    <description>Recent content in Literary Analysis on cuprum garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Cuprum Buddy</copyright>
+    <lastBuildDate>Wed, 26 Mar 2025 17:59:02 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/literary-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Investigative Reading</title>
+      <link>http://localhost:1313/projects/investigative-reading-podcast/</link>
+      <pubDate>Wed, 26 Mar 2025 17:59:02 +0300</pubDate>
+      
+      <guid>http://localhost:1313/projects/investigative-reading-podcast/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

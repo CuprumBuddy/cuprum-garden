@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linear Algebra on cuprum garden</title>
+    <link>http://localhost:1313/tags/linear-algebra/</link>
+    <description>Recent content in Linear Algebra on cuprum garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Cuprum Buddy</copyright>
+    <lastBuildDate>Sun, 20 Apr 2025 13:05:07 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🎥 Linear Algebra: Vectors, what even are they? (3blue1brown)</title>
+      <link>http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</link>
+      <pubDate>Sun, 20 Apr 2025 13:05:07 +0300</pubDate>
+      
+      <guid>http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
