@@ -13,7 +13,7 @@ tags:
   - Math
   - "Category theory"
   - Diagrams
-draft: false
+draft: true
 publishDate: 2025-04-22
 expiryDate: 
 layout:
