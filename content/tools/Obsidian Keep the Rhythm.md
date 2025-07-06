@@ -1,12 +1,15 @@
 ---
-title: "🔧 Keep the Rhythm"
+title: 🔧 Keep the Rhythm〈Benjamin Ezequiel〉
 description: Daily word count visualizing plugin for Obsidian
 keywords: 
 - Data Visualization
 - Obsidian Plugins
+tags:
+- Data Visualization
+- Obsidian Plugins
 categories: tools
 draft: false
-date: 
+date: 2025-04-19T18:14:19+03:00
 publishDate: 
 expiryDate: 
 lastmod: 2025-04-19T18:14:19+03:00
