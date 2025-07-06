@@ -1,7 +1,9 @@
 ---
-title: "[Obsidian] Keep the Rhythm"
+title: "🔧 Keep the Rhythm"
 description: Daily word count visualizing plugin for Obsidian
-keywords: Data_Visualization
+keywords: 
+- Data Visualization
+- Obsidian Plugins
 categories: tools
 draft: false
 date: 

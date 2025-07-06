@@ -1,7 +1,7 @@
 ---
 date: 2025-04-22T10:06:49+03:00
 lastmod: 2025-04-22T10:12:37+03:00
-title: quiver
+title: 🔧 quiver
 description: 
 keywords: 
   - Math

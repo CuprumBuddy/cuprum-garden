@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</loc>
+    <lastmod>2025-07-06T14:18:03+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tools/</loc>
+    <lastmod>2025-07-06T14:18:03+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/sources/</loc>
     <lastmod>2025-07-05T07:15:33+03:00</lastmod>
     <changefreq>daily</changefreq>
@@ -45,12 +57,6 @@
   <url>
     <loc>http://localhost:1313/tools/quiver/</loc>
     <lastmod>2025-04-24T14:06:38+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tools/</loc>
-    <lastmod>2025-04-28T09:44:00+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
