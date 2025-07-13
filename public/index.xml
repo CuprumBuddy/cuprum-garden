@@ -10,6 +10,26 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>🎸 cuprum jukebox</title>
+      <link>http://localhost:1313/projects/cuprum-jukebox/</link>
+      <pubDate>Sat, 12 Jul 2025 10:40:31 +0300</pubDate>
+      
+      <guid>http://localhost:1313/projects/cuprum-jukebox/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🎥 the reality of being neurodivergent〈owiebrainhurts〉</title>
+      <link>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</link>
+      <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
+      
+      <guid>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>🔧 Attachments MD Indexer〈Ian Inkov〉</title>
       <link>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</link>
       <pubDate>Sun, 06 Jul 2025 13:35:30 +0300</pubDate>
@@ -70,7 +90,7 @@
     </item>
     
     <item>
-      <title>🔧 Keep the Rhythm</title>
+      <title>🔧 Keep the Rhythm〈Benjamin Ezequiel〉</title>
       <link>http://localhost:1313/tools/obsidian-keep-the-rhythm/</link>
       <pubDate>Sat, 19 Apr 2025 18:14:19 +0300</pubDate>
       

@@ -41,6 +41,12 @@
   weight = 20
 
 [[main]]
+  name = "Never-ending"
+  parent = "Projects"
+  pageRef = "Never-ending"
+  weight = 40
+
+[[main]]
   name = "Moments"
   pageRef = "moments"
 

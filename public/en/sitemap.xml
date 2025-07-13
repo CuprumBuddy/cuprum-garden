@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</loc>
-    <lastmod>2025-07-06T14:31:16+03:00</lastmod>
+    <loc>http://localhost:1313/projects/cuprum-jukebox/</loc>
+    <lastmod>2025-07-12T10:40:31+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tools/</loc>
-    <lastmod>2025-07-06T14:31:16+03:00</lastmod>
+    <loc>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</loc>
+    <lastmod>2025-07-06T16:19:24+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/sources/</loc>
-    <lastmod>2025-07-05T07:15:33+03:00</lastmod>
+    <lastmod>2025-07-06T16:19:24+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -29,6 +29,18 @@
       hreflang="en"
       href="http://localhost:1313/sources/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</loc>
+    <lastmod>2025-07-06T14:31:16+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tools/</loc>
+    <lastmod>2025-07-06T14:48:19+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/projects/blue-prince-but-its-actually-house-flipper/</loc>
@@ -68,7 +80,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/tools/obsidian-keep-the-rhythm/</loc>
-    <lastmod>2025-07-06T14:31:16+03:00</lastmod>
+    <lastmod>2025-07-06T14:48:19+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
