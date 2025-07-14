@@ -8,8 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>📔 A Practical Guide to Evil (Erratic Errata) &middot; cuprum garden</title>
-  <meta name="title" content="📔 A Practical Guide to Evil (Erratic Errata) &middot; cuprum garden" />
+  <title>📔 A Practical Guide to Evil〈Erratic Errata〉 &middot; cuprum garden</title>
+  <meta name="title" content="📔 A Practical Guide to Evil〈Erratic Errata〉 &middot; cuprum garden" />
   
   
   <meta name="keywords" content="Agency, Deconstruction, Ethics and Moral Philosophy, Fantasy, Investigative Reading Material, Rational Fiction, Rationality, Storytelling, " />
@@ -69,7 +69,7 @@
   
   <meta property="og:url" content="http://localhost:1313/sources/-a-practical-guide-to-evil-erratic-errata/">
   <meta property="og:site_name" content="cuprum garden">
-  <meta property="og:title" content="📔 A Practical Guide to Evil (Erratic Errata)">
+  <meta property="og:title" content="📔 A Practical Guide to Evil〈Erratic Errata〉">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="sources">
@@ -84,7 +84,7 @@
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="📔 A Practical Guide to Evil (Erratic Errata)">
+  <meta name="twitter:title" content="📔 A Practical Guide to Evil〈Erratic Errata〉">
 
   
   <script type="application/ld+json">
@@ -92,8 +92,8 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Sources",
-    "name": "📔 A Practical Guide to Evil (Erratic Errata)",
-    "headline": "📔 A Practical Guide to Evil (Erratic Errata)",
+    "name": "📔 A Practical Guide to Evil〈Erratic Errata〉",
+    "headline": "📔 A Practical Guide to Evil〈Erratic Errata〉",
     
     
     "inLanguage": "en",
@@ -1088,7 +1088,7 @@
     <a
       class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
       href="/sources/-a-practical-guide-to-evil-erratic-errata/"
-      >📔 A Practical Guide to Evil (Erratic Errata)</a
+      >📔 A Practical Guide to Evil〈Erratic Errata〉</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -1097,7 +1097,7 @@
 
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      📔 A Practical Guide to Evil (Erratic Errata)
+      📔 A Practical Guide to Evil〈Erratic Errata〉
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -1417,6 +1417,44 @@
     $(document).ready(onResize);
   })();
 
+
+
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = decodeURIComponent(e.attr('id'));
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+          
+            $(e).removeClass('active');
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+        
+        onScroll();
+      });
+    }
+  })();
 
 
 </script>

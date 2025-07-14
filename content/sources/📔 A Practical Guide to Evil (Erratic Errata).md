@@ -1,5 +1,5 @@
 ---
-title: 📔 A Practical Guide to Evil (Erratic Errata)
+title: 📔 A Practical Guide to Evil〈Erratic Errata〉
 description: 
 tags:
   - Agency

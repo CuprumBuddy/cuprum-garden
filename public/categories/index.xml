@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Source</title>
+      <link>http://localhost:1313/categories/source/</link>
+      <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/source/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Video</title>
       <link>http://localhost:1313/categories/video/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
@@ -65,16 +75,6 @@
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
       <guid>http://localhost:1313/categories/videogame/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Source</title>
-      <link>http://localhost:1313/categories/source/</link>
-      <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
-      
-      <guid>http://localhost:1313/categories/source/</guid>
       <description></description>
       
     </item>

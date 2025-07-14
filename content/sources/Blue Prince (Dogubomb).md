@@ -1,7 +1,7 @@
 ---
 date: 2025-04-29T06:32:57+03:00
 lastmod: 2025-05-01T08:49:09+03:00
-title: 🎮 Blue Prince (Dogubomb)
+title: 🎮 Blue Prince〈Dogubomb〉
 description: 
 keywords:
   - Architecture

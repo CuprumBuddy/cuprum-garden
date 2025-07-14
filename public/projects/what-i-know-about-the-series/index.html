@@ -1337,6 +1337,44 @@
 
 
 
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = decodeURIComponent(e.attr('id'));
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+          
+            $(e).removeClass('active');
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+        
+        onScroll();
+      });
+    }
+  })();
+
+
 </script>
    </div>
       </div>
@@ -1563,7 +1601,7 @@
 
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/">🎥 Linear Algebra: Vectors, what even are they? (3blue1brown)</div>
+          href="/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/">🎥 Linear Algebra: Vectors, what even are they?〈3blue1brown〉</div>
         
 
         <div class="text-sm text-neutral-500 dark:text-neutral-400">

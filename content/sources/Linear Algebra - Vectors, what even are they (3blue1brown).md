@@ -1,7 +1,7 @@
 ---
 date: 2025-04-20T13:05:07+03:00
 lastmod: 2025-04-20T17:43:37+03:00
-title: "🎥 Linear Algebra: Vectors, what even are they? (3blue1brown)"
+title: "🎥 Linear Algebra: Vectors, what even are they?〈3blue1brown〉"
 description: 
 keywords:
   - Math
