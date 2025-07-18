@@ -27,4 +27,4 @@ Other notes:
 
 Press three dots in the right corner, then "View original page" for better (at least fullscreen) experience.
 
-<iframe src="https://cuprumbuddy.notion.site/ebd/2294c45081f280b3b0cce6ace27082e3" width="100%" height="600" frameborder="0" allowfullscreen />
+<iframe src="https://cuprumbuddy.notion.site/ebd/2294c45081f28011b18ad3187b5a8a2a" width="100%" height="600" frameborder="0" allowfullscreen />
