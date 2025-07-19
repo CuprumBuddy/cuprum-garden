@@ -48,6 +48,7 @@
 [[main]]
   name = "Размышления"
   weight = 10
+  pageRef = "Размышления"
 
 [[main]]
   name = "Реклама"
