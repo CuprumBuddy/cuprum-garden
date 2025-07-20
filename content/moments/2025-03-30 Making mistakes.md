@@ -1,12 +1,16 @@
 ---
 date: 2025-03-30
 lastmod: 2025-05-01T08:49:54+03:00
-title: 2025-03-30 Making mistakes
+title: "2025-03-30: Making mistakes"
 description: 
 keywords: 
+- Mistakes
+- Intentions
 categories:
   - moments
 tags: 
+- Mistakes
+- Intentions
 draft: false
 publishDate: 
 expiryDate: 

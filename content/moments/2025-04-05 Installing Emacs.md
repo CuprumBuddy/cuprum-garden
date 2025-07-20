@@ -1,5 +1,5 @@
 ---
-title: "2025-04-05 Installing Emacs"
+title: "2025-04-05: Installing Emacs"
 description: 
 tags: 
 - Emacs

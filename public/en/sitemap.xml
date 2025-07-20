@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/moments/2025-07-19-learning-pixel-art/</loc>
+    <lastmod>2025-07-20T06:56:53+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/moments/</loc>
+    <lastmod>2025-07-20T06:56:53+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/tools/entity-explosion/</loc>
     <lastmod>2025-07-14T14:03:28+03:00</lastmod>
     <changefreq>daily</changefreq>
@@ -16,7 +28,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/cuprum-jukebox/</loc>
-    <lastmod>2025-07-13T07:51:03+03:00</lastmod>
+    <lastmod>2025-07-18T17:28:43+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -122,12 +134,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/moments/2025-04-05-installing-emacs/</loc>
-    <lastmod>2025-05-01T09:07:53+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/moments/</loc>
     <lastmod>2025-05-01T09:07:53+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
