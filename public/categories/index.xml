@@ -100,6 +100,16 @@
     </item>
     
     <item>
+      <title>Musings</title>
+      <link>http://localhost:1313/categories/musings/</link>
+      <pubDate>Tue, 22 Apr 2025 08:57:10 +0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/musings/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Collections</title>
       <link>http://localhost:1313/categories/collections/</link>
       <pubDate>Mon, 14 Apr 2025 10:55:16 +0300</pubDate>
