@@ -53,6 +53,7 @@
 [[main]]
   name = "Musings"
   weight = 10
+  pageRef = "musings"
 
 [[main]]
   name = "Ads"
