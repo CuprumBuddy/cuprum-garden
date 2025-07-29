@@ -61,6 +61,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/about/2025-07-garden-review/</loc>
+    <lastmod>2025-07-14T16:18:25+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-07-14T16:18:25+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/projects/blue-prince-but-its-actually-house-flipper/</loc>
     <lastmod>2025-05-02T09:29:07+03:00</lastmod>
     <changefreq>daily</changefreq>

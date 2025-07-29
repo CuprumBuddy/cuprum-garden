@@ -15,6 +15,12 @@
   weight = 5
 
 [[main]]
+  name = "Garden Review"
+  parent = "About"
+  pageRef = "garden review"
+  weight = 10
+
+[[main]]
   name = "Projects"
   weight = 30
 
