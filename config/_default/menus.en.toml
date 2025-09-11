@@ -10,13 +10,13 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
+[[subnavigation]]
   name = "About"
+  pageRef = "About"
   weight = 5
 
-[[main]]
+[[subnavigation]]
   name = "Garden Review"
-  parent = "About"
   pageRef = "garden review"
   weight = 10
 
@@ -32,8 +32,8 @@
 
 [[main]]
   name = "Projects"
-  weight = 30
-  parent = "Personal"
+  weight = 15
+  pageRef = "Project"
 
 [[main]]
   name = "Moments"
@@ -217,7 +217,7 @@
 #  pageRef = "categories"
 #  weight = 20
 
-[[main]]
+[[subnavigation]]
   name = "Tags"
   pageRef = "tags"
   weight = 30

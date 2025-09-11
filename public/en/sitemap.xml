@@ -4,25 +4,25 @@
 
   <url>
     <loc>http://localhost:1313/moments/2025-07-19-learning-pixel-art/</loc>
-    <lastmod>2025-07-20T06:56:53+03:00</lastmod>
+    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/moments/</loc>
-    <lastmod>2025-07-20T07:16:05+03:00</lastmod>
+    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tools/entity-explosion/</loc>
-    <lastmod>2025-07-14T12:45:43+03:00</lastmod>
+    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tools/</loc>
-    <lastmod>2025-07-14T12:45:43+03:00</lastmod>
+    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -34,13 +34,13 @@
   </url>
   <url>
     <loc>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</loc>
-    <lastmod>2025-07-06T15:42:51+03:00</lastmod>
+    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/sources/</loc>
-    <lastmod>2025-07-14T14:03:28+03:00</lastmod>
+    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -62,13 +62,13 @@
   </url>
   <url>
     <loc>http://localhost:1313/about/2025-07-garden-review/</loc>
-    <lastmod>2025-07-14T16:18:25+03:00</lastmod>
+    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-07-14T16:18:25+03:00</lastmod>
+    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/sources/blue-prince-dogubomb/</loc>
-    <lastmod>2025-05-01T08:49:09+03:00</lastmod>
+    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -168,7 +168,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/moments/2025-04-05-installing-emacs/</loc>
-    <lastmod>2025-04-05T20:10:54+03:00</lastmod>
+    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -3,3 +3,10 @@
 extended = true
 min = "0.87.0"
 max = "0.147.1"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
