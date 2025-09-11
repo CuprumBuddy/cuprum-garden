@@ -26,7 +26,7 @@
       
       <guid>http://localhost:1313/sources/-a-practical-guide-to-evil-erratic-errata/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/-a-practical-guide-to-evil-erratic-errata/pgte_webtoon_cover.jpg" />
     </item>
     
   </channel>
