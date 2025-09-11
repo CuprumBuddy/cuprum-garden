@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on cuprum garden</title>
-    <link>http://localhost:1313/tools/</link>
+    <link>http://localhost:45613/tools/</link>
     <description>Recent content in Tools on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Mon, 14 Jul 2025 12:45:43 +0300</lastBuildDate><atom:link href="http://localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jul 2025 12:45:43 +0300</lastBuildDate><atom:link href="http://localhost:45613/tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🔧 Entity Explosion〈Toby Hudson〉</title>
-      <link>http://localhost:1313/tools/entity-explosion/</link>
+      <link>http://localhost:45613/tools/entity-explosion/</link>
       <pubDate>Mon, 14 Jul 2025 12:45:43 +0300</pubDate>
       
-      <guid>http://localhost:1313/tools/entity-explosion/</guid>
+      <guid>http://localhost:45613/tools/entity-explosion/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tools/entity-explosion/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/tools/entity-explosion/feature.png" />
     </item>
     
     <item>
       <title>🔧 Attachments MD Indexer〈Ian Inkov〉</title>
-      <link>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</link>
+      <link>http://localhost:45613/tools/attachments-md-indexer-ian-inkov/</link>
       <pubDate>Sun, 06 Jul 2025 13:35:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</guid>
+      <guid>http://localhost:45613/tools/attachments-md-indexer-ian-inkov/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🔧 quiver</title>
-      <link>http://localhost:1313/tools/quiver/</link>
+      <link>http://localhost:45613/tools/quiver/</link>
       <pubDate>Tue, 22 Apr 2025 10:06:49 +0300</pubDate>
       
-      <guid>http://localhost:1313/tools/quiver/</guid>
+      <guid>http://localhost:45613/tools/quiver/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🔧 Keep the Rhythm〈Benjamin Ezequiel〉</title>
-      <link>http://localhost:1313/tools/obsidian-keep-the-rhythm/</link>
+      <link>http://localhost:45613/tools/obsidian-keep-the-rhythm/</link>
       <pubDate>Sat, 19 Apr 2025 18:14:19 +0300</pubDate>
       
-      <guid>http://localhost:1313/tools/obsidian-keep-the-rhythm/</guid>
+      <guid>http://localhost:45613/tools/obsidian-keep-the-rhythm/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/tools/obsidian-keep-the-rhythm/feature.png" />
     </item>
     
   </channel>

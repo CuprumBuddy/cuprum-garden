@@ -2,251 +2,251 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cuprum garden</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:45613/</link>
     <description>Recent content on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45613/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2025-07-19: Learning Pixel Art</title>
-      <link>http://localhost:1313/moments/2025-07-19-learning-pixel-art/</link>
+      <link>http://localhost:45613/moments/2025-07-19-learning-pixel-art/</link>
       <pubDate>Sat, 19 Jul 2025 15:52:21 +0300</pubDate>
       
-      <guid>http://localhost:1313/moments/2025-07-19-learning-pixel-art/</guid>
+      <guid>http://localhost:45613/moments/2025-07-19-learning-pixel-art/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/moments/2025-07-19-learning-pixel-art/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/moments/2025-07-19-learning-pixel-art/feature.jpg" />
     </item>
     
     <item>
       <title>🔧 Entity Explosion〈Toby Hudson〉</title>
-      <link>http://localhost:1313/tools/entity-explosion/</link>
+      <link>http://localhost:45613/tools/entity-explosion/</link>
       <pubDate>Mon, 14 Jul 2025 12:45:43 +0300</pubDate>
       
-      <guid>http://localhost:1313/tools/entity-explosion/</guid>
+      <guid>http://localhost:45613/tools/entity-explosion/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tools/entity-explosion/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/tools/entity-explosion/feature.png" />
     </item>
     
     <item>
       <title>🎸 cuprum jukebox</title>
-      <link>http://localhost:1313/projects/cuprum-jukebox/</link>
+      <link>http://localhost:45613/projects/cuprum-jukebox/</link>
       <pubDate>Sat, 12 Jul 2025 10:40:31 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/cuprum-jukebox/</guid>
+      <guid>http://localhost:45613/projects/cuprum-jukebox/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🎥 the reality of being neurodivergent〈owiebrainhurts〉</title>
-      <link>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</link>
+      <link>http://localhost:45613/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</guid>
+      <guid>http://localhost:45613/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/sources/the-reality-of-being-neurodivergent-owiebrainhurts/feature.jpg" />
     </item>
     
     <item>
       <title>🔧 Attachments MD Indexer〈Ian Inkov〉</title>
-      <link>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</link>
+      <link>http://localhost:45613/tools/attachments-md-indexer-ian-inkov/</link>
       <pubDate>Sun, 06 Jul 2025 13:35:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</guid>
+      <guid>http://localhost:45613/tools/attachments-md-indexer-ian-inkov/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2025-07 garden review</title>
-      <link>http://localhost:1313/about/2025-07-garden-review/</link>
+      <link>http://localhost:45613/about/2025-07-garden-review/</link>
       <pubDate>Sat, 05 Jul 2025 09:00:44 +0300</pubDate>
       
-      <guid>http://localhost:1313/about/2025-07-garden-review/</guid>
+      <guid>http://localhost:45613/about/2025-07-garden-review/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blue Prince, but it&#39;s actually House Flipper</title>
-      <link>http://localhost:1313/projects/blue-prince-but-its-actually-house-flipper/</link>
+      <link>http://localhost:45613/projects/blue-prince-but-its-actually-house-flipper/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/blue-prince-but-its-actually-house-flipper/</guid>
+      <guid>http://localhost:45613/projects/blue-prince-but-its-actually-house-flipper/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🎮 Blue Prince〈Dogubomb〉</title>
-      <link>http://localhost:1313/sources/blue-prince-dogubomb/</link>
+      <link>http://localhost:45613/sources/blue-prince-dogubomb/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/blue-prince-dogubomb/</guid>
+      <guid>http://localhost:45613/sources/blue-prince-dogubomb/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/blue-prince-dogubomb/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/sources/blue-prince-dogubomb/feature.png" />
     </item>
     
     <item>
       <title>What I Know About: The Series</title>
-      <link>http://localhost:1313/projects/what-i-know-about-the-series/</link>
+      <link>http://localhost:45613/projects/what-i-know-about-the-series/</link>
       <pubDate>Tue, 22 Apr 2025 18:46:31 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/what-i-know-about-the-series/</guid>
+      <guid>http://localhost:45613/projects/what-i-know-about-the-series/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🔧 quiver</title>
-      <link>http://localhost:1313/tools/quiver/</link>
+      <link>http://localhost:45613/tools/quiver/</link>
       <pubDate>Tue, 22 Apr 2025 10:06:49 +0300</pubDate>
       
-      <guid>http://localhost:1313/tools/quiver/</guid>
+      <guid>http://localhost:45613/tools/quiver/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Need of Response</title>
-      <link>http://localhost:1313/musings/the-need-of-response/</link>
+      <link>http://localhost:45613/musings/the-need-of-response/</link>
       <pubDate>Tue, 22 Apr 2025 08:57:10 +0300</pubDate>
       
-      <guid>http://localhost:1313/musings/the-need-of-response/</guid>
+      <guid>http://localhost:45613/musings/the-need-of-response/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🎥 Linear Algebra: Vectors, what even are they?〈3blue1brown〉</title>
-      <link>http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</link>
+      <link>http://localhost:45613/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</link>
       <pubDate>Sun, 20 Apr 2025 13:05:07 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</guid>
+      <guid>http://localhost:45613/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/feature.jpg" />
     </item>
     
     <item>
       <title>🔧 Keep the Rhythm〈Benjamin Ezequiel〉</title>
-      <link>http://localhost:1313/tools/obsidian-keep-the-rhythm/</link>
+      <link>http://localhost:45613/tools/obsidian-keep-the-rhythm/</link>
       <pubDate>Sat, 19 Apr 2025 18:14:19 +0300</pubDate>
       
-      <guid>http://localhost:1313/tools/obsidian-keep-the-rhythm/</guid>
+      <guid>http://localhost:45613/tools/obsidian-keep-the-rhythm/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/tools/obsidian-keep-the-rhythm/feature.png" />
     </item>
     
     <item>
       <title>🔖 slash pages (Robb Knight)</title>
-      <link>http://localhost:1313/sources/slash-pages-robb-knight/</link>
+      <link>http://localhost:45613/sources/slash-pages-robb-knight/</link>
       <pubDate>Mon, 14 Apr 2025 10:55:16 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/slash-pages-robb-knight/</guid>
+      <guid>http://localhost:45613/sources/slash-pages-robb-knight/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2025-04: Camp NaNoWriMo</title>
-      <link>http://localhost:1313/projects/2025-04-camp-nanowrimo/</link>
+      <link>http://localhost:45613/projects/2025-04-camp-nanowrimo/</link>
       <pubDate>Wed, 09 Apr 2025 17:17:32 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/2025-04-camp-nanowrimo/</guid>
+      <guid>http://localhost:45613/projects/2025-04-camp-nanowrimo/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/2025-04-camp-nanowrimo/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/projects/2025-04-camp-nanowrimo/feature.webp" />
     </item>
     
     <item>
       <title>🎮 We Become What We Behold (Nicky Case)</title>
-      <link>http://localhost:1313/sources/we-become-what-we-behold-nicky-case/</link>
+      <link>http://localhost:45613/sources/we-become-what-we-behold-nicky-case/</link>
       <pubDate>Mon, 07 Apr 2025 19:09:22 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/we-become-what-we-behold-nicky-case/</guid>
+      <guid>http://localhost:45613/sources/we-become-what-we-behold-nicky-case/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🎮 Stimulation Clicker (Neil Agarwal)</title>
-      <link>http://localhost:1313/sources/stimulation-clicker-neil-agarwal/</link>
+      <link>http://localhost:45613/sources/stimulation-clicker-neil-agarwal/</link>
       <pubDate>Mon, 07 Apr 2025 07:23:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/stimulation-clicker-neil-agarwal/</guid>
+      <guid>http://localhost:45613/sources/stimulation-clicker-neil-agarwal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🎮 META (Crystal Shard)</title>
-      <link>http://localhost:1313/sources/meta-crystal-shard/</link>
+      <link>http://localhost:45613/sources/meta-crystal-shard/</link>
       <pubDate>Sun, 06 Apr 2025 06:34:11 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/meta-crystal-shard/</guid>
+      <guid>http://localhost:45613/sources/meta-crystal-shard/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2025-04-05: Installing Emacs</title>
-      <link>http://localhost:1313/moments/2025-04-05-installing-emacs/</link>
+      <link>http://localhost:45613/moments/2025-04-05-installing-emacs/</link>
       <pubDate>Sat, 05 Apr 2025 16:31:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/moments/2025-04-05-installing-emacs/</guid>
+      <guid>http://localhost:45613/moments/2025-04-05-installing-emacs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/moments/2025-04-05-installing-emacs/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/moments/2025-04-05-installing-emacs/feature.png" />
     </item>
     
     <item>
       <title>💸 Expedia Presents Great Britain</title>
-      <link>http://localhost:1313/sources/expedia-presents-great-britain/</link>
+      <link>http://localhost:45613/sources/expedia-presents-great-britain/</link>
       <pubDate>Wed, 02 Apr 2025 18:31:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/expedia-presents-great-britain/</guid>
+      <guid>http://localhost:45613/sources/expedia-presents-great-britain/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2025-03-30: Making mistakes</title>
-      <link>http://localhost:1313/moments/2025-03-30-making-mistakes/</link>
+      <link>http://localhost:45613/moments/2025-03-30-making-mistakes/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moments/2025-03-30-making-mistakes/</guid>
+      <guid>http://localhost:45613/moments/2025-03-30-making-mistakes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Investigative Reading</title>
-      <link>http://localhost:1313/projects/investigative-reading-podcast/</link>
+      <link>http://localhost:45613/projects/investigative-reading-podcast/</link>
       <pubDate>Wed, 26 Mar 2025 17:59:02 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/investigative-reading-podcast/</guid>
+      <guid>http://localhost:45613/projects/investigative-reading-podcast/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>A Corporate Practical Guide to Evil</title>
-      <link>http://localhost:1313/projects/a-corporate-practical-guide-to-evil/</link>
+      <link>http://localhost:45613/projects/a-corporate-practical-guide-to-evil/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/a-corporate-practical-guide-to-evil/</guid>
+      <guid>http://localhost:45613/projects/a-corporate-practical-guide-to-evil/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>📔 A Practical Guide to Evil〈Erratic Errata〉</title>
-      <link>http://localhost:1313/sources/-a-practical-guide-to-evil-erratic-errata/</link>
+      <link>http://localhost:45613/sources/-a-practical-guide-to-evil-erratic-errata/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/sources/-a-practical-guide-to-evil-erratic-errata/</guid>
+      <guid>http://localhost:45613/sources/-a-practical-guide-to-evil-erratic-errata/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/-a-practical-guide-to-evil-erratic-errata/pgte_webtoon_cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/sources/-a-practical-guide-to-evil-erratic-errata/pgte_webtoon_cover.jpg" />
     </item>
     
   </channel>

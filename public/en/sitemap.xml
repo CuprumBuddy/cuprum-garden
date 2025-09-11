@@ -3,223 +3,223 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/moments/2025-07-19-learning-pixel-art/</loc>
+    <loc>http://localhost:45613/moments/2025-07-19-learning-pixel-art/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/moments/</loc>
+    <loc>http://localhost:45613/moments/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tools/entity-explosion/</loc>
+    <loc>http://localhost:45613/tools/entity-explosion/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tools/</loc>
+    <loc>http://localhost:45613/tools/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/cuprum-jukebox/</loc>
+    <loc>http://localhost:45613/projects/cuprum-jukebox/</loc>
     <lastmod>2025-07-18T17:28:43+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</loc>
+    <loc>http://localhost:45613/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/</loc>
-    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
+    <loc>http://localhost:45613/sources/</loc>
+    <lastmod>2025-09-11T17:30:58+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="http://localhost:1313/ru/sources/"
+      href="http://localhost:45613/ru/sources/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/sources/"
+      href="http://localhost:45613/sources/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</loc>
+    <loc>http://localhost:45613/tools/attachments-md-indexer-ian-inkov/</loc>
     <lastmod>2025-07-06T14:31:16+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/2025-07-garden-review/</loc>
+    <loc>http://localhost:45613/about/2025-07-garden-review/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:45613/about/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/blue-prince-but-its-actually-house-flipper/</loc>
+    <loc>http://localhost:45613/projects/blue-prince-but-its-actually-house-flipper/</loc>
     <lastmod>2025-05-02T09:29:07+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/blue-prince-dogubomb/</loc>
+    <loc>http://localhost:45613/sources/blue-prince-dogubomb/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/what-i-know-about-the-series/</loc>
+    <loc>http://localhost:45613/projects/what-i-know-about-the-series/</loc>
     <lastmod>2025-05-01T10:29:21+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/concepts/</loc>
+    <loc>http://localhost:45613/concepts/</loc>
     <lastmod>2025-07-05T07:15:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tools/quiver/</loc>
+    <loc>http://localhost:45613/tools/quiver/</loc>
     <lastmod>2025-07-06T14:31:16+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/musings/</loc>
+    <loc>http://localhost:45613/musings/</loc>
     <lastmod>2025-07-22T09:04:20+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="http://localhost:1313/ru/musings/"
+      href="http://localhost:45613/ru/musings/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/musings/"
+      href="http://localhost:45613/musings/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/musings/the-need-of-response/</loc>
+    <loc>http://localhost:45613/musings/the-need-of-response/</loc>
     <lastmod>2025-07-22T09:04:20+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</loc>
-    <lastmod>2025-04-20T17:43:37+03:00</lastmod>
+    <loc>http://localhost:45613/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</loc>
+    <lastmod>2025-09-11T17:30:58+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tools/obsidian-keep-the-rhythm/</loc>
-    <lastmod>2025-07-06T14:48:19+03:00</lastmod>
+    <loc>http://localhost:45613/tools/obsidian-keep-the-rhythm/</loc>
+    <lastmod>2025-04-19T18:14:19+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/slash-pages-robb-knight/</loc>
+    <loc>http://localhost:45613/sources/slash-pages-robb-knight/</loc>
     <lastmod>2025-05-04T17:45:36+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/2025-04-camp-nanowrimo/</loc>
-    <lastmod>2025-04-30T08:45:11+03:00</lastmod>
+    <loc>http://localhost:45613/projects/2025-04-camp-nanowrimo/</loc>
+    <lastmod>2025-09-11T17:30:58+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/we-become-what-we-behold-nicky-case/</loc>
+    <loc>http://localhost:45613/sources/we-become-what-we-behold-nicky-case/</loc>
     <lastmod>2025-04-28T09:39:37+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/stimulation-clicker-neil-agarwal/</loc>
+    <loc>http://localhost:45613/sources/stimulation-clicker-neil-agarwal/</loc>
     <lastmod>2025-05-04T17:26:35+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/meta-crystal-shard/</loc>
+    <loc>http://localhost:45613/sources/meta-crystal-shard/</loc>
     <lastmod>2025-05-04T17:53:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/moments/2025-04-05-installing-emacs/</loc>
+    <loc>http://localhost:45613/moments/2025-04-05-installing-emacs/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/expedia-presents-great-britain/</loc>
+    <loc>http://localhost:45613/sources/expedia-presents-great-britain/</loc>
     <lastmod>2025-04-30T08:53:36+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/moments/2025-03-30-making-mistakes/</loc>
+    <loc>http://localhost:45613/moments/2025-03-30-making-mistakes/</loc>
     <lastmod>2025-07-20T07:16:05+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/investigative-reading-podcast/</loc>
+    <loc>http://localhost:45613/projects/investigative-reading-podcast/</loc>
     <lastmod>2025-04-30T08:12:39+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/a-corporate-practical-guide-to-evil/</loc>
-    <lastmod>2025-09-11T12:37:25+03:00</lastmod>
+    <loc>http://localhost:45613/projects/a-corporate-practical-guide-to-evil/</loc>
+    <lastmod>2025-09-11T17:30:58+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/-a-practical-guide-to-evil-erratic-errata/</loc>
+    <loc>http://localhost:45613/sources/-a-practical-guide-to-evil-erratic-errata/</loc>
     <lastmod>2025-04-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:45613/</loc>
     <lastmod>2025-04-19T08:29:35+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="http://localhost:1313/ru/"
+      href="http://localhost:45613/ru/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/"
+      href="http://localhost:45613/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:45613/projects/</loc>
     <lastmod>2025-04-19T07:36:54+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

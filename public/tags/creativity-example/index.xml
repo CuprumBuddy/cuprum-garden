@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creativity Example on cuprum garden</title>
-    <link>http://localhost:1313/tags/creativity-example/</link>
+    <link>http://localhost:45613/tags/creativity-example/</link>
     <description>Recent content in Creativity Example on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Tue, 29 Apr 2025 06:32:57 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/creativity-example/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Apr 2025 06:32:57 +0300</lastBuildDate><atom:link href="http://localhost:45613/tags/creativity-example/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🎮 Blue Prince〈Dogubomb〉</title>
-      <link>http://localhost:1313/sources/blue-prince-dogubomb/</link>
+      <link>http://localhost:45613/sources/blue-prince-dogubomb/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/blue-prince-dogubomb/</guid>
+      <guid>http://localhost:45613/sources/blue-prince-dogubomb/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/blue-prince-dogubomb/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/sources/blue-prince-dogubomb/feature.png" />
     </item>
     
     <item>
       <title>💸 Expedia Presents Great Britain</title>
-      <link>http://localhost:1313/sources/expedia-presents-great-britain/</link>
+      <link>http://localhost:45613/sources/expedia-presents-great-britain/</link>
       <pubDate>Wed, 02 Apr 2025 18:31:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/expedia-presents-great-britain/</guid>
+      <guid>http://localhost:45613/sources/expedia-presents-great-britain/</guid>
       <description></description>
       
     </item>

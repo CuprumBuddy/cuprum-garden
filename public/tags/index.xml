@@ -2,909 +2,909 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on cuprum garden</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:45613/tags/</link>
     <description>Recent content in Tags on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 19 Jul 2025 15:52:21 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jul 2025 15:52:21 +0300</lastBuildDate><atom:link href="http://localhost:45613/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Digital Art</title>
-      <link>http://localhost:1313/tags/digital-art/</link>
+      <link>http://localhost:45613/tags/digital-art/</link>
       <pubDate>Sat, 19 Jul 2025 15:52:21 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/digital-art/</guid>
+      <guid>http://localhost:45613/tags/digital-art/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pixel Art</title>
-      <link>http://localhost:1313/tags/pixel-art/</link>
+      <link>http://localhost:45613/tags/pixel-art/</link>
       <pubDate>Sat, 19 Jul 2025 15:52:21 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/pixel-art/</guid>
+      <guid>http://localhost:45613/tags/pixel-art/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Browser Extension</title>
-      <link>http://localhost:1313/tags/browser-extension/</link>
+      <link>http://localhost:45613/tags/browser-extension/</link>
       <pubDate>Mon, 14 Jul 2025 12:45:43 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/browser-extension/</guid>
+      <guid>http://localhost:45613/tags/browser-extension/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
+      <link>http://localhost:45613/tags/research/</link>
       <pubDate>Mon, 14 Jul 2025 12:45:43 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/research/</guid>
+      <guid>http://localhost:45613/tags/research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wikidata</title>
-      <link>http://localhost:1313/tags/wikidata/</link>
+      <link>http://localhost:45613/tags/wikidata/</link>
       <pubDate>Mon, 14 Jul 2025 12:45:43 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/wikidata/</guid>
+      <guid>http://localhost:45613/tags/wikidata/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wikipedia</title>
-      <link>http://localhost:1313/tags/wikipedia/</link>
+      <link>http://localhost:45613/tags/wikipedia/</link>
       <pubDate>Mon, 14 Jul 2025 12:45:43 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/wikipedia/</guid>
+      <guid>http://localhost:45613/tags/wikipedia/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
+      <link>http://localhost:45613/tags/music/</link>
       <pubDate>Sat, 12 Jul 2025 10:40:31 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/music/</guid>
+      <guid>http://localhost:45613/tags/music/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Voice Synthesizers</title>
-      <link>http://localhost:1313/tags/voice-synthesizers/</link>
+      <link>http://localhost:45613/tags/voice-synthesizers/</link>
       <pubDate>Sat, 12 Jul 2025 10:40:31 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/voice-synthesizers/</guid>
+      <guid>http://localhost:45613/tags/voice-synthesizers/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ADHD</title>
-      <link>http://localhost:1313/tags/adhd/</link>
+      <link>http://localhost:45613/tags/adhd/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/adhd/</guid>
+      <guid>http://localhost:45613/tags/adhd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Anxiety</title>
-      <link>http://localhost:1313/tags/anxiety/</link>
+      <link>http://localhost:45613/tags/anxiety/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/anxiety/</guid>
+      <guid>http://localhost:45613/tags/anxiety/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AuDHD</title>
-      <link>http://localhost:1313/tags/audhd/</link>
+      <link>http://localhost:45613/tags/audhd/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/audhd/</guid>
+      <guid>http://localhost:45613/tags/audhd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Autism</title>
-      <link>http://localhost:1313/tags/autism/</link>
+      <link>http://localhost:45613/tags/autism/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/autism/</guid>
+      <guid>http://localhost:45613/tags/autism/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Disability</title>
-      <link>http://localhost:1313/tags/disability/</link>
+      <link>http://localhost:45613/tags/disability/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/disability/</guid>
+      <guid>http://localhost:45613/tags/disability/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Meltdowns</title>
-      <link>http://localhost:1313/tags/meltdowns/</link>
+      <link>http://localhost:45613/tags/meltdowns/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/meltdowns/</guid>
+      <guid>http://localhost:45613/tags/meltdowns/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Neurodivergent Experiences</title>
-      <link>http://localhost:1313/tags/neurodivergent-experiences/</link>
+      <link>http://localhost:45613/tags/neurodivergent-experiences/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/neurodivergent-experiences/</guid>
+      <guid>http://localhost:45613/tags/neurodivergent-experiences/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Neurodivergent Strengths</title>
-      <link>http://localhost:1313/tags/neurodivergent-strengths/</link>
+      <link>http://localhost:45613/tags/neurodivergent-strengths/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/neurodivergent-strengths/</guid>
+      <guid>http://localhost:45613/tags/neurodivergent-strengths/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Social Model of Disability</title>
-      <link>http://localhost:1313/tags/social-model-of-disability/</link>
+      <link>http://localhost:45613/tags/social-model-of-disability/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/social-model-of-disability/</guid>
+      <guid>http://localhost:45613/tags/social-model-of-disability/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <link>http://localhost:45613/tags/artificial-intelligence/</link>
       <pubDate>Sun, 06 Jul 2025 13:35:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
+      <guid>http://localhost:45613/tags/artificial-intelligence/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Large Language Models</title>
-      <link>http://localhost:1313/tags/large-language-models/</link>
+      <link>http://localhost:45613/tags/large-language-models/</link>
       <pubDate>Sun, 06 Jul 2025 13:35:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/large-language-models/</guid>
+      <guid>http://localhost:45613/tags/large-language-models/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Obsidian Plugins</title>
-      <link>http://localhost:1313/tags/obsidian-plugins/</link>
+      <link>http://localhost:45613/tags/obsidian-plugins/</link>
       <pubDate>Sun, 06 Jul 2025 13:35:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/obsidian-plugins/</guid>
+      <guid>http://localhost:45613/tags/obsidian-plugins/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Quality of Life</title>
-      <link>http://localhost:1313/tags/quality-of-life/</link>
+      <link>http://localhost:45613/tags/quality-of-life/</link>
       <pubDate>Sun, 06 Jul 2025 13:35:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/quality-of-life/</guid>
+      <guid>http://localhost:45613/tags/quality-of-life/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Architecture</title>
-      <link>http://localhost:1313/tags/architecture/</link>
+      <link>http://localhost:45613/tags/architecture/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/architecture/</guid>
+      <guid>http://localhost:45613/tags/architecture/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blueprints</title>
-      <link>http://localhost:1313/tags/blueprints/</link>
+      <link>http://localhost:45613/tags/blueprints/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/blueprints/</guid>
+      <guid>http://localhost:45613/tags/blueprints/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cleaning</title>
-      <link>http://localhost:1313/tags/cleaning/</link>
+      <link>http://localhost:45613/tags/cleaning/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/cleaning/</guid>
+      <guid>http://localhost:45613/tags/cleaning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Exploration Game</title>
-      <link>http://localhost:1313/tags/exploration-game/</link>
+      <link>http://localhost:45613/tags/exploration-game/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/exploration-game/</guid>
+      <guid>http://localhost:45613/tags/exploration-game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Homemaking</title>
-      <link>http://localhost:1313/tags/homemaking/</link>
+      <link>http://localhost:45613/tags/homemaking/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/homemaking/</guid>
+      <guid>http://localhost:45613/tags/homemaking/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mystery</title>
-      <link>http://localhost:1313/tags/mystery/</link>
+      <link>http://localhost:45613/tags/mystery/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/mystery/</guid>
+      <guid>http://localhost:45613/tags/mystery/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Puzzle Game</title>
-      <link>http://localhost:1313/tags/puzzle-game/</link>
+      <link>http://localhost:45613/tags/puzzle-game/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/puzzle-game/</guid>
+      <guid>http://localhost:45613/tags/puzzle-game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Creativity Example</title>
-      <link>http://localhost:1313/tags/creativity-example/</link>
+      <link>http://localhost:45613/tags/creativity-example/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/creativity-example/</guid>
+      <guid>http://localhost:45613/tags/creativity-example/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hyperfixation</title>
-      <link>http://localhost:1313/tags/hyperfixation/</link>
+      <link>http://localhost:45613/tags/hyperfixation/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/hyperfixation/</guid>
+      <guid>http://localhost:45613/tags/hyperfixation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Investigative Reading Material</title>
-      <link>http://localhost:1313/tags/investigative-reading-material/</link>
+      <link>http://localhost:45613/tags/investigative-reading-material/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/investigative-reading-material/</guid>
+      <guid>http://localhost:45613/tags/investigative-reading-material/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Maps</title>
-      <link>http://localhost:1313/tags/maps/</link>
+      <link>http://localhost:45613/tags/maps/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/maps/</guid>
+      <guid>http://localhost:45613/tags/maps/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Neurodiversity Metaphors</title>
-      <link>http://localhost:1313/tags/neurodiversity-metaphors/</link>
+      <link>http://localhost:45613/tags/neurodiversity-metaphors/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/neurodiversity-metaphors/</guid>
+      <guid>http://localhost:45613/tags/neurodiversity-metaphors/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Puns</title>
-      <link>http://localhost:1313/tags/puns/</link>
+      <link>http://localhost:45613/tags/puns/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/puns/</guid>
+      <guid>http://localhost:45613/tags/puns/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Resource Management</title>
-      <link>http://localhost:1313/tags/resource-management/</link>
+      <link>http://localhost:45613/tags/resource-management/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/resource-management/</guid>
+      <guid>http://localhost:45613/tags/resource-management/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Roguelite</title>
-      <link>http://localhost:1313/tags/roguelite/</link>
+      <link>http://localhost:45613/tags/roguelite/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/roguelite/</guid>
+      <guid>http://localhost:45613/tags/roguelite/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Storytelling</title>
-      <link>http://localhost:1313/tags/storytelling/</link>
+      <link>http://localhost:45613/tags/storytelling/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/storytelling/</guid>
+      <guid>http://localhost:45613/tags/storytelling/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Strategy Game</title>
-      <link>http://localhost:1313/tags/strategy-game/</link>
+      <link>http://localhost:45613/tags/strategy-game/</link>
       <pubDate>Tue, 29 Apr 2025 06:32:57 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/strategy-game/</guid>
+      <guid>http://localhost:45613/tags/strategy-game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Category Theory</title>
-      <link>http://localhost:1313/tags/category-theory/</link>
+      <link>http://localhost:45613/tags/category-theory/</link>
       <pubDate>Tue, 22 Apr 2025 10:06:49 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/category-theory/</guid>
+      <guid>http://localhost:45613/tags/category-theory/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Diagrams</title>
-      <link>http://localhost:1313/tags/diagrams/</link>
+      <link>http://localhost:45613/tags/diagrams/</link>
       <pubDate>Tue, 22 Apr 2025 10:06:49 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/diagrams/</guid>
+      <guid>http://localhost:45613/tags/diagrams/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LaTeX</title>
-      <link>http://localhost:1313/tags/latex/</link>
+      <link>http://localhost:45613/tags/latex/</link>
       <pubDate>Tue, 22 Apr 2025 10:06:49 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/latex/</guid>
+      <guid>http://localhost:45613/tags/latex/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
+      <link>http://localhost:45613/tags/math/</link>
       <pubDate>Tue, 22 Apr 2025 10:06:49 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/math/</guid>
+      <guid>http://localhost:45613/tags/math/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ignorance</title>
-      <link>http://localhost:1313/tags/ignorance/</link>
+      <link>http://localhost:45613/tags/ignorance/</link>
       <pubDate>Tue, 22 Apr 2025 08:57:10 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/ignorance/</guid>
+      <guid>http://localhost:45613/tags/ignorance/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Loneliness</title>
-      <link>http://localhost:1313/tags/loneliness/</link>
+      <link>http://localhost:45613/tags/loneliness/</link>
       <pubDate>Tue, 22 Apr 2025 08:57:10 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/loneliness/</guid>
+      <guid>http://localhost:45613/tags/loneliness/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Social Interacions</title>
-      <link>http://localhost:1313/tags/social-interacions/</link>
+      <link>http://localhost:45613/tags/social-interacions/</link>
       <pubDate>Tue, 22 Apr 2025 08:57:10 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/social-interacions/</guid>
+      <guid>http://localhost:45613/tags/social-interacions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linear Algebra</title>
-      <link>http://localhost:1313/tags/linear-algebra/</link>
+      <link>http://localhost:45613/tags/linear-algebra/</link>
       <pubDate>Sun, 20 Apr 2025 13:05:07 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/linear-algebra/</guid>
+      <guid>http://localhost:45613/tags/linear-algebra/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Scalars</title>
-      <link>http://localhost:1313/tags/scalars/</link>
+      <link>http://localhost:45613/tags/scalars/</link>
       <pubDate>Sun, 20 Apr 2025 13:05:07 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/scalars/</guid>
+      <guid>http://localhost:45613/tags/scalars/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vectors</title>
-      <link>http://localhost:1313/tags/vectors/</link>
+      <link>http://localhost:45613/tags/vectors/</link>
       <pubDate>Sun, 20 Apr 2025 13:05:07 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/vectors/</guid>
+      <guid>http://localhost:45613/tags/vectors/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data Visualization</title>
-      <link>http://localhost:1313/tags/data-visualization/</link>
+      <link>http://localhost:45613/tags/data-visualization/</link>
       <pubDate>Sat, 19 Apr 2025 18:14:19 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/data-visualization/</guid>
+      <guid>http://localhost:45613/tags/data-visualization/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blogging</title>
-      <link>http://localhost:1313/tags/blogging/</link>
+      <link>http://localhost:45613/tags/blogging/</link>
       <pubDate>Mon, 14 Apr 2025 10:55:16 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/blogging/</guid>
+      <guid>http://localhost:45613/tags/blogging/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Inspiration Source</title>
-      <link>http://localhost:1313/tags/inspiration-source/</link>
+      <link>http://localhost:45613/tags/inspiration-source/</link>
       <pubDate>Mon, 14 Apr 2025 10:55:16 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/inspiration-source/</guid>
+      <guid>http://localhost:45613/tags/inspiration-source/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Internet</title>
-      <link>http://localhost:1313/tags/internet/</link>
+      <link>http://localhost:45613/tags/internet/</link>
       <pubDate>Mon, 14 Apr 2025 10:55:16 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/internet/</guid>
+      <guid>http://localhost:45613/tags/internet/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>List of Links</title>
-      <link>http://localhost:1313/tags/list-of-links/</link>
+      <link>http://localhost:45613/tags/list-of-links/</link>
       <pubDate>Mon, 14 Apr 2025 10:55:16 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/list-of-links/</guid>
+      <guid>http://localhost:45613/tags/list-of-links/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Writing Prompts</title>
-      <link>http://localhost:1313/tags/writing-prompts/</link>
+      <link>http://localhost:45613/tags/writing-prompts/</link>
       <pubDate>Mon, 14 Apr 2025 10:55:16 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/writing-prompts/</guid>
+      <guid>http://localhost:45613/tags/writing-prompts/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Challenge</title>
-      <link>http://localhost:1313/tags/challenge/</link>
+      <link>http://localhost:45613/tags/challenge/</link>
       <pubDate>Wed, 09 Apr 2025 17:17:32 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/challenge/</guid>
+      <guid>http://localhost:45613/tags/challenge/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Creative Process</title>
-      <link>http://localhost:1313/tags/creative-process/</link>
+      <link>http://localhost:45613/tags/creative-process/</link>
       <pubDate>Wed, 09 Apr 2025 17:17:32 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/creative-process/</guid>
+      <guid>http://localhost:45613/tags/creative-process/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NaNoWriMo</title>
-      <link>http://localhost:1313/tags/nanowrimo/</link>
+      <link>http://localhost:45613/tags/nanowrimo/</link>
       <pubDate>Wed, 09 Apr 2025 17:17:32 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/nanowrimo/</guid>
+      <guid>http://localhost:45613/tags/nanowrimo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Writing Challenge</title>
-      <link>http://localhost:1313/tags/writing-challenge/</link>
+      <link>http://localhost:45613/tags/writing-challenge/</link>
       <pubDate>Wed, 09 Apr 2025 17:17:32 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/writing-challenge/</guid>
+      <guid>http://localhost:45613/tags/writing-challenge/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Flash Games</title>
-      <link>http://localhost:1313/tags/flash-games/</link>
+      <link>http://localhost:45613/tags/flash-games/</link>
       <pubDate>Mon, 07 Apr 2025 19:09:22 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/flash-games/</guid>
+      <guid>http://localhost:45613/tags/flash-games/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>News</title>
-      <link>http://localhost:1313/tags/news/</link>
+      <link>http://localhost:45613/tags/news/</link>
       <pubDate>Mon, 07 Apr 2025 19:09:22 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/news/</guid>
+      <guid>http://localhost:45613/tags/news/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>News Cycles</title>
-      <link>http://localhost:1313/tags/news-cycles/</link>
+      <link>http://localhost:45613/tags/news-cycles/</link>
       <pubDate>Mon, 07 Apr 2025 19:09:22 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/news-cycles/</guid>
+      <guid>http://localhost:45613/tags/news-cycles/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vicious Cycles</title>
-      <link>http://localhost:1313/tags/vicious-cycles/</link>
+      <link>http://localhost:45613/tags/vicious-cycles/</link>
       <pubDate>Mon, 07 Apr 2025 19:09:22 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/vicious-cycles/</guid>
+      <guid>http://localhost:45613/tags/vicious-cycles/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Attention Span</title>
-      <link>http://localhost:1313/tags/attention-span/</link>
+      <link>http://localhost:45613/tags/attention-span/</link>
       <pubDate>Mon, 07 Apr 2025 07:23:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/attention-span/</guid>
+      <guid>http://localhost:45613/tags/attention-span/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Clicker Game</title>
-      <link>http://localhost:1313/tags/clicker-game/</link>
+      <link>http://localhost:45613/tags/clicker-game/</link>
       <pubDate>Mon, 07 Apr 2025 07:23:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/clicker-game/</guid>
+      <guid>http://localhost:45613/tags/clicker-game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Overwhelm</title>
-      <link>http://localhost:1313/tags/overwhelm/</link>
+      <link>http://localhost:45613/tags/overwhelm/</link>
       <pubDate>Mon, 07 Apr 2025 07:23:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/overwhelm/</guid>
+      <guid>http://localhost:45613/tags/overwhelm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Stimulation</title>
-      <link>http://localhost:1313/tags/stimulation/</link>
+      <link>http://localhost:45613/tags/stimulation/</link>
       <pubDate>Mon, 07 Apr 2025 07:23:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/stimulation/</guid>
+      <guid>http://localhost:45613/tags/stimulation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bug Fixing</title>
-      <link>http://localhost:1313/tags/bug-fixing/</link>
+      <link>http://localhost:45613/tags/bug-fixing/</link>
       <pubDate>Sun, 06 Apr 2025 06:34:11 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/bug-fixing/</guid>
+      <guid>http://localhost:45613/tags/bug-fixing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Game Development</title>
-      <link>http://localhost:1313/tags/game-development/</link>
+      <link>http://localhost:45613/tags/game-development/</link>
       <pubDate>Sun, 06 Apr 2025 06:34:11 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/game-development/</guid>
+      <guid>http://localhost:45613/tags/game-development/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Intentionally Infuriating</title>
-      <link>http://localhost:1313/tags/intentionally-infuriating/</link>
+      <link>http://localhost:45613/tags/intentionally-infuriating/</link>
       <pubDate>Sun, 06 Apr 2025 06:34:11 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/intentionally-infuriating/</guid>
+      <guid>http://localhost:45613/tags/intentionally-infuriating/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Parody</title>
-      <link>http://localhost:1313/tags/parody/</link>
+      <link>http://localhost:45613/tags/parody/</link>
       <pubDate>Sun, 06 Apr 2025 06:34:11 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/parody/</guid>
+      <guid>http://localhost:45613/tags/parody/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Desire for Incomprehensible</title>
-      <link>http://localhost:1313/tags/desire-for-incomprehensible/</link>
+      <link>http://localhost:45613/tags/desire-for-incomprehensible/</link>
       <pubDate>Sat, 05 Apr 2025 16:31:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/desire-for-incomprehensible/</guid>
+      <guid>http://localhost:45613/tags/desire-for-incomprehensible/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Emacs</title>
-      <link>http://localhost:1313/tags/emacs/</link>
+      <link>http://localhost:45613/tags/emacs/</link>
       <pubDate>Sat, 05 Apr 2025 16:31:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/emacs/</guid>
+      <guid>http://localhost:45613/tags/emacs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>New Software</title>
-      <link>http://localhost:1313/tags/new-software/</link>
+      <link>http://localhost:45613/tags/new-software/</link>
       <pubDate>Sat, 05 Apr 2025 16:31:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/new-software/</guid>
+      <guid>http://localhost:45613/tags/new-software/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Great Britain</title>
-      <link>http://localhost:1313/tags/great-britain/</link>
+      <link>http://localhost:45613/tags/great-britain/</link>
       <pubDate>Wed, 02 Apr 2025 18:31:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/great-britain/</guid>
+      <guid>http://localhost:45613/tags/great-britain/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lost Media</title>
-      <link>http://localhost:1313/tags/lost-media/</link>
+      <link>http://localhost:45613/tags/lost-media/</link>
       <pubDate>Wed, 02 Apr 2025 18:31:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/lost-media/</guid>
+      <guid>http://localhost:45613/tags/lost-media/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Marketing</title>
-      <link>http://localhost:1313/tags/marketing/</link>
+      <link>http://localhost:45613/tags/marketing/</link>
       <pubDate>Wed, 02 Apr 2025 18:31:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/marketing/</guid>
+      <guid>http://localhost:45613/tags/marketing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/tags/travel/</link>
+      <link>http://localhost:45613/tags/travel/</link>
       <pubDate>Wed, 02 Apr 2025 18:31:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/travel/</guid>
+      <guid>http://localhost:45613/tags/travel/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Intentions</title>
-      <link>http://localhost:1313/tags/intentions/</link>
+      <link>http://localhost:45613/tags/intentions/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/intentions/</guid>
+      <guid>http://localhost:45613/tags/intentions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mistakes</title>
-      <link>http://localhost:1313/tags/mistakes/</link>
+      <link>http://localhost:45613/tags/mistakes/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mistakes/</guid>
+      <guid>http://localhost:45613/tags/mistakes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hypotheses</title>
-      <link>http://localhost:1313/tags/hypotheses/</link>
+      <link>http://localhost:45613/tags/hypotheses/</link>
       <pubDate>Wed, 26 Mar 2025 17:59:02 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/hypotheses/</guid>
+      <guid>http://localhost:45613/tags/hypotheses/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Literary Analysis</title>
-      <link>http://localhost:1313/tags/literary-analysis/</link>
+      <link>http://localhost:45613/tags/literary-analysis/</link>
       <pubDate>Wed, 26 Mar 2025 17:59:02 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/literary-analysis/</guid>
+      <guid>http://localhost:45613/tags/literary-analysis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Reading Clubs</title>
-      <link>http://localhost:1313/tags/reading-clubs/</link>
+      <link>http://localhost:45613/tags/reading-clubs/</link>
       <pubDate>Wed, 26 Mar 2025 17:59:02 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/reading-clubs/</guid>
+      <guid>http://localhost:45613/tags/reading-clubs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Capitalism</title>
-      <link>http://localhost:1313/tags/capitalism/</link>
+      <link>http://localhost:45613/tags/capitalism/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/capitalism/</guid>
+      <guid>http://localhost:45613/tags/capitalism/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Social Critique</title>
-      <link>http://localhost:1313/tags/social-critique/</link>
+      <link>http://localhost:45613/tags/social-critique/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/social-critique/</guid>
+      <guid>http://localhost:45613/tags/social-critique/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Agency</title>
-      <link>http://localhost:1313/tags/agency/</link>
+      <link>http://localhost:45613/tags/agency/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/agency/</guid>
+      <guid>http://localhost:45613/tags/agency/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Deconstruction</title>
-      <link>http://localhost:1313/tags/deconstruction/</link>
+      <link>http://localhost:45613/tags/deconstruction/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/deconstruction/</guid>
+      <guid>http://localhost:45613/tags/deconstruction/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ethics and Moral Philosophy</title>
-      <link>http://localhost:1313/tags/ethics-and-moral-philosophy/</link>
+      <link>http://localhost:45613/tags/ethics-and-moral-philosophy/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ethics-and-moral-philosophy/</guid>
+      <guid>http://localhost:45613/tags/ethics-and-moral-philosophy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fantasy</title>
-      <link>http://localhost:1313/tags/fantasy/</link>
+      <link>http://localhost:45613/tags/fantasy/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/fantasy/</guid>
+      <guid>http://localhost:45613/tags/fantasy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rational Fiction</title>
-      <link>http://localhost:1313/tags/rational-fiction/</link>
+      <link>http://localhost:45613/tags/rational-fiction/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rational-fiction/</guid>
+      <guid>http://localhost:45613/tags/rational-fiction/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rationality</title>
-      <link>http://localhost:1313/tags/rationality/</link>
+      <link>http://localhost:45613/tags/rationality/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rationality/</guid>
+      <guid>http://localhost:45613/tags/rationality/</guid>
       <description></description>
       
     </item>

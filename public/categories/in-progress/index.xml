@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>In Progress on cuprum garden</title>
-    <link>http://localhost:1313/categories/in-progress/</link>
+    <link>http://localhost:45613/categories/in-progress/</link>
     <description>Recent content in In Progress on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Tue, 22 Apr 2025 18:46:31 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/in-progress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Apr 2025 18:46:31 +0300</lastBuildDate><atom:link href="http://localhost:45613/categories/in-progress/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What I Know About: The Series</title>
-      <link>http://localhost:1313/projects/what-i-know-about-the-series/</link>
+      <link>http://localhost:45613/projects/what-i-know-about-the-series/</link>
       <pubDate>Tue, 22 Apr 2025 18:46:31 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/what-i-know-about-the-series/</guid>
+      <guid>http://localhost:45613/projects/what-i-know-about-the-series/</guid>
       <description></description>
       
     </item>
