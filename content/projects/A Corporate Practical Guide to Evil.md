@@ -2,9 +2,6 @@
 title: "A Corporate Practical Guide to Evil"
 description: 
 
-
-aliases: 
-
 draft: false
 date: 2025-03-26
 lastmod: 2025-09-11T12:34:19+03:00

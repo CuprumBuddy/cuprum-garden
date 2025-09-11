@@ -20,6 +20,8 @@ draft: false
 publishDate: 2025-04-20
 expiryDate: 
 layout:
+series: ["What I Know About Linear Algebra: Sources"]
+series_order: 1
 ---
 
 {{< katex >}}

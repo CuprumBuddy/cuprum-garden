@@ -36,7 +36,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [footer]
   showMenu = true
-  showCopyright = true
+  showCopyright = false
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
@@ -57,9 +57,9 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
-  # showAuthorBottom = false
+  showAuthorBottom = false
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground

@@ -6,7 +6,7 @@
     <description>Recent content in Sources on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Cuprum Buddy</copyright>
+    
     <lastBuildDate>Sun, 06 Jul 2025 15:42:51 +0300</lastBuildDate><atom:link href="http://localhost:1313/sources/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -36,7 +36,7 @@
       
       <guid>http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/feature.jpg" />
     </item>
     
     <item>

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Cuprum Buddy</copyright>
+    
     <lastBuildDate>Sat, 19 Jul 2025 15:52:21 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -825,6 +825,26 @@
       <pubDate>Wed, 26 Mar 2025 17:59:02 +0300</pubDate>
       
       <guid>http://localhost:1313/tags/reading-clubs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Capitalism</title>
+      <link>http://localhost:1313/tags/capitalism/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/capitalism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Social Critique</title>
+      <link>http://localhost:1313/tags/social-critique/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/social-critique/</guid>
       <description></description>
       
     </item>
