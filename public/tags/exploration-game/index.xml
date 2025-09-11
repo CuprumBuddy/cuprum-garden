@@ -26,7 +26,7 @@
       
       <guid>http://localhost:1313/sources/blue-prince-dogubomb/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/blue-prince-dogubomb/feature.png" />
     </item>
     
   </channel>

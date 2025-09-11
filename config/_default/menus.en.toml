@@ -21,8 +21,25 @@
   weight = 10
 
 [[main]]
+  name = "Personal"
+  weight = 10
+
+[[main]]
+  name = "Musings"
+  weight = 10
+  pageRef = "musings"
+  parent = "Personal"
+
+[[main]]
   name = "Projects"
   weight = 30
+  parent = "Personal"
+
+[[main]]
+  name = "Moments"
+  pageRef = "moments"
+  parent = "Personal"
+  weight = 40
 
 [[main]]
   name = "Knowledge Base"
@@ -51,15 +68,6 @@
   parent = "Projects"
   pageRef = "Never-ending"
   weight = 40
-
-[[main]]
-  name = "Moments"
-  pageRef = "moments"
-
-[[main]]
-  name = "Musings"
-  weight = 10
-  pageRef = "musings"
 
 [[main]]
   name = "Ads"
@@ -209,10 +217,10 @@
 #  pageRef = "categories"
 #  weight = 20
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 30
 
 
 # -- Footer Menu --

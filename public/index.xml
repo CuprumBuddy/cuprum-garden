@@ -16,7 +16,7 @@
       
       <guid>http://localhost:1313/moments/2025-07-19-learning-pixel-art/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/moments/2025-07-19-learning-pixel-art/feature.jpg" />
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       
       <guid>http://localhost:1313/tools/entity-explosion/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tools/entity-explosion/feature.png" />
     </item>
     
     <item>
@@ -46,7 +46,7 @@
       
       <guid>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/feature.jpg" />
     </item>
     
     <item>
@@ -86,7 +86,7 @@
       
       <guid>http://localhost:1313/sources/blue-prince-dogubomb/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/blue-prince-dogubomb/feature.png" />
     </item>
     
     <item>
@@ -196,7 +196,7 @@
       
       <guid>http://localhost:1313/moments/2025-04-05-installing-emacs/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/moments/2025-04-05-installing-emacs/feature.png" />
     </item>
     
     <item>
