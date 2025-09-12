@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-09-12T19:58:12+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/categories-explained/</loc>
+    <lastmod>2025-09-12T19:58:12+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/moments/2025-07-19-learning-pixel-art/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
@@ -61,14 +73,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/2025-07-garden-review/</loc>
-    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
+    <loc>http://localhost:1313/garden_reviews/2025-07-garden-review/</loc>
+    <lastmod>2025-07-14T16:18:25+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
+    <loc>http://localhost:1313/garden_reviews/</loc>
+    <lastmod>2025-07-14T16:18:25+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
