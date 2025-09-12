@@ -2,159 +2,169 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on cuprum garden</title>
-    <link>http://localhost:45613/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 19 Jul 2025 15:52:21 +0300</lastBuildDate><atom:link href="http://localhost:45613/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jul 2025 15:52:21 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Moments</title>
-      <link>http://localhost:45613/categories/moments/</link>
+      <link>http://localhost:1313/categories/moments/</link>
       <pubDate>Sat, 19 Jul 2025 15:52:21 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/moments/</guid>
+      <guid>http://localhost:1313/categories/moments/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tools</title>
-      <link>http://localhost:45613/categories/tools/</link>
+      <link>http://localhost:1313/categories/tools/</link>
       <pubDate>Mon, 14 Jul 2025 12:45:43 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/tools/</guid>
+      <guid>http://localhost:1313/categories/tools/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Never-Ending</title>
-      <link>http://localhost:45613/categories/never-ending/</link>
+      <link>http://localhost:1313/categories/never-ending/</link>
       <pubDate>Sat, 12 Jul 2025 10:40:31 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/never-ending/</guid>
+      <guid>http://localhost:1313/categories/never-ending/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Source</title>
-      <link>http://localhost:45613/categories/source/</link>
+      <link>http://localhost:1313/categories/source/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/source/</guid>
+      <guid>http://localhost:1313/categories/source/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Video</title>
-      <link>http://localhost:45613/categories/video/</link>
+      <link>http://localhost:1313/categories/video/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/video/</guid>
+      <guid>http://localhost:1313/categories/video/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Garden Review</title>
-      <link>http://localhost:45613/categories/garden-review/</link>
+      <link>http://localhost:1313/categories/garden-review/</link>
       <pubDate>Sat, 05 Jul 2025 09:00:44 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/garden-review/</guid>
+      <guid>http://localhost:1313/categories/garden-review/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Concepts</title>
+      <link>http://localhost:1313/categories/concepts/</link>
+      <pubDate>Sat, 05 Jul 2025 07:18:21 +0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/concepts/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fanwork</title>
-      <link>http://localhost:45613/categories/fanwork/</link>
+      <link>http://localhost:1313/categories/fanwork/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/fanwork/</guid>
+      <guid>http://localhost:1313/categories/fanwork/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ideas</title>
-      <link>http://localhost:45613/categories/ideas/</link>
+      <link>http://localhost:1313/categories/ideas/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/ideas/</guid>
+      <guid>http://localhost:1313/categories/ideas/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Videogame</title>
-      <link>http://localhost:45613/categories/videogame/</link>
+      <link>http://localhost:1313/categories/videogame/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/videogame/</guid>
+      <guid>http://localhost:1313/categories/videogame/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>In Progress</title>
-      <link>http://localhost:45613/categories/in-progress/</link>
+      <link>http://localhost:1313/categories/in-progress/</link>
       <pubDate>Tue, 22 Apr 2025 18:46:31 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/in-progress/</guid>
+      <guid>http://localhost:1313/categories/in-progress/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Musings</title>
-      <link>http://localhost:45613/categories/musings/</link>
+      <link>http://localhost:1313/categories/musings/</link>
       <pubDate>Tue, 22 Apr 2025 08:57:10 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/musings/</guid>
+      <guid>http://localhost:1313/categories/musings/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Collections</title>
-      <link>http://localhost:45613/categories/collections/</link>
+      <link>http://localhost:1313/categories/collections/</link>
       <pubDate>Mon, 14 Apr 2025 10:55:16 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/collections/</guid>
+      <guid>http://localhost:1313/categories/collections/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Finished Projects</title>
-      <link>http://localhost:45613/categories/finished-projects/</link>
+      <link>http://localhost:1313/categories/finished-projects/</link>
       <pubDate>Wed, 09 Apr 2025 17:17:32 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/finished-projects/</guid>
+      <guid>http://localhost:1313/categories/finished-projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ads</title>
-      <link>http://localhost:45613/categories/ads/</link>
+      <link>http://localhost:1313/categories/ads/</link>
       <pubDate>Wed, 02 Apr 2025 18:31:40 +0300</pubDate>
       
-      <guid>http://localhost:45613/categories/ads/</guid>
+      <guid>http://localhost:1313/categories/ads/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Books</title>
-      <link>http://localhost:45613/categories/books/</link>
+      <link>http://localhost:1313/categories/books/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45613/categories/books/</guid>
+      <guid>http://localhost:1313/categories/books/</guid>
       <description></description>
       
     </item>

@@ -2,29 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autism on cuprum garden</title>
-    <link>http://localhost:45613/tags/autism/</link>
+    <link>http://localhost:1313/tags/autism/</link>
     <description>Recent content in Autism on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sun, 06 Jul 2025 15:42:51 +0300</lastBuildDate><atom:link href="http://localhost:45613/tags/autism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jul 2025 15:42:51 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/autism/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🎥 the reality of being neurodivergent〈owiebrainhurts〉</title>
-      <link>http://localhost:45613/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</link>
+      <link>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:45613/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</guid>
+      <guid>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/sources/the-reality-of-being-neurodivergent-owiebrainhurts/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Incompetence Horror</title>
+      <link>http://localhost:1313/concepts/incompetence-horror/</link>
+      <pubDate>Sat, 05 Jul 2025 07:18:21 +0300</pubDate>
+      
+      <guid>http://localhost:1313/concepts/incompetence-horror/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>The Need of Response</title>
-      <link>http://localhost:45613/musings/the-need-of-response/</link>
+      <link>http://localhost:1313/musings/the-need-of-response/</link>
       <pubDate>Tue, 22 Apr 2025 08:57:10 +0300</pubDate>
       
-      <guid>http://localhost:45613/musings/the-need-of-response/</guid>
+      <guid>http://localhost:1313/musings/the-need-of-response/</guid>
       <description></description>
       
     </item>

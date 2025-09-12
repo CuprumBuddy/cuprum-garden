@@ -2,31 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on cuprum garden</title>
-    <link>http://localhost:45613/tags/math/</link>
+    <link>http://localhost:1313/tags/math/</link>
     <description>Recent content in Math on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Tue, 22 Apr 2025 10:06:49 +0300</lastBuildDate><atom:link href="http://localhost:45613/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Apr 2025 10:26:45 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Commutative diagram</title>
+      <link>http://localhost:1313/concepts/commutative-diagram/</link>
+      <pubDate>Tue, 22 Apr 2025 10:26:45 +0300</pubDate>
+      
+      <guid>http://localhost:1313/concepts/commutative-diagram/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>🔧 quiver</title>
-      <link>http://localhost:45613/tools/quiver/</link>
+      <link>http://localhost:1313/tools/quiver/</link>
       <pubDate>Tue, 22 Apr 2025 10:06:49 +0300</pubDate>
       
-      <guid>http://localhost:45613/tools/quiver/</guid>
+      <guid>http://localhost:1313/tools/quiver/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🎥 Linear Algebra: Vectors, what even are they?〈3blue1brown〉</title>
-      <link>http://localhost:45613/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</link>
+      <link>http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</link>
       <pubDate>Sun, 20 Apr 2025 13:05:07 +0300</pubDate>
       
-      <guid>http://localhost:45613/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</guid>
+      <guid>http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45613/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/linear-algebra---vectors-what-even-are-they-3blue1brown/feature.jpg" />
     </item>
     
   </channel>

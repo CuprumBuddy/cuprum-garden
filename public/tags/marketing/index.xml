@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marketing on cuprum garden</title>
-    <link>http://localhost:45613/tags/marketing/</link>
+    <link>http://localhost:1313/tags/marketing/</link>
     <description>Recent content in Marketing on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Wed, 02 Apr 2025 18:31:40 +0300</lastBuildDate><atom:link href="http://localhost:45613/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2025 18:31:40 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>💸 Expedia Presents Great Britain</title>
-      <link>http://localhost:45613/sources/expedia-presents-great-britain/</link>
+      <link>http://localhost:1313/sources/expedia-presents-great-britain/</link>
       <pubDate>Wed, 02 Apr 2025 18:31:40 +0300</pubDate>
       
-      <guid>http://localhost:45613/sources/expedia-presents-great-britain/</guid>
+      <guid>http://localhost:1313/sources/expedia-presents-great-britain/</guid>
       <description></description>
       
     </item>
