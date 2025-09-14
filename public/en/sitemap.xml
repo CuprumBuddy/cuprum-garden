@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/creatures/</loc>
+    <lastmod>2025-09-14T12:12:31+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/creatures/deinococcus-radiodurans/</loc>
+    <lastmod>2025-09-14T12:12:31+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-09-12T20:04:57+03:00</lastmod>
     <changefreq>daily</changefreq>
@@ -41,6 +53,12 @@
   <url>
     <loc>http://localhost:1313/projects/cuprum-jukebox/</loc>
     <lastmod>2025-07-18T17:28:43+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/we-have-university-at-home/</loc>
+    <lastmod>2025-09-14T07:54:43+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
