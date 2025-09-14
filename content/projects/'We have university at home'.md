@@ -1,6 +1,6 @@
 ---
 date: 2025-07-07T16:55:28+03:00
-lastmod: 2025-09-13T10:38:31+03:00
+lastmod: 2025-09-14T07:54:43+03:00
 title: “We have university at home”
 description:
 keywords:
@@ -46,7 +46,7 @@ In summer of 2025 Europe was struck by an intense heatwave which took lives acro
 
 It certainly didn’t help that my anti-migraine meds make me more vulnerable to high temperatures, forcing me to take a week and a half break. My brain felt like it’s melting, the fatigue and dehydration also felt worse than usual.
 
-And you know what? I needed a break anyway, and the heatwave allowed me to explore my other interests like [[cuprum jukebox|favourite music]] and [[2025-07-19 Learning Pixel Art|pixel art]]. Moreover, I believe that in long-term projects like this one being able to return after a break is more important than to work on the same project every single day.
+And you know what? I needed a break anyway, and the heatwave allowed me to explore my other interests like [music](https://cuprumbuddy.github.io/cuprum-garden/projects/cuprum-jukebox/) and [pixel art](https://cuprumbuddy.github.io/cuprum-garden/moments/2025-07-19-learning-pixel-art/). Moreover, I believe that in long-term projects like this one being able to return after a break is more important than to work on the same project every single day.
 
 (that’s why I dislike daily streaks – they don’t work for me!)
 
