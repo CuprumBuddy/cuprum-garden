@@ -5,10 +5,30 @@ title: “We have university at home”
 description:
 keywords:
   - Studying
-  - Online cources
+  - Online courses
+  - Programming
+  - Learning How to Learn
+  - Self-study
+  - Python (PL)
+  - Math
+  - Biology
+  - Microbiology
+  - Calculus
+  - Pre-Algebra
 categories:
   - In Progress
 tags:
+  - Studying
+  - Online courses
+  - Programming
+  - Learning How to Learn
+  - Self-study
+  - Python (PL)
+  - Math
+  - Biology
+  - Microbiology
+  - Calculus
+  - Pre-Algebra
 draft: false
 publishDate:
 expiryDate:
