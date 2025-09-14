@@ -28,8 +28,6 @@ layout:
   class="ma0 w-75"
 >}}
 
-> Credit: TEM of D. radiodurans acquired in the laboratory of Michael Daly, Uniformed Services University, Bethesda, MD, USA. http://www.usuhs.mil/pat/deinococcus/index_20.htm, Public domain, via Wikimedia Commons
-
 ---
 
 > _**Deinococcus radiodurans**_ is a [bacterium](https://en.wikipedia.org/wiki/Bacterium "Bacterium"), an [extremophile](https://en.wikipedia.org/wiki/Extremophile "Extremophile") and one of the most [radiation-resistant organisms](https://en.wikipedia.org/wiki/Radioresistance "Radioresistance") known. It can survive cold, [dehydration](https://en.wikipedia.org/wiki/Dehydration "Dehydration"), [vacuum](https://en.wikipedia.org/wiki/Vacuum "Vacuum"), and [acid](https://en.wikipedia.org/wiki/Acid "Acid"), and therefore is known as a [polyextremophile](https://en.wikipedia.org/wiki/Extremophile#Classifications "Extremophile"). [_The Guinness Book Of World Records_](https://en.wikipedia.org/wiki/Guinness_World_Records "Guinness World Records") listed it in January 1998 as the world's most radiation-resistant bacterium or lifeform.
