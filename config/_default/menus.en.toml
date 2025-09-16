@@ -183,6 +183,11 @@
   parent = "Sources"
 
 [[main]]
+  name = "Scholarly Articles"
+  pageRef = "scholarly article"
+  parent = "Sources"
+
+[[main]]
   name = "Videos"
   pageRef = "video"
   parent = "Sources"

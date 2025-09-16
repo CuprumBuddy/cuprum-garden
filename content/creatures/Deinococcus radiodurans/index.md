@@ -8,6 +8,7 @@ keywords:
   - Extremophiles
   - Microbiology
   - Species
+  - Radiation
 categories:
   - creatures
 tags:
@@ -15,6 +16,7 @@ tags:
   - Extremophiles
   - Microbiology
   - Species
+  - Radiation
 draft: false
 publishDate:
 expiryDate:
