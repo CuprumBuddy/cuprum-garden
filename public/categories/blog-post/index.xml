@@ -16,7 +16,7 @@
       
       <guid>http://localhost:1313/sources/a-multiculturalism-of-the-undead/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/a-multiculturalism-of-the-undead/feature.png" />
     </item>
     
   </channel>

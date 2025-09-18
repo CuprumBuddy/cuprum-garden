@@ -3,14 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/sources/growth-mindset-and-mathematics/</loc>
-    <lastmod>2025-09-16T13:45:56+03:00</lastmod>
+    <loc>http://localhost:1313/sources/anxious-depressive-attack---an-overlooked-condition/</loc>
+    <lastmod>2025-09-18T10:25:44+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/sources/</loc>
-    <lastmod>2025-09-16T13:45:56+03:00</lastmod>
+    <lastmod>2025-09-18T10:25:44+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -25,14 +25,38 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/sources/a-multiculturalism-of-the-undead/</loc>
+    <lastmod>2025-09-16T18:40:35+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tools/scholia/</loc>
+    <lastmod>2025-09-16T18:40:35+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tools/</loc>
+    <lastmod>2025-09-16T18:40:35+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/sources/growth-mindset-and-mathematics/</loc>
+    <lastmod>2025-09-16T15:00:15+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/creatures/</loc>
-    <lastmod>2025-09-14T12:56:00+03:00</lastmod>
+    <lastmod>2025-09-16T15:00:15+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/creatures/deinococcus-radiodurans/</loc>
-    <lastmod>2025-09-14T12:56:00+03:00</lastmod>
+    <lastmod>2025-09-16T15:00:15+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -63,12 +87,6 @@
   <url>
     <loc>http://localhost:1313/tools/entity-explosion/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tools/</loc>
-    <lastmod>2025-09-11T17:50:58+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

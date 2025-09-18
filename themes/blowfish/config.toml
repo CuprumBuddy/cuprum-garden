@@ -4,6 +4,13 @@ extended = true
 min = "0.87.0"
 max = "0.147.1"
 
+# IndieWeb authorization endpoints
+
+
+[Params.indieweb]
+  authorizationEndpoint = "https://indieauth.com/auth"
+  tokenEndpoint = "https://tokens.indieauth.com/token"
+
 [taxonomies]
   tag = "tags"
   category = "categories"
