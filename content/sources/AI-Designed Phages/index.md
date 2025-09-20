@@ -17,6 +17,15 @@ categories:
   - source
   - blog post
 tags:
+  - Biology
+  - Microbiology
+  - Bacteriophages
+  - E. coli
+  - ΦX174 (bacteriophage)
+  - Artificial Intelligence
+  - AI Creativity
+  - Biosecurity
+  - Bioengineering
 draft: false
 publishDate:
 expiryDate:
