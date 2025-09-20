@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Thu, 18 Sep 2025 10:25:44 +0300</lastBuildDate><atom:link href="http://localhost:1313/sources/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Sep 2025 16:33:41 +0300</lastBuildDate><atom:link href="http://localhost:1313/sources/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Anxious-Depressive Attack: An Overlooked Condition. A Case Report〈Hisanobu Kaiya〉</title>
+      <title>🖋 AI-Designed Phages〈Nico McCarty〉</title>
+      <link>http://localhost:1313/sources/ai-designed-phages/</link>
+      <pubDate>Sat, 20 Sep 2025 16:33:41 +0300</pubDate>
+      
+      <guid>http://localhost:1313/sources/ai-designed-phages/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/ai-designed-phages/feature.png" />
+    </item>
+    
+    <item>
+      <title>📑 Anxious-Depressive Attack: An Overlooked Condition. A Case Report〈Hisanobu Kaiya〉</title>
       <link>http://localhost:1313/sources/anxious-depressive-attack---an-overlooked-condition/</link>
       <pubDate>Thu, 18 Sep 2025 10:25:44 +0300</pubDate>
       
@@ -81,12 +91,12 @@
     
     <item>
       <title>🎮 We Become What We Behold (Nicky Case)</title>
-      <link>http://localhost:1313/sources/we-become-what-we-behold-nicky-case/</link>
+      <link>http://localhost:1313/sources/we-become-what-we-behold/</link>
       <pubDate>Mon, 07 Apr 2025 19:09:22 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/we-become-what-we-behold-nicky-case/</guid>
+      <guid>http://localhost:1313/sources/we-become-what-we-behold/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/we-become-what-we-behold/feature.png" />
     </item>
     
     <item>
@@ -116,7 +126,7 @@
       
       <guid>http://localhost:1313/sources/expedia-presents-great-britain/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/expedia-presents-great-britain/feature.png" />
     </item>
     
     <item>
