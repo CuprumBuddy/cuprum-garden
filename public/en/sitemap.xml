@@ -3,8 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/sources/</loc>
+    <lastmod>2025-09-20T17:53:30+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="http://localhost:1313/ru/sources/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/sources/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/sources/ai-designed-phages/</loc>
-    <lastmod>2025-09-20T16:33:41+03:00</lastmod>
+    <lastmod>2025-09-20T17:53:30+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -206,7 +222,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/sources/we-become-what-we-behold/</loc>
-    <lastmod>2025-04-08T09:19:50+03:00</lastmod>
+    <lastmod>2025-09-20T17:52:04+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -229,20 +245,10 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sources/</loc>
-    <lastmod>2025-04-15T06:57:25+03:00</lastmod>
+    <loc>http://localhost:1313/sources/expedia-presents-great-britain/</loc>
+    <lastmod>2025-09-20T17:52:04+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="http://localhost:1313/ru/sources/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/sources/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/moments/2025-03-30-making-mistakes/</loc>

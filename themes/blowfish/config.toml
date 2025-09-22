@@ -1,8 +1,8 @@
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.87.0"
-max = "0.147.1"
+min = "0.141.0"
+max = "0.150.0"
 
 # IndieWeb authorization endpoints
 

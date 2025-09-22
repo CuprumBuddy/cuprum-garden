@@ -38,3 +38,11 @@ How I see it: each participant is assigned a role depending on whether they read
 The format itself sounds pretty difficult to recreate consistently, therefore:
 - It will be better to start from smaller works;
 - We might need to prioritize quality over quantity and/or consistency of club meetings / podcast episodes. 
+
+---
+
+upd 2025-08-16: for some reason for a while I thought that my partner and I came up with this idea ourselves. However, it's not the case, and I should give credit to [We want MoR & Not Everything Is A Clue](https://hpmorpodcast.com/?page_id=2339) which inspired my partner to try out this format. 
+
+> [We Want MoR] is a podcast in the style of We’ve Got Worm from Doof Media (formerly The Daly Planet). In this show, Steven Zuber plays the role of the seasoned scholar of Harry Potter and the Methods of Rationality who leads first-time reader Brian Deacon through the story.
+
+> [Not Everything Is A Clue] is a podcast in the style of We’ve Got Worm from Doof Media. We analyze Alexander Wales’s novel “Worth the Candle.” In this show, Eneasz Brodski plays the role of the grizzled veteran with all his skill points in Having Read “Worth The Candle”, while Steven Zuber plays the role of newbie trying to figure out how synergy bonuses work.
