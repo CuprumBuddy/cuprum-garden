@@ -3,8 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/musings/dont-read-in-language--just-read/</loc>
+    <lastmod>2025-09-21T11:02:50+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/musings/</loc>
+    <lastmod>2025-09-21T11:02:50+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="http://localhost:1313/ru/musings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/musings/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/sources/</loc>
-    <lastmod>2025-09-20T17:53:30+03:00</lastmod>
+    <lastmod>2025-09-22T16:01:02+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -175,22 +197,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/musings/</loc>
-    <lastmod>2025-07-22T09:04:20+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="http://localhost:1313/ru/musings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/musings/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/musings/the-need-of-response/</loc>
     <lastmod>2025-07-22T09:04:20+03:00</lastmod>
     <changefreq>daily</changefreq>
@@ -258,13 +264,19 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/investigative-reading-podcast/</loc>
-    <lastmod>2025-04-30T08:12:39+03:00</lastmod>
+    <lastmod>2025-09-22T11:50:23+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/projects/a-corporate-practical-guide-to-evil/</loc>
     <lastmod>2025-09-11T17:30:58+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/sources/you-can-just-leave-valerie/</loc>
+    <lastmod>2025-09-22T16:01:02+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
