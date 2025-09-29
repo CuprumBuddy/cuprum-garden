@@ -32,14 +32,6 @@ expiryDate:
 layout:
 ---
 
-{{< figure
-  src="/img/ai_phage.png"
-  caption="Lead image by Ella Watkins-Dulaney."
-  class="ma0 w-75"
->}}
-
----
-
 > Title: AI-Designed Phages
 > 
 > Author: Nico McCarty

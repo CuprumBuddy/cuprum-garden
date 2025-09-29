@@ -36,14 +36,6 @@ expiryDate:
 layout:
 ---
 
-{{< figure
-  src="/img/nicole_kidman.png"
-  caption="“nicole kidman’s divorce photo (the origin of which she debunked! but idc)”"
-  class="ma0 w-75"
->}}
-
----
-
 > Title: you can just leave
 > 
 > Author: [Valerie](https://substack.com/@valerieestrina)

@@ -36,14 +36,6 @@ expiryDate:
 layout:
 ---
 
-{{< figure
-  src="/img/okazaki_no_ba.png"
-  caption="Illustration from _The Fifty-three Stations of the Tokaido Road: Scene at Okazaki_, 1835 via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Gojusan-tsugi_no_uchi_\(Okazaki_no_ba\)_五拾三次之内_\(岡崎の場\)_\(From_the_Fifty-three_Stations_of_the_Tokaido_Road-_Scene_at_Okazaki\)_\(BM_2008,3037.19408_1\).jpg"
-  class="ma0 w-75"
->}}
-
----
-
 > Title: A Multiculturalism of the Undead
 > 
 > Author: [Matthew Wills](https://daily.jstor.org/daily-author/matthew-wills/)
