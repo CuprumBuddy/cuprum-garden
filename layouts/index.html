@@ -32,6 +32,25 @@
     </div>
   </section>
   <section class="mt-10">
+    <div class="space-y-4">
+      {{ range where .Site.RegularPages "Params.categories" "intersect" (slice "Never-ending") }}
+        <article class="border-l-4 border-primary-500 pl-4">
+          <h3 class="text-lg font-semibold">
+            <a href="{{ .RelPermalink }}" class="decoration-primary-500 hover:underline">
+              {{ .Title }}
+            </a>
+          </h3>
+          <p class="text-sm text-neutral-600 dark:text-neutral-400">
+            {{ .Date.Format "January 2, 2006" }}
+          </p>
+          {{ if .Summary }}
+            <p class="mt-2 text-neutral-700 dark:text-neutral-300">{{ .Summary }}</p>
+          {{ end }}
+        </article>
+      {{ end }}
+    </div>
+  </section>
+  <section class="mt-10">
     <h2 class="mb-6 text-xl font-bold text-neutral-800 dark:text-neutral-200">
       Newfound Sources
     </h2>
