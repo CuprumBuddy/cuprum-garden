@@ -43,15 +43,19 @@ layout:
 ## Concepts
 - un-drafted [Commutative diagram](https://cuprumbuddy.github.io/cuprum-garden/concepts/commutative-diagram/) 
 - published [Incompetence Horror](https://cuprumbuddy.github.io/cuprum-garden/concepts/incompetence-horror/)
+
 ## Creatures
 - published [🦠 Deinococcus radiodurans (aka Conan the Bacterium)](https://cuprumbuddy.github.io/cuprum-garden/creatures/deinococcus-radiodurans/)
-- ## Musings
+
+## Musings
 - published [Don't “read in language” – just read](https://cuprumbuddy.github.io/cuprum-garden/musings/dont-read-in-language--just-read/)
+
 ## Projects
 - updated 
 	- [A Corporate Practical Guide to Evil](https://cuprumbuddy.github.io/cuprum-garden/projects/a-corporate-practical-guide-to-evil/)
 	- [Investigative Reading](https://cuprumbuddy.github.io/cuprum-garden/projects/investigative-reading-podcast/)
 - published & updated [“We have university at home”](https://cuprumbuddy.github.io/cuprum-garden/projects/we-have-university-at-home/)
+
 ## Sources
 - published:
 	- [📑 Growth mindset and mathematics: A bibliometric analysis〈Chukwuemeka Metu, José Maria Marbán, Estefanía Espina〉](https://cuprumbuddy.github.io/cuprum-garden/sources/growth-mindset-and-mathematics/)
