@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cuprum garden</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>http://localhost:34157/projects/</link>
     <description>Recent content on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:34157/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🎸 cuprum jukebox</title>
-      <link>http://localhost:1313/projects/cuprum-jukebox/</link>
+      <link>http://localhost:34157/projects/cuprum-jukebox/</link>
       <pubDate>Sat, 12 Jul 2025 10:40:31 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/cuprum-jukebox/</guid>
+      <guid>http://localhost:34157/projects/cuprum-jukebox/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>“We have university at home”</title>
-      <link>http://localhost:1313/projects/we-have-university-at-home/</link>
+      <link>http://localhost:34157/projects/we-have-university-at-home/</link>
       <pubDate>Mon, 07 Jul 2025 16:55:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/we-have-university-at-home/</guid>
+      <guid>http://localhost:34157/projects/we-have-university-at-home/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blue Prince, but it&#39;s actually House Flipper</title>
-      <link>http://localhost:1313/projects/blue-prince-but-its-actually-house-flipper/</link>
+      <link>http://localhost:34157/projects/blue-prince-but-its-actually-house-flipper/</link>
       <pubDate>Fri, 02 May 2025 09:04:40 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/blue-prince-but-its-actually-house-flipper/</guid>
+      <guid>http://localhost:34157/projects/blue-prince-but-its-actually-house-flipper/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>What I Know About: The Series</title>
-      <link>http://localhost:1313/projects/what-i-know-about-the-series/</link>
+      <link>http://localhost:34157/projects/what-i-know-about-the-series/</link>
       <pubDate>Tue, 22 Apr 2025 18:46:31 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/what-i-know-about-the-series/</guid>
+      <guid>http://localhost:34157/projects/what-i-know-about-the-series/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2025-04: Camp NaNoWriMo</title>
-      <link>http://localhost:1313/projects/2025-04-camp-nanowrimo/</link>
+      <link>http://localhost:34157/projects/2025-04-camp-nanowrimo/</link>
       <pubDate>Wed, 09 Apr 2025 17:17:32 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/2025-04-camp-nanowrimo/</guid>
+      <guid>http://localhost:34157/projects/2025-04-camp-nanowrimo/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/2025-04-camp-nanowrimo/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/projects/2025-04-camp-nanowrimo/feature.webp" />
     </item>
     
     <item>
       <title>Investigative Reading</title>
-      <link>http://localhost:1313/projects/investigative-reading-podcast/</link>
+      <link>http://localhost:34157/projects/investigative-reading-podcast/</link>
       <pubDate>Wed, 26 Mar 2025 17:59:02 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/investigative-reading-podcast/</guid>
+      <guid>http://localhost:34157/projects/investigative-reading-podcast/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>A Corporate Practical Guide to Evil</title>
-      <link>http://localhost:1313/projects/a-corporate-practical-guide-to-evil/</link>
+      <link>http://localhost:34157/projects/a-corporate-practical-guide-to-evil/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/a-corporate-practical-guide-to-evil/</guid>
+      <guid>http://localhost:34157/projects/a-corporate-practical-guide-to-evil/</guid>
       <description></description>
       
     </item>

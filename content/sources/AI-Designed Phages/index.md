@@ -32,6 +32,10 @@ expiryDate:
 layout:
 ---
 
+<div class="substack-post-embed"><p lang="en">AI-Designed Phages by Asimov Press</p><p>A new paper shows that a generative AI model can design viable bacteriophages.</p><a data-post-link href="https://www.asimov.press/p/ai-phages">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+---
+
 > Title: AI-Designed Phages
 > 
 > Author: Nico McCarty

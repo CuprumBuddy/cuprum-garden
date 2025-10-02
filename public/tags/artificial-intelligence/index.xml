@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence on cuprum garden</title>
-    <link>http://localhost:1313/tags/artificial-intelligence/</link>
+    <link>http://localhost:34157/tags/artificial-intelligence/</link>
     <description>Recent content in Artificial Intelligence on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 20 Sep 2025 16:33:41 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Sep 2025 16:33:41 +0300</lastBuildDate><atom:link href="http://localhost:34157/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🖋 AI-Designed Phages〈Nico McCarty〉</title>
-      <link>http://localhost:1313/sources/ai-designed-phages/</link>
+      <link>http://localhost:34157/sources/ai-designed-phages/</link>
       <pubDate>Sat, 20 Sep 2025 16:33:41 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/ai-designed-phages/</guid>
+      <guid>http://localhost:34157/sources/ai-designed-phages/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/ai-designed-phages/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/sources/ai-designed-phages/feature.png" />
     </item>
     
     <item>
       <title>🔧 Attachments MD Indexer〈Ian Inkov〉</title>
-      <link>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</link>
+      <link>http://localhost:34157/tools/attachments-md-indexer-ian-inkov/</link>
       <pubDate>Sun, 06 Jul 2025 13:35:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tools/attachments-md-indexer-ian-inkov/</guid>
+      <guid>http://localhost:34157/tools/attachments-md-indexer-ian-inkov/</guid>
       <description></description>
       
     </item>

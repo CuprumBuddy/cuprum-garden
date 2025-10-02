@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microbiology on cuprum garden</title>
-    <link>http://localhost:1313/tags/microbiology/</link>
+    <link>http://localhost:34157/tags/microbiology/</link>
     <description>Recent content in Microbiology on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 20 Sep 2025 16:33:41 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/microbiology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Sep 2025 16:33:41 +0300</lastBuildDate><atom:link href="http://localhost:34157/tags/microbiology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🖋 AI-Designed Phages〈Nico McCarty〉</title>
-      <link>http://localhost:1313/sources/ai-designed-phages/</link>
+      <link>http://localhost:34157/sources/ai-designed-phages/</link>
       <pubDate>Sat, 20 Sep 2025 16:33:41 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/ai-designed-phages/</guid>
+      <guid>http://localhost:34157/sources/ai-designed-phages/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/ai-designed-phages/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/sources/ai-designed-phages/feature.png" />
     </item>
     
     <item>
       <title>🦠 Deinococcus radiodurans (aka Conan the Bacterium)</title>
-      <link>http://localhost:1313/creatures/deinococcus-radiodurans/</link>
+      <link>http://localhost:34157/creatures/deinococcus-radiodurans/</link>
       <pubDate>Sun, 14 Sep 2025 12:00:37 +0300</pubDate>
       
-      <guid>http://localhost:1313/creatures/deinococcus-radiodurans/</guid>
+      <guid>http://localhost:34157/creatures/deinococcus-radiodurans/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/creatures/deinococcus-radiodurans/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/creatures/deinococcus-radiodurans/feature.png" />
     </item>
     
     <item>
       <title>“We have university at home”</title>
-      <link>http://localhost:1313/projects/we-have-university-at-home/</link>
+      <link>http://localhost:34157/projects/we-have-university-at-home/</link>
       <pubDate>Mon, 07 Jul 2025 16:55:28 +0300</pubDate>
       
-      <guid>http://localhost:1313/projects/we-have-university-at-home/</guid>
+      <guid>http://localhost:34157/projects/we-have-university-at-home/</guid>
       <description></description>
       
     </item>

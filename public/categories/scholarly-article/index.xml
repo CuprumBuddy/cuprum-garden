@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scholarly Article on cuprum garden</title>
-    <link>http://localhost:1313/categories/scholarly-article/</link>
+    <link>http://localhost:34157/categories/scholarly-article/</link>
     <description>Recent content in Scholarly Article on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sun, 28 Sep 2025 11:41:53 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/scholarly-article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Sep 2025 11:41:53 +0300</lastBuildDate><atom:link href="http://localhost:34157/categories/scholarly-article/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>📑 The Dutch verb-spelling paradox in social media: A corpus study〈Tijn Schmitz, Robert Chamalaun and Mirjam Ernestus〉</title>
-      <link>http://localhost:1313/sources/the-dutch-verb-spelling-paradox-in-social-media/</link>
+      <link>http://localhost:34157/sources/the-dutch-verb-spelling-paradox-in-social-media/</link>
       <pubDate>Sun, 28 Sep 2025 11:41:53 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/the-dutch-verb-spelling-paradox-in-social-media/</guid>
+      <guid>http://localhost:34157/sources/the-dutch-verb-spelling-paradox-in-social-media/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>📑 Anxious-Depressive Attack: An Overlooked Condition. A Case Report〈Hisanobu Kaiya〉</title>
-      <link>http://localhost:1313/sources/anxious-depressive-attack---an-overlooked-condition/</link>
+      <link>http://localhost:34157/sources/anxious-depressive-attack---an-overlooked-condition/</link>
       <pubDate>Thu, 18 Sep 2025 10:25:44 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/anxious-depressive-attack---an-overlooked-condition/</guid>
+      <guid>http://localhost:34157/sources/anxious-depressive-attack---an-overlooked-condition/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>📑 Growth mindset and mathematics: A bibliometric analysis〈Chukwuemeka Metu, José Maria Marbán, Estefanía Espina〉</title>
-      <link>http://localhost:1313/sources/growth-mindset-and-mathematics/</link>
+      <link>http://localhost:34157/sources/growth-mindset-and-mathematics/</link>
       <pubDate>Mon, 15 Sep 2025 09:31:17 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/growth-mindset-and-mathematics/</guid>
+      <guid>http://localhost:34157/sources/growth-mindset-and-mathematics/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/growth-mindset-and-mathematics/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/sources/growth-mindset-and-mathematics/feature.png" />
     </item>
     
   </channel>

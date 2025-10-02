@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Achievement on cuprum garden</title>
-    <link>http://localhost:1313/tags/achievement/</link>
+    <link>http://localhost:34157/tags/achievement/</link>
     <description>Recent content in Achievement on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Mon, 15 Sep 2025 09:31:17 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/achievement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Sep 2025 09:31:17 +0300</lastBuildDate><atom:link href="http://localhost:34157/tags/achievement/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>📑 Growth mindset and mathematics: A bibliometric analysis〈Chukwuemeka Metu, José Maria Marbán, Estefanía Espina〉</title>
-      <link>http://localhost:1313/sources/growth-mindset-and-mathematics/</link>
+      <link>http://localhost:34157/sources/growth-mindset-and-mathematics/</link>
       <pubDate>Mon, 15 Sep 2025 09:31:17 +0300</pubDate>
       
-      <guid>http://localhost:1313/sources/growth-mindset-and-mathematics/</guid>
+      <guid>http://localhost:34157/sources/growth-mindset-and-mathematics/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/growth-mindset-and-mathematics/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/sources/growth-mindset-and-mathematics/feature.png" />
     </item>
     
   </channel>

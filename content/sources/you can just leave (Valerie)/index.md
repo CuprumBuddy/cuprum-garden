@@ -36,6 +36,10 @@ expiryDate:
 layout:
 ---
 
+<div class="substack-post-embed"><p lang="en">you can just leave by Valerie</p><p>life lessons from an avoidant</p><a data-post-link href="https://clubreticent.substack.com/p/you-can-just-leave">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+---
+
 > Title: you can just leave
 > 
 > Author: [Valerie](https://substack.com/@valerieestrina)
