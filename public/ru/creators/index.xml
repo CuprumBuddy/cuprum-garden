@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creators on купрум сад</title>
-    <link>http://localhost:34157/ru/creators/</link>
+    <link>http://localhost:1313/ru/creators/</link>
     <description>Recent content in Creators on купрум сад</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     
-    <atom:link href="http://localhost:34157/ru/creators/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/creators/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

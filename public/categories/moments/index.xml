@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moments on cuprum garden</title>
-    <link>http://localhost:34157/categories/moments/</link>
+    <link>http://localhost:1313/categories/moments/</link>
     <description>Recent content in Moments on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 19 Jul 2025 15:52:21 +0300</lastBuildDate><atom:link href="http://localhost:34157/categories/moments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jul 2025 15:52:21 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/moments/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2025-07-19: Learning Pixel Art</title>
-      <link>http://localhost:34157/moments/2025-07-19-learning-pixel-art/</link>
+      <link>http://localhost:1313/moments/2025-07-19-learning-pixel-art/</link>
       <pubDate>Sat, 19 Jul 2025 15:52:21 +0300</pubDate>
       
-      <guid>http://localhost:34157/moments/2025-07-19-learning-pixel-art/</guid>
+      <guid>http://localhost:1313/moments/2025-07-19-learning-pixel-art/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/moments/2025-07-19-learning-pixel-art/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/moments/2025-07-19-learning-pixel-art/feature.jpg" />
     </item>
     
     <item>
       <title>2025-04-05: Installing Emacs</title>
-      <link>http://localhost:34157/moments/2025-04-05-installing-emacs/</link>
+      <link>http://localhost:1313/moments/2025-04-05-installing-emacs/</link>
       <pubDate>Sat, 05 Apr 2025 16:31:28 +0300</pubDate>
       
-      <guid>http://localhost:34157/moments/2025-04-05-installing-emacs/</guid>
+      <guid>http://localhost:1313/moments/2025-04-05-installing-emacs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/moments/2025-04-05-installing-emacs/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/moments/2025-04-05-installing-emacs/feature.png" />
     </item>
     
     <item>
       <title>2025-03-30: Making mistakes</title>
-      <link>http://localhost:34157/moments/2025-03-30-making-mistakes/</link>
+      <link>http://localhost:1313/moments/2025-03-30-making-mistakes/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:34157/moments/2025-03-30-making-mistakes/</guid>
+      <guid>http://localhost:1313/moments/2025-03-30-making-mistakes/</guid>
       <description></description>
       
     </item>

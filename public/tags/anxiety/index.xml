@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anxiety on cuprum garden</title>
-    <link>http://localhost:34157/tags/anxiety/</link>
+    <link>http://localhost:1313/tags/anxiety/</link>
     <description>Recent content in Anxiety on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sun, 06 Jul 2025 15:42:51 +0300</lastBuildDate><atom:link href="http://localhost:34157/tags/anxiety/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jul 2025 15:42:51 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/anxiety/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🎥 the reality of being neurodivergent〈owiebrainhurts〉</title>
-      <link>http://localhost:34157/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</link>
+      <link>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</link>
       <pubDate>Sun, 06 Jul 2025 15:42:51 +0300</pubDate>
       
-      <guid>http://localhost:34157/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</guid>
+      <guid>http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/sources/the-reality-of-being-neurodivergent-owiebrainhurts/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/the-reality-of-being-neurodivergent-owiebrainhurts/feature.jpg" />
     </item>
     
   </channel>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studying on cuprum garden</title>
-    <link>http://localhost:34157/tags/studying/</link>
+    <link>http://localhost:1313/tags/studying/</link>
     <description>Recent content in Studying on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Mon, 07 Jul 2025 16:55:28 +0300</lastBuildDate><atom:link href="http://localhost:34157/tags/studying/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jul 2025 16:55:28 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/studying/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>“We have university at home”</title>
-      <link>http://localhost:34157/projects/we-have-university-at-home/</link>
+      <link>http://localhost:1313/projects/we-have-university-at-home/</link>
       <pubDate>Mon, 07 Jul 2025 16:55:28 +0300</pubDate>
       
-      <guid>http://localhost:34157/projects/we-have-university-at-home/</guid>
+      <guid>http://localhost:1313/projects/we-have-university-at-home/</guid>
       <description></description>
       
     </item>

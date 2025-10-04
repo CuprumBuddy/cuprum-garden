@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Garden_reviews on cuprum garden</title>
-    <link>http://localhost:34157/garden_reviews/</link>
+    <link>http://localhost:1313/garden_reviews/</link>
     <description>Recent content in Garden_reviews on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Mon, 01 Sep 2025 03:35:57 +0300</lastBuildDate><atom:link href="http://localhost:34157/garden_reviews/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 03:35:57 +0300</lastBuildDate><atom:link href="http://localhost:1313/garden_reviews/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2025-09 garden review</title>
-      <link>http://localhost:34157/garden_reviews/2025-09-garden-review/</link>
+      <link>http://localhost:1313/garden_reviews/2025-09-garden-review/</link>
       <pubDate>Mon, 01 Sep 2025 03:35:57 +0300</pubDate>
       
-      <guid>http://localhost:34157/garden_reviews/2025-09-garden-review/</guid>
+      <guid>http://localhost:1313/garden_reviews/2025-09-garden-review/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2025-07 garden review</title>
-      <link>http://localhost:34157/garden_reviews/2025-07-garden-review/</link>
+      <link>http://localhost:1313/garden_reviews/2025-07-garden-review/</link>
       <pubDate>Sat, 05 Jul 2025 09:00:44 +0300</pubDate>
       
-      <guid>http://localhost:34157/garden_reviews/2025-07-garden-review/</guid>
+      <guid>http://localhost:1313/garden_reviews/2025-07-garden-review/</guid>
       <description></description>
       
     </item>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discussions on cuprum garden</title>
+    <link>http://localhost:1313/categories/discussions/</link>
+    <description>Recent content in Discussions on cuprum garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <lastBuildDate>Sat, 04 Oct 2025 09:13:11 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/discussions/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🗣&amp;🔖 &#34;Spiritual Successors&#34; Info &amp; FAQ (ireallylikechikin on r/DiscoElysium)</title>
+      <link>http://localhost:1313/sources/spiritual-successors-info--faq/</link>
+      <pubDate>Sat, 04 Oct 2025 09:13:11 +0300</pubDate>
+      
+      <guid>http://localhost:1313/sources/spiritual-successors-info--faq/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

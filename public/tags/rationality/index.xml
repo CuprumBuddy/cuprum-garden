@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rationality on cuprum garden</title>
-    <link>http://localhost:34157/tags/rationality/</link>
+    <link>http://localhost:1313/tags/rationality/</link>
     <description>Recent content in Rationality on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:34157/tags/rationality/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rationality/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>📔 A Practical Guide to Evil〈Erratic Errata〉</title>
-      <link>http://localhost:34157/sources/-a-practical-guide-to-evil-erratic-errata/</link>
+      <link>http://localhost:1313/sources/-a-practical-guide-to-evil-erratic-errata/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:34157/sources/-a-practical-guide-to-evil-erratic-errata/</guid>
+      <guid>http://localhost:1313/sources/-a-practical-guide-to-evil-erratic-errata/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/sources/-a-practical-guide-to-evil-erratic-errata/pgte_webtoon_cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/-a-practical-guide-to-evil-erratic-errata/pgte_webtoon_cover.jpg" />
     </item>
     
   </channel>

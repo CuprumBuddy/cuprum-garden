@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Species on cuprum garden</title>
-    <link>http://localhost:34157/tags/species/</link>
+    <link>http://localhost:1313/tags/species/</link>
     <description>Recent content in Species on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sun, 14 Sep 2025 12:00:37 +0300</lastBuildDate><atom:link href="http://localhost:34157/tags/species/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Sep 2025 12:00:37 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/species/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🦠 Deinococcus radiodurans (aka Conan the Bacterium)</title>
-      <link>http://localhost:34157/creatures/deinococcus-radiodurans/</link>
+      <link>http://localhost:1313/creatures/deinococcus-radiodurans/</link>
       <pubDate>Sun, 14 Sep 2025 12:00:37 +0300</pubDate>
       
-      <guid>http://localhost:34157/creatures/deinococcus-radiodurans/</guid>
+      <guid>http://localhost:1313/creatures/deinococcus-radiodurans/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/creatures/deinococcus-radiodurans/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/creatures/deinococcus-radiodurans/feature.png" />
     </item>
     
   </channel>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>List of Links on cuprum garden</title>
-    <link>http://localhost:34157/tags/list-of-links/</link>
+    <link>http://localhost:1313/tags/list-of-links/</link>
     <description>Recent content in List of Links on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Mon, 14 Apr 2025 10:55:16 +0300</lastBuildDate><atom:link href="http://localhost:34157/tags/list-of-links/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Apr 2025 10:55:16 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/list-of-links/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🔖 slash pages (Robb Knight)</title>
-      <link>http://localhost:34157/sources/slash-pages-robb-knight/</link>
+      <link>http://localhost:1313/sources/slash-pages-robb-knight/</link>
       <pubDate>Mon, 14 Apr 2025 10:55:16 +0300</pubDate>
       
-      <guid>http://localhost:34157/sources/slash-pages-robb-knight/</guid>
+      <guid>http://localhost:1313/sources/slash-pages-robb-knight/</guid>
       <description></description>
       
     </item>

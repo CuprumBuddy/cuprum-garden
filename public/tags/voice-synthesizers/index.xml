@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Voice Synthesizers on cuprum garden</title>
-    <link>http://localhost:34157/tags/voice-synthesizers/</link>
+    <link>http://localhost:1313/tags/voice-synthesizers/</link>
     <description>Recent content in Voice Synthesizers on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 12 Jul 2025 10:40:31 +0300</lastBuildDate><atom:link href="http://localhost:34157/tags/voice-synthesizers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jul 2025 10:40:31 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/voice-synthesizers/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🎸 cuprum jukebox</title>
-      <link>http://localhost:34157/projects/cuprum-jukebox/</link>
+      <link>http://localhost:1313/projects/cuprum-jukebox/</link>
       <pubDate>Sat, 12 Jul 2025 10:40:31 +0300</pubDate>
       
-      <guid>http://localhost:34157/projects/cuprum-jukebox/</guid>
+      <guid>http://localhost:1313/projects/cuprum-jukebox/</guid>
       <description></description>
       
     </item>

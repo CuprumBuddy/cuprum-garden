@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cultural Studies on cuprum garden</title>
-    <link>http://localhost:34157/tags/cultural-studies/</link>
+    <link>http://localhost:1313/tags/cultural-studies/</link>
     <description>Recent content in Cultural Studies on cuprum garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Tue, 16 Sep 2025 17:20:00 +0300</lastBuildDate><atom:link href="http://localhost:34157/tags/cultural-studies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 17:20:00 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/cultural-studies/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🖋 A Multiculturalism of the Undead〈Matthew Wills〉</title>
-      <link>http://localhost:34157/sources/a-multiculturalism-of-the-undead/</link>
+      <link>http://localhost:1313/sources/a-multiculturalism-of-the-undead/</link>
       <pubDate>Tue, 16 Sep 2025 17:20:00 +0300</pubDate>
       
-      <guid>http://localhost:34157/sources/a-multiculturalism-of-the-undead/</guid>
+      <guid>http://localhost:1313/sources/a-multiculturalism-of-the-undead/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34157/sources/a-multiculturalism-of-the-undead/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/a-multiculturalism-of-the-undead/feature.png" />
     </item>
     
   </channel>
