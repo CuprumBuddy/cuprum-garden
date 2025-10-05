@@ -1,7 +1,7 @@
 ---
 date: 2025-09-26T13:48:20+03:00
 lastmod: 2025-10-04T10:31:28+03:00
-title: “We have university at home” but it's a list of materials that I actually used
+title: “We have university at home” but it's a list of materials I actually used
 description:
 keywords:
   - Math

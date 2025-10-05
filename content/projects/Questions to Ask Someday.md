@@ -1,6 +1,6 @@
 ---
 date: 2025-09-30T06:57:18+03:00
-lastmod: 2025-09-30T06:57:18+03:00
+lastmod: 2025-10-05T12:34:12+03:00
 title: 🙋‍♀️ Questions to Ask Someday
 description: A page to keep track of questions I asked, especially while exploring what the others have created
 keywords:
@@ -25,4 +25,4 @@ The table below was created in NocoDB and, sadly, its embeds don’t work proper
 
 <iframe src="https://app.nocodb.com/#/nc/view/5e6e4a6a-ef77-4788-b260-bcb03e55c776" width="100%" height="500px" style="border: none;"></iframe>
 
-[^1]: But at least it allows to sort & filter. If NocaDB is also less laggy than Notion when dealing with 100+ rows, then might become my main dynamic tables provider. We’ll see. 
+[^1]: But at least it allows to sort & filter. If NocaDB is also less laggy than Notion when dealing with 100+ rows, then it might become my main dynamic tables provider. We’ll see. 
