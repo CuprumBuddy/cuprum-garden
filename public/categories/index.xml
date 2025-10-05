@@ -50,11 +50,31 @@
     </item>
     
     <item>
+      <title>Never-Ending</title>
+      <link>http://localhost:1313/categories/never-ending/</link>
+      <pubDate>Tue, 30 Sep 2025 06:57:18 +0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/never-ending/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Scholarly Article</title>
       <link>http://localhost:1313/categories/scholarly-article/</link>
       <pubDate>Sun, 28 Sep 2025 11:41:53 +0300</pubDate>
       
       <guid>http://localhost:1313/categories/scholarly-article/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>In Progress</title>
+      <link>http://localhost:1313/categories/in-progress/</link>
+      <pubDate>Fri, 26 Sep 2025 13:48:20 +0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/in-progress/</guid>
       <description></description>
       
     </item>
@@ -115,26 +135,6 @@
       <pubDate>Sat, 19 Jul 2025 15:52:21 +0300</pubDate>
       
       <guid>http://localhost:1313/categories/moments/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Never-Ending</title>
-      <link>http://localhost:1313/categories/never-ending/</link>
-      <pubDate>Sat, 12 Jul 2025 10:40:31 +0300</pubDate>
-      
-      <guid>http://localhost:1313/categories/never-ending/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>In Progress</title>
-      <link>http://localhost:1313/categories/in-progress/</link>
-      <pubDate>Mon, 07 Jul 2025 16:55:28 +0300</pubDate>
-      
-      <guid>http://localhost:1313/categories/in-progress/</guid>
       <description></description>
       
     </item>

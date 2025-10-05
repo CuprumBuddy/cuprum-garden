@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/sources/</loc>
-    <lastmod>2025-10-04T09:13:48+03:00</lastmod>
+    <lastmod>2025-10-04T10:37:32+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/sources/spiritual-successors-info--faq/</loc>
-    <lastmod>2025-10-04T09:13:48+03:00</lastmod>
+    <lastmod>2025-10-04T10:37:32+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,8 +31,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/projects/questions-to-ask-someday/</loc>
+    <lastmod>2025-09-30T06:57:18+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/sources/the-dutch-verb-spelling-paradox-in-social-media/</loc>
     <lastmod>2025-09-28T18:00:55+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/sources/we-have-university-at-home-but-its-a-list-of-materials-that-i-actually-used/</loc>
+    <lastmod>2025-10-04T10:37:32+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

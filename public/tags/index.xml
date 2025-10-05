@@ -270,11 +270,11 @@
     </item>
     
     <item>
-      <title>English Language</title>
-      <link>http://localhost:1313/tags/english-language/</link>
-      <pubDate>Sun, 21 Sep 2025 08:23:07 +0300</pubDate>
+      <title>Functional Programming</title>
+      <link>http://localhost:1313/tags/functional-programming/</link>
+      <pubDate>Fri, 26 Sep 2025 13:48:20 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/english-language/</guid>
+      <guid>http://localhost:1313/tags/functional-programming/</guid>
       <description></description>
       
     </item>
@@ -282,9 +282,49 @@
     <item>
       <title>Italian Language</title>
       <link>http://localhost:1313/tags/italian-language/</link>
-      <pubDate>Sun, 21 Sep 2025 08:23:07 +0300</pubDate>
+      <pubDate>Fri, 26 Sep 2025 13:48:20 +0300</pubDate>
       
       <guid>http://localhost:1313/tags/italian-language/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>http://localhost:1313/tags/math/</link>
+      <pubDate>Fri, 26 Sep 2025 13:48:20 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/math/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Fri, 26 Sep 2025 13:48:20 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python (PL)</title>
+      <link>http://localhost:1313/tags/python-pl/</link>
+      <pubDate>Fri, 26 Sep 2025 13:48:20 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/python-pl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>English Language</title>
+      <link>http://localhost:1313/tags/english-language/</link>
+      <pubDate>Sun, 21 Sep 2025 08:23:07 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/english-language/</guid>
       <description></description>
       
     </item>
@@ -830,16 +870,6 @@
     </item>
     
     <item>
-      <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
-      <pubDate>Mon, 15 Sep 2025 09:31:17 +0300</pubDate>
-      
-      <guid>http://localhost:1313/tags/math/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Motivation</title>
       <link>http://localhost:1313/tags/motivation/</link>
       <pubDate>Mon, 15 Sep 2025 09:31:17 +0300</pubDate>
@@ -1025,26 +1055,6 @@
       <pubDate>Mon, 07 Jul 2025 16:55:28 +0300</pubDate>
       
       <guid>http://localhost:1313/tags/pre-algebra/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
-      <pubDate>Mon, 07 Jul 2025 16:55:28 +0300</pubDate>
-      
-      <guid>http://localhost:1313/tags/programming/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python (PL)</title>
-      <link>http://localhost:1313/tags/python-pl/</link>
-      <pubDate>Mon, 07 Jul 2025 16:55:28 +0300</pubDate>
-      
-      <guid>http://localhost:1313/tags/python-pl/</guid>
       <description></description>
       
     </item>
