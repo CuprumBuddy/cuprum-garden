@@ -30,21 +30,21 @@
     </item>
     
     <item>
-      <title>Collections</title>
-      <link>http://localhost:1313/categories/collections/</link>
-      <pubDate>Sat, 04 Oct 2025 09:13:11 +0300</pubDate>
+      <title>Discussions</title>
+      <link>http://localhost:1313/categories/discussions/</link>
+      <pubDate>Wed, 08 Oct 2025 10:38:12 +0300</pubDate>
       
-      <guid>http://localhost:1313/categories/collections/</guid>
+      <guid>http://localhost:1313/categories/discussions/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Discussions</title>
-      <link>http://localhost:1313/categories/discussions/</link>
+      <title>Collections</title>
+      <link>http://localhost:1313/categories/collections/</link>
       <pubDate>Sat, 04 Oct 2025 09:13:11 +0300</pubDate>
       
-      <guid>http://localhost:1313/categories/discussions/</guid>
+      <guid>http://localhost:1313/categories/collections/</guid>
       <description></description>
       
     </item>
