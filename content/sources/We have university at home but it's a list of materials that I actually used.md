@@ -39,6 +39,9 @@ Someday I will be able to comment on why I used those and what my impressions we
 - a separate page – in this case the source title will become purple, indicating the link
 
 For the month-based review of what I was studying see the original [“We have university at home”](https://cuprumbuddy.github.io/cuprum-garden/projects/we-have-university-at-home/).
+
+---
+
 ## IT-related
 ### Programming Languages
 #### Python: Basics
@@ -55,9 +58,12 @@ For the month-based review of what I was studying see the original [“We have u
 ### Dutch
 - Berendsen, Bieneke. ‘Learn Dutch • Online Dutch Grammar Course’. Accessed 4 October 2025. [https://www.dutchgrammar.com/](https://www.dutchgrammar.com/).
 
+- Schmitz, Tijn, Robert Chamalaun, and Mirjam Ernestus. ‘The Dutch Verb-Spelling Paradox in Social Media’. _Linguistics in the Netherlands_ 35, no. 1 (2018): 111–24. [https://doi.org/10.1075/AVT.00008.SCH](https://doi.org/10.1075/AVT.00008.SCH).
 ### Italian
-- Wikipedia, ‘Italian orthography’, 29 July 2025, https://en.wikipedia.org/w/index.php?title=Italian_orthography&oldid=1303260803.
+- Rôme, Denise De. _Soluzioni: A Practical Grammar of Contemporary Italian_. 4th ed. Routledge, 2018.
 - Ruggeri, Stefania, and Fabrizio Ruggeri. _100 dubbi di grammatica italiana: spiegazioni e esercizi_. Prima edizione. Alma Edizioni, 2019.
+
+- Wikipedia, ‘Italian orthography’, 29 July 2025, https://en.wikipedia.org/w/index.php?title=Italian_orthography&oldid=1303260803.
 
 ---
 

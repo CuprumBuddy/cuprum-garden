@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 04 Oct 2025 09:13:11 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Oct 2025 13:41:35 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/categories/books/</link>
+      <pubDate>Wed, 08 Oct 2025 13:41:35 +0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/books/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Source</title>
+      <link>http://localhost:1313/categories/source/</link>
+      <pubDate>Wed, 08 Oct 2025 13:41:35 +0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/source/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Collections</title>
@@ -25,16 +45,6 @@
       <pubDate>Sat, 04 Oct 2025 09:13:11 +0300</pubDate>
       
       <guid>http://localhost:1313/categories/discussions/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Source</title>
-      <link>http://localhost:1313/categories/source/</link>
-      <pubDate>Sat, 04 Oct 2025 09:13:11 +0300</pubDate>
-      
-      <guid>http://localhost:1313/categories/source/</guid>
       <description></description>
       
     </item>
@@ -205,16 +215,6 @@
       <pubDate>Wed, 02 Apr 2025 18:31:40 +0300</pubDate>
       
       <guid>http://localhost:1313/categories/ads/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>http://localhost:1313/categories/books/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/books/</guid>
       <description></description>
       
     </item>

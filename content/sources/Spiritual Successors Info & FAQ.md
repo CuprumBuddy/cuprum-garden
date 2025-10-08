@@ -1,7 +1,7 @@
 ---
 date: 2025-10-04T09:13:11+03:00
 lastmod: 2025-10-04T09:13:48+03:00
-title: 🗣 & 🔖 “Spiritual Successors” Info & FAQ (ireallylikechikin on r/DiscoElysium)
+title: 🗣 & 🔖 “Spiritual Successors” Info & FAQ〈ireallylikechikin on r/DiscoElysium〉
 description: Descriptions of companies created by ex-DE developers + list of games similar to DE
 keywords:
   - Video Games

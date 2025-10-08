@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 04 Oct 2025 09:13:11 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Oct 2025 13:41:35 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Italian Grammar</title>
+      <link>http://localhost:1313/tags/italian-grammar/</link>
+      <pubDate>Wed, 08 Oct 2025 13:41:35 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/italian-grammar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Italian Language</title>
+      <link>http://localhost:1313/tags/italian-language/</link>
+      <pubDate>Wed, 08 Oct 2025 13:41:35 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/italian-language/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Creativity Example</title>
@@ -135,6 +155,16 @@
       <pubDate>Thu, 02 Oct 2025 13:50:49 +0300</pubDate>
       
       <guid>http://localhost:1313/tags/self-help/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to Ask Questions</title>
+      <link>http://localhost:1313/tags/how-to-ask-questions/</link>
+      <pubDate>Tue, 30 Sep 2025 06:57:18 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/how-to-ask-questions/</guid>
       <description></description>
       
     </item>
@@ -275,16 +305,6 @@
       <pubDate>Fri, 26 Sep 2025 13:48:20 +0300</pubDate>
       
       <guid>http://localhost:1313/tags/functional-programming/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Italian Language</title>
-      <link>http://localhost:1313/tags/italian-language/</link>
-      <pubDate>Fri, 26 Sep 2025 13:48:20 +0300</pubDate>
-      
-      <guid>http://localhost:1313/tags/italian-language/</guid>
       <description></description>
       
     </item>
