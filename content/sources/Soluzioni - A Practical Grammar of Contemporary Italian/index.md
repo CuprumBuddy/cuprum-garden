@@ -38,4 +38,6 @@ layout:
 
 An **EXTREMELY** thorough textbook. It won’t be suitable for learning Italian as a beginner, since the amount of information is rather overwhelming, but otherwise it’s an excellent resource for more proficient students who’d like to get a better understanding of grammar & Italian teachers. 
 
-For a while the 4th edition of *Soluzioni* was my go-to textbook for What I Know About Italian project. However, the book is so concise yet comprehensive that I started to fear that I would run into copyright issues sooner of later if I ever publish these posts so I largely had to switch to textbooks with permissive licenses. 
+For a while the 4th edition of *Soluzioni* was my go-to textbook for What I Know About Italian project. However, the book is so concise yet comprehensive that I started to fear that I would run into copyright issues sooner of later if I ever publish these posts so I largely had to switch to textbooks with more permissive licenses. 
+
+(As with all WIKAs, it can be quite difficult to *not* run into copyright issues – not because I copypaste textbooks directly into my notes, but because it’s rather difficult to say something new when you’re a *learner* and not a teacher yet strive for completeness. It’s more difficult with STEM subjects, especially when you don't know how to express these ideas in a different way. That's one of the reasons why during the first half a year I haven't published any WIKA posts)
