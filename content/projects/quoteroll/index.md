@@ -1,6 +1,6 @@
 ---
 date: 2025-10-19T09:54:55+03:00
-lastmod: 2025-10-19T09:54:55+03:00
+lastmod: 2025-10-20T09:54:55+03:00
 title: 💬 quoteroll
 description: Literally a collection of quotes sorted chronologically (i.e. when found, newest to oldest). Based mostly on vibes, commentary (usually) not included
 keywords:
@@ -19,10 +19,19 @@ layout:
 
 {{< timeline >}}
 
+{{< timelineItem md="true" icon="building-columns-solid-full" subheader="2025-10-19">}}
+
+I must study Politicks and War that my sons may have liberty to study Mathematicks and Philosophy. My sons ought to study Mathematicks and Philosophy, Geography, natural History, Naval Architecture, navigation, Commerce and Agriculture, in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine.
+<br>
+<hr>
+“John Adams to Abigail Adams, 12 May 1780,” <i>Founders Online</i>, National Archives, <a href="https://founders.archives.gov/documents/Adams/04-03-02-0258">https://founders.archives.gov/documents/Adams/04-03-02-0258</a> 
+
+{{< /timelineItem >}}
+
+
 {{< timelineItem icon="address-card-solid-full" subheader="2025-10-19">}}
 
-“A word is not the same with one writer as it is with another. One tears it from his guts. The other pulls it out of his overcoat pocket.” This is how Charles Peguy described writing individual words. The same thing is true of chapters and whole books.
-<br>
+“A word is not the same with one writer as it is with another. One tears it from his guts. The other pulls it out of his overcoat pocket.” This is how Charles Peguy described writing individual words. The same thing is true of chapters and whole books. [...] It seems appropriate to acknowledge everyone who contributed to the long process, either by loaning me an overcoat or by helping me clean up my spilled guts.
 <hr>
 Bradford Tuckfield, <i>DIVE INTO ALGORITHMS: A Pythonic Adventure for the Intrepid Beginner</i> (2021)
 
@@ -42,6 +51,35 @@ I rolled my eyes. “I’d be a little more impressed if he’d ruled longer tha
 <hr>
 ErraticErrata, <i>A Practical Guide to Evil</i> Book 2, Chapter 1: Supply (2015)
 
+{{< /timelineItem >}}
+
+
+{{< timelineItem icon="" subheader="2025-10-17">}}
+
+I imagine if I tried to date him, it'd be a lot of work to get him to understand me, like I'd have to force feed him myself. I'd rather have someone who's hungry. 
+<hr>
+Aella, <i>The Difficulty in Dating Good Men</i> (2025). <a href="https://aella.substack.com/p/the-difficulty-in-dating-good-men">https://aella.substack.com/p/the-difficulty-in-dating-good-men</a>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="" subheader="2025-08-31">}}
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Rdvm8z6be1eidQ4L2DnxfA/718619616060047360" data-did="6f706542b33e70149269497298aa0d02e395669f"><a href="https://paperconsumption.tumblr.com/post/718619616060047360">https://paperconsumption.tumblr.com/post/718619616060047360</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="bandage-solid-full" subheader="2025-06-08">}}
+
+The trauma narrative feels like a rejection of the pain, because it's a belief that the pain is somehow not supposed to be there, like it's a foreign invader. I feel uncomfortable treating it like an invader (although I still do it sometimes because of social pressure).
+<br> <br>
+There can be a lot of healing in surrendering the narrative and all the power and authority it gives you. I don't mean that you have to abandon it entirely, it's useful, after all - but evicting it from a place of identity inside yourself is necessary. If your wound is held open by a sense of wrongness, it will never have space to heal.
+
+<hr>
+Aella, <i>The Trauma Narrative</i> (2018). <a href="https://aella.substack.com/p/the-trauma-narrative">https://aella.substack.com/p/the-trauma-narrative</a>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="bandage-solid-full" subheader="2025-06-05">}}
+I feel like I’m in absolute <i>crazytown</i> that everyone seems to think the school system is okay. You’re pouring the most vivid years of someone’s life into the fucking drain, forcing them to sit and wait and stare at walls and spend their attention focusing on stuff that most of them don’t care about at all, and will barely remember afterwards. This is how you treat property, not people. 
+<hr>
+Aella, <i>Chattel Childhood</i> (2025). <a href="https://aella.substack.com/p/chattel-childhood">https://aella.substack.com/p/chattel-childhood</a>
 {{< /timelineItem >}}
 
 {{< /timeline >}}
