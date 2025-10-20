@@ -8,10 +8,18 @@ keywords:
   - Haskell
   - Python (PL)
   - Artificial Intelligence
+  - Natural Language Processing (NLP)
 categories:
   - source
   - collections
 tags:
+  - Online courses
+  - Programming
+  - DevOps
+  - Haskell
+  - Python (PL)
+  - Artificial Intelligence
+  - Natural Language Processing (NLP)
 draft: false
 date: 2025-08-12T19:11:30+03:00
 publishDate:

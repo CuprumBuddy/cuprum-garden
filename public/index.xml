@@ -196,7 +196,7 @@
       
       <guid>http://localhost:1313/sources/mooc.fi-university-of-helsinki/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/mooc.fi-university-of-helsinki/feature.png" />
     </item>
     
     <item>
