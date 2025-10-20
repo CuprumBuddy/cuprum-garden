@@ -50,7 +50,7 @@ I rolled my eyes. “I’d be a little more impressed if he’d ruled longer tha
 <br>
 <hr>
 ErraticErrata, <i>A Practical Guide to Evil</i> Book 2, Chapter 1: Supply (2015)
-
+{{< article link="/sources/-a-practical-guide-to-evil-erratic-errata/" showSummary=true compactSummary=true >}}
 {{< /timelineItem >}}
 
 
@@ -59,6 +59,16 @@ ErraticErrata, <i>A Practical Guide to Evil</i> Book 2, Chapter 1: Supply (2015)
 I imagine if I tried to date him, it'd be a lot of work to get him to understand me, like I'd have to force feed him myself. I'd rather have someone who's hungry. 
 <hr>
 Aella, <i>The Difficulty in Dating Good Men</i> (2025). <a href="https://aella.substack.com/p/the-difficulty-in-dating-good-men">https://aella.substack.com/p/the-difficulty-in-dating-good-men</a>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="" subheader="2025-10-13">}}
+[A]s Oliver Burkeman advises in <a href="https://curtismchale.ca/book/meditations-for-mortals-oliver-burkeman/">Meditations for Mortals</a> there is freedom in realizing that you won’t get everything done, that most of your tasks don’t matter and you should let them go because you’re never going to do them. They’re not valuable enough to bother with.
+<br><br>
+The problem isn’t that you haven’t found the right tool to control your tasks, it’s that you think it’s possible to control every task that flows your way.
+<br><br>
+The reason a new tool, or a new system for that matter, feels so good is that you give up on so many of the tasks that were weighing you down in the old system. You don’t move every idea over figuring that you’ll come back to them at some point, and then you never come back.
+<hr>
+Curtis McHale, <i>Productivity as a Fetish</i> (2025). <a href="https://curtismchale.ca/2025/10/11/productivity-as-a-fetish/">https://curtismchale.ca/2025/10/11/productivity-as-a-fetish/</a>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="" subheader="2025-08-31">}}
