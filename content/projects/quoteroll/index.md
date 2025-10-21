@@ -19,6 +19,12 @@ layout:
 
 {{< timeline >}}
 
+{{< timelineItem md="true" icon="vault-solid-full" subheader="2025-10-21">}}
+Friendship is not the warm bath of recognition; it is the safe-cracking of reality. Two idiots put their ears to the vault door of the world and whisper, ‘On three.’ Click.
+<hr>
+The Shadowed Archive, <i>An Existential Guide to: Making Friends</i> (2025). <a href="https://theshadowedarchive.substack.com/p/an-existential-guide-to-making-friends">https://theshadowedarchive.substack.com/p/an-existential-guide-to-making-friends</a> 
+{{< /timelineItem >}}
+
 {{< timelineItem md="true" icon="building-columns-solid-full" subheader="2025-10-19">}}
 
 I must study Politicks and War that my sons may have liberty to study Mathematicks and Philosophy. My sons ought to study Mathematicks and Philosophy, Geography, natural History, Naval Architecture, navigation, Commerce and Agriculture, in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine.
