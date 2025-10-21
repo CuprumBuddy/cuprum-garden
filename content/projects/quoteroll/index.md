@@ -20,6 +20,13 @@ layout:
 {{< timeline >}}
 
 {{< timelineItem md="true" icon="vault-solid-full" subheader="2025-10-21">}}
+Following a long period of chronic personal and professional stress, I had retreated to a (metaphoric) cave for a couple of years and simply stopped going to professional conferences and other social/professional venues where I typically met emerging scholars in the field and reconnected with longtime colleagues and friends. And in truth, I didn’t write much (at least, not much that I cared about). Then I got a cold email from Robin. I almost never respond to cold emails (and I’ve never taken a cold phone call in my life), but this one was different from the usual sort [...], so I responded. Suffice it to say, Robin got my attention, and kept it, and we began meeting, and talking, and reading together, and not long after, writing together. Thank you, Robin, for waking up my brain again, for being my muse, for knowing exactly how to finish my sentences and for letting me finish yours. Working with you has been like working with my own younger self, if my younger self had known back then what I know now 20 years later, but still had some energy and vitality left in me.
+<hr>
+Alicia A. Broderick, <i>The Autism Industrial Complex: How Branding, Marketing, and Capital Investment Turned Autism Into Big Business</i> (2022).
+{{< /timelineItem >}}
+
+
+{{< timelineItem md="true" icon="vault-solid-full" subheader="2025-10-21">}}
 Friendship is not the warm bath of recognition; it is the safe-cracking of reality. Two idiots put their ears to the vault door of the world and whisper, ‘On three.’ Click.
 <hr>
 The Shadowed Archive, <i>An Existential Guide to: Making Friends</i> (2025). <a href="https://theshadowedarchive.substack.com/p/an-existential-guide-to-making-friends">https://theshadowedarchive.substack.com/p/an-existential-guide-to-making-friends</a> 
