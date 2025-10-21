@@ -1,6 +1,6 @@
 ---
 date: 2025-10-19T09:54:55+03:00
-lastmod: 2025-10-20T09:54:55+03:00
+lastmod: 2025-10-21T09:54:55+03:00
 title: 💬 quoteroll
 description: Literally a collection of quotes sorted chronologically (i.e. when found, newest to oldest). Based mostly on vibes, commentary (usually) not included
 keywords:
@@ -77,6 +77,22 @@ The reason a new tool, or a new system for that matter, feels so good is that yo
 Curtis McHale, <i>Productivity as a Fetish</i> (2025). <a href="https://curtismchale.ca/2025/10/11/productivity-as-a-fetish/">https://curtismchale.ca/2025/10/11/productivity-as-a-fetish/</a>
 {{< /timelineItem >}}
 
+{{< timelineItem icon="" subheader="2025-09-13">}}
+The same thing happens when RFK Jr says “when I was a kid, no one had autism”. Which is technically true. But only because the diagnosis of autism wasn’t officially recognized in the Diagnostic and Statistical Manual of Mental Disorders (DSM) until 1980. Which is <i>after</i> RFK Jr was a kid.
+<br><br>
+So yes, there <i>was</i> no autism when he was a kid. But it’s not because there was anything special and healthy about being a kid in the 50s and 60s.
+<hr>
+Ellie Murray, <i>In my day there was no autism and we walked to school uphill both ways in the snow</i> (2025). URL: <a href="https://epiellie.substack.com/p/in-my-day-there-was-no-autism-and">https://epiellie.substack.com/p/in-my-day-there-was-no-autism-and</a>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="" subheader="2025-09-12">}}
+I've worked in spam and abuse at Google, and I have friends who have worked in trust and safety at Meta and Twitter. Anyone who has worked in any spam and abuse role knows that these platforms are under fire and adversarial attack basically all the time. Which makes me think Krugman’s take is way too simplistic. “Enshittification is <i>their</i> fault. They are doing it on purpose because <moral failing>.” Krugman is definitely pointing to a real phenomenon, and his writing is insightful as usual. But like many of those critical of the modern tech landscape, Krugman only points the cannons of his criticism outward.
+<br><br>
+Point me to some form of enshittification, and I'll find someone abusing the system that is making it worse for everyone. Honestly, most of the time I can't even blame them. Sure, I'm not personally like trashing my Airbnbs and then suing the host, or whatever. But I share my Netflix password, or use other people's promo codes, or use student discounts when I'm no longer a student. We all have incentives.
+<hr>
+theahura, <i>Enshittification is our fault</i> (2025). URL: <a href="https://theahura.substack.com/p/enshittification-is-our-fault">https://theahura.substack.com/p/enshittification-is-our-fault</a>
+{{< /timelineItem >}}
+
 {{< timelineItem icon="" subheader="2025-08-31">}}
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Rdvm8z6be1eidQ4L2DnxfA/718619616060047360" data-did="6f706542b33e70149269497298aa0d02e395669f"><a href="https://paperconsumption.tumblr.com/post/718619616060047360">https://paperconsumption.tumblr.com/post/718619616060047360</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 {{< /timelineItem >}}
@@ -96,6 +112,12 @@ Aella, <i>The Trauma Narrative</i> (2018). <a href="https://aella.substack.com/p
 I feel like I’m in absolute <i>crazytown</i> that everyone seems to think the school system is okay. You’re pouring the most vivid years of someone’s life into the fucking drain, forcing them to sit and wait and stare at walls and spend their attention focusing on stuff that most of them don’t care about at all, and will barely remember afterwards. This is how you treat property, not people. 
 <hr>
 Aella, <i>Chattel Childhood</i> (2025). <a href="https://aella.substack.com/p/chattel-childhood">https://aella.substack.com/p/chattel-childhood</a>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="" subheader="2025-03-30">}}
+I'm writing essay after essay in a language that isn't even my native and that I taught myself during the most traumatic yearsof my life. How isn't that amazing?
+<hr>
+aurora blythe, <i>the one about getting comfortable being smart again and self-education</i> (2025). URL: <a href="https://aurorablythe.substack.com/p/the-one-about-getting-comfortable">https://aurorablythe.substack.com/p/the-one-about-getting-comfortable</a>
 {{< /timelineItem >}}
 
 {{< /timeline >}}
