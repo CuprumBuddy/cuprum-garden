@@ -21,7 +21,8 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "hero"
+homepageImage = "/img/albert_könig_palermo_by_night.jpg"
 showRecent = true
 showRecentItems = "4"
 showMoreLink = false
