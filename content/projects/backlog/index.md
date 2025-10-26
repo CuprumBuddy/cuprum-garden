@@ -23,6 +23,8 @@ Links in tables below are sorted alphabetically. Hopefully the list will eventua
 
 Note that I **DON’T** recommend anything listed. I’m not familiar with any of these sources, and while it would be nice to accidentally give someone a good recommendation, chances are that I unknowingly spread something low quality or dangerous. If you decide to discuss that – either with me personally or on your own social media – please be respectful. Reasons why something should be removed from the list (and what to replace it with) will be appreciated.
 
+---
+
 ## Aesthetics
 
 | What                                                                                                                                                      | Why |
@@ -30,9 +32,10 @@ Note that I **DON’T** recommend anything listed. I’m not familiar with any o
 | [Beauty in mind](https://iris.unito.it/handle/2318/1727082): Aesthetic appreciation correlates with perceptual facilitation and attentional amplification |     |
 ## Biology
 
-| What                                                                                                                                       | Why |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | --- |
-| [Ask not why would you work in biology, but rather: why wouldn't you?](https://www.owlposting.com/p/ask-not-why-would-you-work-in-biology) |     |
+| What                                                                                                                                       | Why                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [Ask not why would you work in biology, but rather: why wouldn't you?](https://www.owlposting.com/p/ask-not-why-would-you-work-in-biology) | Really, why wouldn’t I?                                                                            |
+| [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)                                                            | Can be summed up ”If only schools showed how beautiful and interesting biology really is”, I guess |
 
 ## Category Theory
 
@@ -41,6 +44,12 @@ Note that I **DON’T** recommend anything listed. I’m not familiar with any o
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [#54 - The Goal of Science is to Communicate Ideas! - Philip Wadler](https://www.youtube.com/watch?v=Q6A848_3TwA) by Type Theory Forall               | A professor behind Monads, Type Classes, Category Theory and Homotopy Type Theory research talks about the philosophy & method behind his papers |
 | [Towards a Research Program on Compositional World-Modeling – Topos Institute](https://topos.institute/blog/2023-06-15-compositional-world-modeling/) | How to use category theory to model complex systems for scientific applications.                                                                 |
+
+## Computer Science
+
+| What                                                                                                                                     | Why                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [How to Gain a Computer Science Education from MIT University for FREE](https://laconicml.com/computer-science-engineer-mit-university/) Another CS curriculum based on materials from MIT OpenCourseWare T  |
 
 ## Creativity
 
@@ -53,8 +62,21 @@ Note that I **DON’T** recommend anything listed. I’m not familiar with any o
 
 | What                                                                                                      | Why |
 | --------------------------------------------------------------------------------------------------------- | --- |
-| Python and R for the Modern Data Scientist: The Best of Both Worlds by Rick J. Scavetta and Boyan Angelov |     |
 | Foundations of Data Science with Python by John M. Shea                                                   |     |
+| Python and R for the Modern Data Scientist: The Best of Both Worlds by Rick J. Scavetta and Boyan Angelov |     |
+
+## Decision Making
+
+| What                                                                                                                                     | Why |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [Metacognition in human decision-making: confidence and error monitoring](https://royalsocietypublishing.org/doi/10.1098/rstb.2011.0416) |     |
+| [Shared Neural Markers of Decision Confidence and Error Detection](https://www.jneurosci.org/content/35/8/3478)                          |     |
+## Education
+
+
+| What                                                                                                            | Why |
+| --------------------------------------------------------------------------------------------------------------- | --- |
+| [Applications of Educational Technology](https://open.library.okstate.edu/applicationsofeducationaltechnology/) |     |
 
 ## Functional Programming
 
@@ -96,6 +118,11 @@ Note that I **DON’T** recommend anything listed. I’m not familiar with any o
 | What                                                                             | Why |
 | -------------------------------------------------------------------------------- | --- |
 | [A Sociology of Luck](https://journals.sagepub.com/doi/10.1177/0735275120941178) |     |
+## Mythology
+
+| What                                                                                                              | Why |
+| ----------------------------------------------------------------------------------------------------------------- | --- |
+| [The Indigenous Dutch Goddess Nehalennia](https://www.visitingthedutchcountryside.com/dutch-folklore/nehalennia/) |     |
 
 ## Note-taking
 
@@ -108,4 +135,10 @@ Note that I **DON’T** recommend anything listed. I’m not familiar with any o
 | What                                                                      | Why                                                                                                                           |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | [Entity Linker](https://github.com/Ankush-Chander/obsidian-entity-linker) | > Entity linker is an Obsidian plugin links research terms to corresponding standard entities (wikidata, wikipedia, openalex) |
+
+## Tasks Management
+
+| What                                                                                                                   | Why |
+| ---------------------------------------------------------------------------------------------------------------------- | --- |
+| [🌲 The Konik Method For Maintaining Sane Task Lists](https://www.eleanorkonik.com/p/the-konik-method-for-maintaining) |     |
 

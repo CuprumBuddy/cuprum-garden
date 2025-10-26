@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/projects/backlog/</loc>
+    <lastmod>2025-10-26T16:26:35+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/sources/when-a-deep-character-pretends-to-be-shallow...-hobie-brown-schnee/</loc>
     <lastmod>2025-10-21T15:51:26+03:00</lastmod>
     <changefreq>daily</changefreq>
