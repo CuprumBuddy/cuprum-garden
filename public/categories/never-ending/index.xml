@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sun, 19 Oct 2025 09:54:55 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/never-ending/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 14:01:15 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/never-ending/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>backlog</title>
+      <link>http://localhost:1313/projects/backlog/</link>
+      <pubDate>Sat, 25 Oct 2025 14:01:15 +0300</pubDate>
+      
+      <guid>http://localhost:1313/projects/backlog/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>💬 quoteroll</title>

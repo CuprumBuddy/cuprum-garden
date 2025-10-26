@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Mon, 07 Jul 2025 16:55:28 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/online-courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 19:11:30 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/online-courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🔖 mooc.fi〈University of Helsinki〉</title>
+      <link>http://localhost:1313/sources/mooc.fi-university-of-helsinki/</link>
+      <pubDate>Tue, 12 Aug 2025 19:11:30 +0300</pubDate>
+      
+      <guid>http://localhost:1313/sources/mooc.fi-university-of-helsinki/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/mooc.fi-university-of-helsinki/feature.png" />
+    </item>
     
     <item>
       <title>“We have university at home”</title>

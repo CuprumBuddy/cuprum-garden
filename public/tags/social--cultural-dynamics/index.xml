@@ -10,13 +10,13 @@
     <lastBuildDate>Fri, 17 Oct 2025 12:11:35 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/social--cultural-dynamics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>✍ Self-consciousness wants to make everything about itself〈jessicata〉</title>
+      <title>🖋 Self-consciousness wants to make everything about itself〈jessicata〉</title>
       <link>http://localhost:1313/sources/self-consciousness-wants-to-make-everything-about-itself-jessicata/</link>
       <pubDate>Fri, 17 Oct 2025 12:11:35 +0300</pubDate>
       
       <guid>http://localhost:1313/sources/self-consciousness-wants-to-make-everything-about-itself-jessicata/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/self-consciousness-wants-to-make-everything-about-itself-jessicata/feature.png" />
     </item>
     
   </channel>
