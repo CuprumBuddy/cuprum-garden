@@ -12,6 +12,11 @@ publishDate:
 expiryDate:
 layout:
 ---
+
+![](feature.jpg "Books and Scholars’ Accoutrements, late 1800s. Yi Taek-gyun (Korean, 1808–after 1883). Ten-panel folding screen; ink and color on silk; overall: 197.5 x 395 cm (77 3/4 x 155 1/2 in.); painting only: 139.3 x 330.8 cm (54 13/16 x 130 1/4 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 2011.37. URL: https://www.clevelandart.org/art/2011.37")
+
+---
+
 I have tons of materials in my backlog. Obviously, I won’t be able to write about or even read every single item with a headline that caught my eye, which means that most of my “read later” list won’t be of any use neither for me nor my readers. Also I’ve noticed that I revisit my own site way more often than my saved messages, images in the gallery, reading apps, YouTube playlists and all the other silos. Given that my personal goal is to significantly reduce the amount of places where a particular link, image or whatever could eventually <s>get lost</s> end up, I don’t see the reasons not to share 
 
 Links in tables below are sorted alphabetically. Hopefully the list will eventually become a bit smaller. See the [Sources](https://cuprumbuddy.github.io/cuprum-garden/categories/source/) category if you’re interested in what I’ve already read and hopefully even wrote something about.

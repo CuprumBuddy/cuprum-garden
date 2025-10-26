@@ -16,7 +16,7 @@
       
       <guid>http://localhost:1313/projects/backlog/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/backlog/feature.jpg" />
     </item>
     
     <item>
