@@ -17,7 +17,7 @@ expiryDate:
 layout:
 ---
 
-When my partner and I read [📔 A Practical Guide to Evil (Erratic Errata)](https://cuprumbuddy.github.io/cuprum-garden/sources/-a-practical-guide-to-evil-erratic-errata/), I usually read as Catherine, and in the beginning my performance was quite bad. I stumbled on longer sentences, stressed words incorrectly, and my intonations were anything but fitting the situation.
+When my partner and I read [:📔 A Practical Guide to Evil (Erratic Errata)](https://cuprumbuddy.github.io/cuprum-garden/sources/-a-practical-guide-to-evil-erratic-errata/), I usually read as Catherine, and in the beginning my performance was quite bad. I stumbled on longer sentences, stressed words incorrectly, and my intonations were anything but fitting the situation.
 
 It became better over time, and at some point I started reading whole sentences without stumbling – though intonation was still out of place. My partner said:
 

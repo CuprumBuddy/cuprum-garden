@@ -9,6 +9,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/moments/2025-10-24-joined-the-r.o.s.e/</loc>
+    <lastmod>2025-10-27T10:54:29+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/moments/</loc>
+    <lastmod>2025-10-27T10:54:29+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/sources/when-a-deep-character-pretends-to-be-shallow...-hobie-brown-schnee/</loc>
     <lastmod>2025-10-21T15:51:26+03:00</lastmod>
     <changefreq>daily</changefreq>
@@ -186,12 +198,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/moments/2025-07-19-learning-pixel-art/</loc>
-    <lastmod>2025-09-11T10:40:33+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/moments/</loc>
     <lastmod>2025-09-11T10:40:33+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
