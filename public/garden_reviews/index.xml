@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Mon, 01 Sep 2025 03:35:57 +0300</lastBuildDate><atom:link href="http://localhost:1313/garden_reviews/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Oct 2025 10:57:31 +0300</lastBuildDate><atom:link href="http://localhost:1313/garden_reviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2025-10 garden review</title>
+      <link>http://localhost:1313/garden_reviews/2025-10-garden-review/</link>
+      <pubDate>Wed, 01 Oct 2025 10:57:31 +0300</pubDate>
+      
+      <guid>http://localhost:1313/garden_reviews/2025-10-garden-review/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/garden_reviews/2025-10-garden-review/feature.jpg" />
+    </item>
     
     <item>
       <title>2025-09 garden review</title>

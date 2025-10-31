@@ -19,6 +19,30 @@ layout:
 
 {{< timeline >}}
 
+{{< timelineItem md="true" icon="" subheader="2025-10-26">}}
+When you stop translating, extraordinary things happen. Your creative, social, and intellectual bandwidth expands dramatically. The cognitive load of constant performance was enormous—every conversation where you were editing rather than expressing depleted resources that could be directed toward creation, insight, genuine connection.
+<br><br>
+You discover your actual audience: not the people who need you to be different, but the ones who recognize themselves in your untranslated truth. This isn't about finding "your tribe"—that suggests a pre-existing community waiting to be discovered. It's about creating resonance through specificity.
+<hr>
+stepfanie tyler, <i>The quiet thrill of not being for everyone: The power of refusing to perform</i> (2025). URL: <a href="https://www.badgirlmedia.com/p/the-quiet-thrill-of-not-being-for">https://www.badgirlmedia.com/p/the-quiet-thrill-of-not-being-for</a>
+{{< /timelineItem >}}
+
+
+{{< timelineItem md="true" icon="" subheader="2025-10-25">}}
+The slut is, after all, a fundamentally pro-social archetype. While the term has grown to be broad and welcoming (as Aella made sure to say explicitly, “anyone can be a slut”), the slut more traditionally represents someone who has had- or at least is perceived to have had- many sexual partners. She is assumed to be sexually open, available, “loose,” which even as an insult implies an undeniably complimentary relaxed quality. The slut enjoys sex, in the normal way that sex is enjoyable.
+<br><br>
+The pervert, in contrast, is antisocial. His desires are at odds with normative sex and sexuality, often divorced or abstracted from the mechanics of sex and/or hyperfocused in a way that alienates potential partners, if partnership is something the Pervert is interested in at all. Perversion is a curdling; a rancid inversion of something wholesome. The Pervert is sexually obsessed, yes, but impotent either through shame or rebuff.
+<br><br>
+The slut gives panties away, or shows off the lace in hopes of them peeled off her body. The pervert sneaks into her room at night and steals them.
+<br><br>
+The slut gives, the pervert takes.
+<br><br>
+Prosocial/antisocial.
+<hr>
+Noelle Perdue, <i>Notes on Feeling Like a Failure at Slutcon</i> (2025). URL: <a href="https://noelleperdue.substack.com/p/notes-on-feeling-like-a-failure-at">https://noelleperdue.substack.com/p/notes-on-feeling-like-a-failure-at</a>
+{{< /timelineItem >}}
+
+
 {{< timelineItem md="true" icon="vault-solid-full" subheader="2025-10-21">}}
 Following a long period of chronic personal and professional stress, I had retreated to a (metaphoric) cave for a couple of years and simply stopped going to professional conferences and other social/professional venues where I typically met emerging scholars in the field and reconnected with longtime colleagues and friends. And in truth, I didn’t write much (at least, not much that I cared about). Then I got a cold email from Robin. I almost never respond to cold emails (and I’ve never taken a cold phone call in my life), but this one was different from the usual sort [...], so I responded. Suffice it to say, Robin got my attention, and kept it, and we began meeting, and talking, and reading together, and not long after, writing together. Thank you, Robin, for waking up my brain again, for being my muse, for knowing exactly how to finish my sentences and for letting me finish yours. Working with you has been like working with my own younger self, if my younger self had known back then what I know now 20 years later, but still had some energy and vitality left in me.
 <hr>

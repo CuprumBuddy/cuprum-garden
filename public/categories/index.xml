@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Moments</title>
+      <link>http://localhost:1313/categories/moments/</link>
+      <pubDate>Sat, 25 Oct 2025 02:54:23 +0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/moments/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Source</title>
       <link>http://localhost:1313/categories/source/</link>
       <pubDate>Tue, 21 Oct 2025 13:13:40 +0300</pubDate>
@@ -80,6 +90,16 @@
     </item>
     
     <item>
+      <title>Garden Review</title>
+      <link>http://localhost:1313/categories/garden-review/</link>
+      <pubDate>Wed, 01 Oct 2025 10:57:31 +0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/garden-review/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Scholarly Article</title>
       <link>http://localhost:1313/categories/scholarly-article/</link>
       <pubDate>Sun, 28 Sep 2025 11:41:53 +0300</pubDate>
@@ -135,26 +155,6 @@
       <pubDate>Fri, 12 Sep 2025 15:30:46 +0300</pubDate>
       
       <guid>http://localhost:1313/categories/about/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Garden Review</title>
-      <link>http://localhost:1313/categories/garden-review/</link>
-      <pubDate>Mon, 01 Sep 2025 03:35:57 +0300</pubDate>
-      
-      <guid>http://localhost:1313/categories/garden-review/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Moments</title>
-      <link>http://localhost:1313/categories/moments/</link>
-      <pubDate>Sat, 19 Jul 2025 15:52:21 +0300</pubDate>
-      
-      <guid>http://localhost:1313/categories/moments/</guid>
       <description></description>
       
     </item>

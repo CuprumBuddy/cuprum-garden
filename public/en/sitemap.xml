@@ -10,13 +10,13 @@
   </url>
   <url>
     <loc>http://localhost:1313/moments/2025-10-24-joined-the-r.o.s.e/</loc>
-    <lastmod>2025-10-27T10:54:29+03:00</lastmod>
+    <lastmod>2025-10-27T11:05:43+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/moments/</loc>
-    <lastmod>2025-10-27T10:54:29+03:00</lastmod>
+    <lastmod>2025-10-27T11:05:43+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -75,6 +75,18 @@
   <url>
     <loc>http://localhost:1313/sources/the-seductive-allure-of-neuro-self-help-tommy-blanchard/</loc>
     <lastmod>2025-10-02T14:31:20+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/garden_reviews/2025-10-garden-review/</loc>
+    <lastmod>2025-10-27T11:25:51+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/garden_reviews/</loc>
+    <lastmod>2025-10-27T11:25:51+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -180,12 +192,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/garden_reviews/2025-09-garden-review/</loc>
-    <lastmod>2025-09-30T16:18:02+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/garden_reviews/</loc>
     <lastmod>2025-09-30T16:18:02+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -342,7 +348,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/moments/2025-03-30-making-mistakes/</loc>
-    <lastmod>2025-07-20T07:16:05+03:00</lastmod>
+    <lastmod>2025-10-27T11:05:43+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
