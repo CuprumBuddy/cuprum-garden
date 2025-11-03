@@ -21,12 +21,12 @@
     
     <item>
       <title>2025-10-24 Joined the R.O.S.E</title>
-      <link>http://localhost:1313/moments/2025-10-24-joined-the-r.o.s.e/</link>
+      <link>http://localhost:1313/moments/2025-10-24-joined-the-rose/</link>
       <pubDate>Sat, 25 Oct 2025 02:54:23 +0300</pubDate>
       
-      <guid>http://localhost:1313/moments/2025-10-24-joined-the-r.o.s.e/</guid>
+      <guid>http://localhost:1313/moments/2025-10-24-joined-the-rose/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/moments/2025-10-24-joined-the-r.o.s.e/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/moments/2025-10-24-joined-the-rose/feature.png" />
     </item>
     
     <item>
@@ -467,6 +467,16 @@
       <guid>http://localhost:1313/sources/expedia-presents-great-britain/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/expedia-presents-great-britain/feature.png" />
+    </item>
+    
+    <item>
+      <title>Rationality: From AI to Zombie – A Roadmap</title>
+      <link>http://localhost:1313/projects/rationality-from-ai-to-zombie--a-roadmap/</link>
+      <pubDate>Wed, 02 Apr 2025 07:40:43 +0300</pubDate>
+      
+      <guid>http://localhost:1313/projects/rationality-from-ai-to-zombie--a-roadmap/</guid>
+      <description></description>
+      
     </item>
     
     <item>

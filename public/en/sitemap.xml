@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/quoteroll/</loc>
-    <lastmod>2025-10-21T15:51:26+03:00</lastmod>
+    <lastmod>2025-10-31T10:52:06+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -80,13 +80,13 @@
   </url>
   <url>
     <loc>http://localhost:1313/garden_reviews/2025-10-garden-review/</loc>
-    <lastmod>2025-10-27T11:25:51+03:00</lastmod>
+    <lastmod>2025-10-31T10:52:06+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/garden_reviews/</loc>
-    <lastmod>2025-10-27T11:25:51+03:00</lastmod>
+    <lastmod>2025-10-31T10:52:06+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -343,6 +343,12 @@
   <url>
     <loc>http://localhost:1313/sources/expedia-presents-great-britain/</loc>
     <lastmod>2025-09-20T17:52:04+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/rationality-from-ai-to-zombie--a-roadmap/</loc>
+    <lastmod>2025-11-03T09:28:05+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
