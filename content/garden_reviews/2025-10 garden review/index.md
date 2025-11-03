@@ -30,7 +30,7 @@ layout:
 
 ## Moments
 Published:
-- [2025-10-24 Joined the R.O.S.E](https://cuprumbuddy.github.io/cuprum-garden/moments/2025-10-24-joined-the-r.o.s.e/)
+- [2025-10-24 Joined the R.O.S.E](https://cuprumbuddy.github.io/cuprum-garden/moments/2025-10-24-joined-the-rose/)
 ## Projects
 Published:
 - [“We have university at home” but it's a list of materials that I actually used](https://cuprumbuddy.github.io/cuprum-garden/sources/we-have-university-at-home-but-its-a-list-of-materials-that-i-actually-used/)

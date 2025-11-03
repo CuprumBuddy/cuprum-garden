@@ -29,8 +29,8 @@ In other words, I know that:
 - Indeed, over the years (starting from 2006-2009) there were tons of discussions, either in comments, in stand-alone blog posts or during reading clubs
 - I can’t get myself to read the Sequences myself, so I’d like to create a reading format that would be fun enough for me, yet potentially useful for the others as well
 
-My main inspiration sources for this project were [:The Guild of the Rose](https://cuprumbuddy.github.io/cuprum-garden/moments/2025-10-24-joined-the-rose/) and [The Farmer Was Replaced](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/). Both provide a roadmap: 
+My main inspiration sources for this project were [The Guild of the Rose](https://cuprumbuddy.github.io/cuprum-garden/moments/2025-10-24-joined-the-rose/) and [The Farmer Was Replaced](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/). Both provide a roadmap: 
 - The Guild of the Rose allows to choose from three different archetypes (i.e. three different study paths), so one can learn what they find the most relevant at the moment
 - The Farmer was Replaced teaches the player Python in an inherently self-paced way: one can easily skip the early game if it feels too easy, but one also can postpone advancing further, giving themselves more time to understand not even the syntax, but the algorithms required to solve another puzzle
 
-I haven’t mentioned yet that Rationality: From AI to Zombie has whopping 333 essays. It’s around 1300 pages in the PDF version from 2015. It’s also a crazy amount of work to cover everything – so at first I’ll focus on mindmaps based on one essay (+ maybe some comments), than – hopefully by then my motivation doesn’t die in the process – will try to create something bigger.
+I haven’t mentioned yet that Rationality: From AI to Zombie has whopping 333 essays. It’s around 1300 pages in the PDF version from 2015. It’s also a crazy amount of work to cover everything – so at first I’ll focus on mindmaps based on one essay (+ maybe some comments), then – hopefully by then my motivation doesn’t die in the process – will try to create something bigger.

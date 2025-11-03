@@ -10,6 +10,16 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>🖋 Biases: An Introduction〈Rob Bensinger〉</title>
+      <link>http://localhost:1313/sources/biases---an-introduction-rob-bensinger/</link>
+      <pubDate>Sun, 02 Nov 2025 09:20:28 +0300</pubDate>
+      
+      <guid>http://localhost:1313/sources/biases---an-introduction-rob-bensinger/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sources/biases---an-introduction-rob-bensinger/feature.svg" />
+    </item>
+    
+    <item>
       <title>📚 backlog</title>
       <link>http://localhost:1313/projects/backlog/</link>
       <pubDate>Sat, 25 Oct 2025 14:01:15 +0300</pubDate>
