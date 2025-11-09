@@ -7,14 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 25 Oct 2025 02:54:23 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Nov 2025 09:20:28 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Base Rate Neglect</title>
+      <link>http://localhost:1313/tags/base-rate-neglect/</link>
+      <pubDate>Sun, 02 Nov 2025 09:20:28 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/base-rate-neglect/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bias Blindness</title>
+      <link>http://localhost:1313/tags/bias-blindness/</link>
+      <pubDate>Sun, 02 Nov 2025 09:20:28 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/bias-blindness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cognitive Biases</title>
+      <link>http://localhost:1313/tags/cognitive-biases/</link>
+      <pubDate>Sun, 02 Nov 2025 09:20:28 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/cognitive-biases/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Rationality</title>
       <link>http://localhost:1313/tags/rationality/</link>
-      <pubDate>Sat, 25 Oct 2025 02:54:23 +0300</pubDate>
+      <pubDate>Sun, 02 Nov 2025 09:20:28 +0300</pubDate>
       
       <guid>http://localhost:1313/tags/rationality/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Statistical Bias</title>
+      <link>http://localhost:1313/tags/statistical-bias/</link>
+      <pubDate>Sun, 02 Nov 2025 09:20:28 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/statistical-bias/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>http://localhost:1313/tags/statistics/</link>
+      <pubDate>Sun, 02 Nov 2025 09:20:28 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/statistics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sunk Cost Fallacy</title>
+      <link>http://localhost:1313/tags/sunk-cost-fallacy/</link>
+      <pubDate>Sun, 02 Nov 2025 09:20:28 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/sunk-cost-fallacy/</guid>
       <description></description>
       
     </item>
@@ -675,16 +735,6 @@
       <pubDate>Sun, 28 Sep 2025 11:41:53 +0300</pubDate>
       
       <guid>http://localhost:1313/tags/spelling-errors/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>http://localhost:1313/tags/statistics/</link>
-      <pubDate>Sun, 28 Sep 2025 11:41:53 +0300</pubDate>
-      
-      <guid>http://localhost:1313/tags/statistics/</guid>
       <description></description>
       
     </item>

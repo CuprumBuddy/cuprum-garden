@@ -3,32 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/projects/backlog/</loc>
-    <lastmod>2025-10-26T20:06:09+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/moments/2025-10-24-joined-the-r.o.s.e/</loc>
-    <lastmod>2025-10-27T11:05:43+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/moments/</loc>
-    <lastmod>2025-10-27T11:05:43+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/sources/when-a-deep-character-pretends-to-be-shallow...-hobie-brown-schnee/</loc>
-    <lastmod>2025-10-21T15:51:26+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/sources/</loc>
-    <lastmod>2025-10-21T15:51:26+03:00</lastmod>
+    <lastmod>2025-11-03T15:13:28+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -41,6 +17,36 @@
       hreflang="en"
       href="http://localhost:1313/sources/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/sources/biases---an-introduction-rob-bensinger/</loc>
+    <lastmod>2025-11-03T15:13:28+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/backlog/</loc>
+    <lastmod>2025-10-26T20:06:09+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/moments/2025-10-24-joined-the-rose/</loc>
+    <lastmod>2025-11-03T11:02:21+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/moments/</loc>
+    <lastmod>2025-11-03T11:02:21+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/sources/when-a-deep-character-pretends-to-be-shallow...-hobie-brown-schnee/</loc>
+    <lastmod>2025-10-21T15:51:26+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/projects/quoteroll/</loc>
@@ -80,13 +86,13 @@
   </url>
   <url>
     <loc>http://localhost:1313/garden_reviews/2025-10-garden-review/</loc>
-    <lastmod>2025-10-31T10:52:06+03:00</lastmod>
+    <lastmod>2025-11-03T15:13:28+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/garden_reviews/</loc>
-    <lastmod>2025-10-31T10:52:06+03:00</lastmod>
+    <lastmod>2025-11-03T15:13:28+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
