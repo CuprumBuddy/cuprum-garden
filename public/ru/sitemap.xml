@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/ru/</loc>
+    <lastmod>2025-05-17T17:31:52+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="http://localhost:1313/ru/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/ru/musings/</loc>
     <lastmod>2025-05-17T17:31:52+03:00</lastmod>
     <changefreq>daily</changefreq>
@@ -23,22 +39,6 @@
     <lastmod>2025-05-17T17:31:52+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ru/</loc>
-    <lastmod>2025-05-17T17:31:52+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="http://localhost:1313/ru/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/ru/sources/</loc>
